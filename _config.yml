@@ -21,3 +21,5 @@ plugins:
   - jekyll-archives
 
 markdown: kramdown
+
+navigation: main

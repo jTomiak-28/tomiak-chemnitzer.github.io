@@ -2,6 +2,15 @@ title: "My Website"
 description: "Built with Minimal Mistakes and GitHub Pages"
 theme: null
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+url: "https://tomiakchemnitzer.com"
+
+author:
+  name: "Josh Tomiak"
+  bio: >-
+    Josh studies music, computer science, and religion at UVA (class of 2026).
+    When his granparents showed him the Chemnitzer concertina that his great-grandather Walter Maczka played, 
+    he was intrigued and set out to learn more about its story (and how to play it, a little!)
+    This site became his medium to share the info he learned and the beautiful sound of the concertina.
 
 plugins:
   - jekyll-include-cache

@@ -1,1 +1,14 @@
+title: "My Website"
+description: "Built with Minimal Mistakes and GitHub Pages"
 theme: null
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-archives
+
+markdown: kramdown

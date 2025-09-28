@@ -2,7 +2,8 @@
 layout: home
 title: "Home"
 author_profile: true
-overlay_image: /assets/images/concertina/concertina-hero.jpg
+paginate: false
+overlay_image: /assets/images/chemnitzer-left.jpg
   overlay_filter: 0.5
   caption: "My great-grandfather’s Chemnitzer concertina"
 ---

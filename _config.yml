@@ -25,3 +25,8 @@ markdown: kramdown
 navigation: main
 include:
   - _pages
+
+collections:
+  manuscript-archive:
+    output: true
+    permalink: /manuscript-archive/:path/

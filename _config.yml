@@ -27,6 +27,12 @@ navigation: main
 include:
   - _pages
 
+footer:
+  links:  # leave empty or define only the links you want
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/jTomiak-28/tomiak-chemnitzer.github.io"
+
 collections:
   manuscript-archive:
     output: true

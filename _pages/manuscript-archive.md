@@ -1,7 +1,7 @@
 ---
 title: "Manuscript Archive"
 layout: archive
-collection: manuscript-archive
+collection: manuscripts
 permalink: /manuscript-archive/
 entries_layout: grid
 ---

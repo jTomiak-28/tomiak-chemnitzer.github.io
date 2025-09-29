@@ -36,6 +36,6 @@ atom_feed:
   hide: true
 
 collections:
-  manuscript-archive:
+  manuscripts:
     output: true
     permalink: /manuscript-archive/:slug/

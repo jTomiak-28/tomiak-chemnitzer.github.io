@@ -18,7 +18,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-archives
 
 markdown: kramdown

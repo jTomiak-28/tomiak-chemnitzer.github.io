@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: splash
 title: "Home"
+permalink: /
 author_profile: true
-paginate: false
-overlay_image: /assets/images/chemnitzer-left.jpg
+header:
+  overlay_image: /assets/images/chemnitzer-left.jpg
   overlay_filter: 0.5
   caption: "My great-grandfather’s Chemnitzer concertina"
 ---

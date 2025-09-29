@@ -38,4 +38,4 @@ atom_feed:
 collections:
   manuscript-archive:
     output: true
-    permalink: /manuscript-archive/:path/
+    permalink: /manuscript-archive/:slug/

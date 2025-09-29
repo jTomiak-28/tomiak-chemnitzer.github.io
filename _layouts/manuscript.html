@@ -11,7 +11,7 @@ layout: single
         {% assign k = pair[0] %}
         {% assign v = pair[1] %}
         {% unless reserved contains k or v == nil or v == "" %}
-          {% if k == "file_name" %}
+          {% if k == "pdf" %}
             <dt>File</dt>
             <dd><a href="{{ v | relative_url }}" target="_blank">Download PDF</a></dd>
           {% else %}

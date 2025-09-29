@@ -32,6 +32,9 @@ footer:
         icon: "fab fa-fw fa-github"
         url: "https://github.com/jTomiak-28/tomiak-chemnitzer.github.io"
 
+atom_feed:
+  hide: true
+
 collections:
   manuscript-archive:
     output: true

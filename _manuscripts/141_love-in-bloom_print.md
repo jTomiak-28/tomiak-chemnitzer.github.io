@@ -1,0 +1,18 @@
+---
+title: "Love in Bloom"
+number: "8656"
+key: "G major"
+meter: "2/2"
+piece_type: "foxtrot"
+appears_in: ""She Loves Me Not" (Paramount Picture)"
+composer: "Leo Robin and Ralph Rainger"
+arranger: "Frank F. Schmidt"
+publisher: "Henry Silberhorn"
+publication_place: "521 Milwaukee Ave., Chicago, Ill."
+copyright_holder: "Famous Music Corp."
+copyright_year: "1934"
+medium: "print"
+pdf: "/assets/manuscripts/141_love-in-bloom_print.pdf"
+notes: "Tempo marking: "Slowly, with expression""
+layout: manuscript
+---

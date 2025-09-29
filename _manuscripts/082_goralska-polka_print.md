@@ -1,0 +1,18 @@
+---
+title: "Goralska Polka"
+translation: "Highlander's Polka"
+number: "2695"
+key: "D minor"
+meter: "2/4"
+piece_type: "polka"
+appears_in: "V+E Polish Dance Collection no. 5"
+arranger: "Geo. Paluch"
+publisher: "Vitak-Elsnic Co."
+publication_place: "Chicago, Ill."
+copyright_holder: "Vitak-Elsnic Co."
+copyright_year: "1928"
+medium: "print"
+pdf: "/assets/manuscripts/082_goralska-polka_print.pdf"
+notes: "Rare D minor key, modulates to D Major"
+layout: manuscript
+---

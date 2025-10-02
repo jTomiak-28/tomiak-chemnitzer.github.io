@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/296_you-are-my-sunshine_print.pdf"
 layout: manuscript
 ---
+You Are My Sunshine

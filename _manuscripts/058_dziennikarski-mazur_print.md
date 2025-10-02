@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/058_dziennikarski-mazur_print.pdf"
 layout: manuscript
 ---
+Dziennikarski Mazur

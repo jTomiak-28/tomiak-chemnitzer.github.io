@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/289_with-my-eyes-wide_print.pdf"
 layout: manuscript
 ---
+With My Eyes Wide Open I'm Dreaming

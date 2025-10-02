@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/229_roztargniony-walec_print.pdf"
 layout: manuscript
 ---
+Roztargniony Walec

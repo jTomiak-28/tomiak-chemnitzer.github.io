@@ -9,3 +9,4 @@ pdf: "/assets/manuscripts/026_bruno-flisak-krakowiak_pen.pdf"
 notes: ""Bruno" written at top"
 layout: manuscript
 ---
+Flisak Krakowiak

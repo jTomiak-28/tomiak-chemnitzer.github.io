@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/269_wabash-blues_print.pdf"
 layout: manuscript
 ---
+Wabash Blues

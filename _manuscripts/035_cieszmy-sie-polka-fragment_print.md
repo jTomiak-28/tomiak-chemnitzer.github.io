@@ -13,3 +13,4 @@ pdf: "/assets/manuscripts/035_cieszmy-sie-polka-fragment_print.pdf"
 notes: "Fragment, publisher name cut off"
 layout: manuscript
 ---
+Cieszmy Się Polka

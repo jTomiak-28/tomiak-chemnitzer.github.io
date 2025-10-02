@@ -11,3 +11,4 @@ pdf: "/assets/manuscripts/143_lucia-polka_print.pdf"
 notes: "Duplicate of ID#142, but with a different publisher. Arrangement appears the same."
 layout: manuscript
 ---
+Lucia Polka

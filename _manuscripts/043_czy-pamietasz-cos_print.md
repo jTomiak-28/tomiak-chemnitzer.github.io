@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/043_czy-pamietasz-cos_print.pdf"
 layout: manuscript
 ---
+Czy Pamietasz Cóś Mowiła

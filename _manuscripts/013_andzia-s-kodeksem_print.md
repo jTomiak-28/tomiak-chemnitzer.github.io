@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/013_andzia-s-kodeksem_print.pdf"
 layout: manuscript
 ---
+Andzia s Kodeksem

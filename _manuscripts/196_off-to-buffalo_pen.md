@@ -7,3 +7,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/196_off-to-buffalo_pen.pdf"
 layout: manuscript
 ---
+Shuffle Off to Buffalo

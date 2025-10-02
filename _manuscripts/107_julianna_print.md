@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/107_julianna_print.pdf"
 layout: manuscript
 ---
+Julianna

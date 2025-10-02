@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/183_naokolo-ciemny-las_print.pdf"
 layout: manuscript
 ---
+Naokoło Ciemny Las

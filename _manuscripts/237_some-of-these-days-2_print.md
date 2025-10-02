@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/237_some-of-these-days-2_print.pdf"
 layout: manuscript
 ---
+Some Of These Days

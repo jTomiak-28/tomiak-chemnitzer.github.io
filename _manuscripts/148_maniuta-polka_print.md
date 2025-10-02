@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/148_maniuta-polka_print.pdf"
 layout: manuscript
 ---
+Maniuta Polka

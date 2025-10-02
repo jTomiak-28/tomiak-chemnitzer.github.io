@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/170_na-chrzcinach-dubiela_print.pdf"
 layout: manuscript
 ---
+Na Chrzcinach u Dubiela

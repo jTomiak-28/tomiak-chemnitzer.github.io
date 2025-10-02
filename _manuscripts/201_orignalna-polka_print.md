@@ -14,3 +14,4 @@ pdf: "/assets/manuscripts/201_orignalna-polka_print.pdf"
 notes: "Title is unclear, likely intended to be humorous"
 layout: manuscript
 ---
+Originalna Polka Pogotowie

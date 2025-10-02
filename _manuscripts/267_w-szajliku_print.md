@@ -13,3 +13,4 @@ pdf: "/assets/manuscripts/267_w-szajliku_print.pdf"
 notes: "Duplicate of ID#266, but in a different typeset and slightly more worn"
 layout: manuscript
 ---
+W. Szafliku-Polka No. 1

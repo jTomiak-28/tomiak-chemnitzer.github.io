@@ -15,3 +15,4 @@ pdf: "/assets/manuscripts/017_bartender-polka_print.pdf"
 notes: "Has note, "As played on Victor Record V-613 by Will Glahe""
 layout: manuscript
 ---
+Bartender Polka

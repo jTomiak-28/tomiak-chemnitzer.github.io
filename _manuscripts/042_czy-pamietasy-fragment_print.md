@@ -14,3 +14,4 @@ pdf: "/assets/manuscripts/042_czy-pamietasy-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
 ---
+Czy Pamiętasy Cóś Mowiła

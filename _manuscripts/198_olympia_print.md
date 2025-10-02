@@ -9,3 +9,4 @@ medium: "print"
 pdf: "/assets/manuscripts/198_olympia_print.pdf"
 layout: manuscript
 ---
+Olympia

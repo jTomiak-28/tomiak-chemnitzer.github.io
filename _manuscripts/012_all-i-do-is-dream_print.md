@@ -16,3 +16,4 @@ pdf: "/assets/manuscripts/012_all-i-do-is-dream_print.pdf"
 notes: "Appears in musical, has tempo marking: "slowly""
 layout: manuscript
 ---
+All I Do Is Dream of You

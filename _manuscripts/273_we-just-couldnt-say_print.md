@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/273_we-just-couldnt-say_print.pdf"
 layout: manuscript
 ---
+We Just Couldn't Say Good-bye

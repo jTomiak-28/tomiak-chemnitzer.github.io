@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/147_malgorzatka-galop_print.pdf"
 layout: manuscript
 ---
+Malgozartka Galop

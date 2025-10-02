@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/130_kujawiak-z-oberkiem_print.pdf"
 layout: manuscript
 ---
+Kujawiak z Oberkiem

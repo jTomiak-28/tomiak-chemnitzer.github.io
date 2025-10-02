@@ -7,3 +7,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/176_na-szary-wisly_pen.pdf"
 layout: manuscript
 ---
+Na Szary Wisły Brzeg

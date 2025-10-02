@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/245_sweet-bunch-of-daisies_print.pdf"
 layout: manuscript
 ---
+Sweet Bunch Of Daisies

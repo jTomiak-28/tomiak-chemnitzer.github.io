@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/144_lulus-back-in_print.pdf"
 layout: manuscript
 ---
+Lulu's Back in Town

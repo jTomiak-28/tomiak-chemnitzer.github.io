@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/125_kujawiak-7_print.pdf"
 layout: manuscript
 ---
+Kujawiak No. 7.

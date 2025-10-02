@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/014_bacznosc_print.pdf"
 layout: manuscript
 ---
+Baczność

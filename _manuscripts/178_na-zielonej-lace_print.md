@@ -10,3 +10,4 @@ medium: "print"
 pdf: "/assets/manuscripts/178_na-zielonej-lace_print.pdf"
 layout: manuscript
 ---
+Na Źielonej Łące

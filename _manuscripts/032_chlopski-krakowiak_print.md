@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/032_chlopski-krakowiak_print.pdf"
 layout: manuscript
 ---
+Chłopski Krakowiak

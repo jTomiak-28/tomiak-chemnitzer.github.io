@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/078_good-night-my-love_print.pdf"
 layout: manuscript
 ---
+Good Night My Love

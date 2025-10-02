@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/129_kujawiak-staro-krajski_print.pdf"
 layout: manuscript
 ---
+Kujawiak Staro Krajski

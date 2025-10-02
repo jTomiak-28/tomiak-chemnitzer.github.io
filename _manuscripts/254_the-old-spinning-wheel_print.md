@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/254_the-old-spinning-wheel_print.pdf"
 layout: manuscript
 ---
+The Old Spinning Wheel

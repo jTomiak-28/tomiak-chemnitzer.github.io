@@ -6,3 +6,4 @@ medium: "print"
 pdf: "/assets/manuscripts/070_G major-p3-fragment_print.pdf"
 layout: manuscript
 ---
+G major End Fragment

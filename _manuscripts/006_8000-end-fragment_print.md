@@ -7,3 +7,4 @@ medium: "print"
 pdf: "/assets/manuscripts/006_8000-end-fragment_print.pdf"
 layout: manuscript
 ---
+8000 End Fragment

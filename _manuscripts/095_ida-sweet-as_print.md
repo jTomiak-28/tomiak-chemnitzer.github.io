@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/095_ida-sweet-as_print.pdf"
 layout: manuscript
 ---
+Ida! Sweet As Apple Cider

@@ -10,3 +10,4 @@ medium: "print"
 pdf: "/assets/manuscripts/240_south-side-galop_print.pdf"
 layout: manuscript
 ---
+South Side Galop No. 1

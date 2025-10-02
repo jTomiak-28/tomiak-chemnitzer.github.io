@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/137_lida-polka_print.pdf"
 layout: manuscript
 ---
+Lida Polka

@@ -10,3 +10,4 @@ medium: "print"
 pdf: "/assets/manuscripts/231_secita_print.pdf"
 layout: manuscript
 ---
+Secita-Polka

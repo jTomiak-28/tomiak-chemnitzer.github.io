@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/099_im-sure-of-everything_print.pdf"
 layout: manuscript
 ---
+I'm Sure of Everything But You

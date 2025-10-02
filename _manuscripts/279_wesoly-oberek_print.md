@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/279_wesoly-oberek_print.pdf"
 layout: manuscript
 ---
+Wesoły Oberek

@@ -12,3 +12,4 @@ pdf: "/assets/manuscripts/065_four-polish-dances_print.pdf"
 notes: "Group of four pieces in different keys, times, and piece types"
 layout: manuscript
 ---
+Four Polish Dances

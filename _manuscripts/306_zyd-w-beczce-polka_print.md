@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/306_zyd-w-beczce-polka_print.pdf"
 layout: manuscript
 ---
+Zyd w Beczce, Polka

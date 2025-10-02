@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/187_nie-idzie-to_print.pdf"
 layout: manuscript
 ---
+Nie Idzie To Polka

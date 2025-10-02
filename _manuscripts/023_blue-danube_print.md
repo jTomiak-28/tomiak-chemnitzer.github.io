@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/023_blue-danube_print.pdf"
 layout: manuscript
 ---
+On the Beautiful Blue Danube

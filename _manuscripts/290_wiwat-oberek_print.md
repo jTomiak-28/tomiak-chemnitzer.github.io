@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/290_wiwat-oberek_print.pdf"
 layout: manuscript
 ---
+Wiwat Oberek

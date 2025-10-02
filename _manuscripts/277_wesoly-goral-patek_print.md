@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/277_wesoly-goral-patek_print.pdf"
 layout: manuscript
 ---
+Wesoly Goral

@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/157_mazur-gorskiego_print.pdf"
 layout: manuscript
 ---
+Mazur Gorskiego

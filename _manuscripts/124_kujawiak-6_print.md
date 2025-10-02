@@ -10,3 +10,4 @@ pdf: "/assets/manuscripts/124_kujawiak-6_print.pdf"
 notes: "Publisher cut off at bottom"
 layout: manuscript
 ---
+Kujawiak No. 6

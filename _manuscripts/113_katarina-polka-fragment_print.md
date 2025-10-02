@@ -12,3 +12,4 @@ pdf: "/assets/manuscripts/113_katarina-polka-fragment_print.pdf"
 notes: "Fragment, edges heavily worn"
 layout: manuscript
 ---
+Katarina Polka

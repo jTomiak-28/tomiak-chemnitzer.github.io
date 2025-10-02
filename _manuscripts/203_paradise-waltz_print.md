@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/203_paradise-waltz_print.pdf"
 layout: manuscript
 ---
+Paradise

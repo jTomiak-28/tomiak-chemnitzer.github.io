@@ -16,3 +16,4 @@ medium: "print"
 pdf: "/assets/manuscripts/236_smutna-dziewczyna_print.pdf"
 layout: manuscript
 ---
+Smutna Dziewczyna Polka

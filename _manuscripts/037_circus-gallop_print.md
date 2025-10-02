@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/037_circus-gallop_print.pdf"
 layout: manuscript
 ---
+Circus Galop

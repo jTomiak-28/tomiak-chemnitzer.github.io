@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/215_pogotowie_print.pdf"
 layout: manuscript
 ---
+Pogotowie Polka

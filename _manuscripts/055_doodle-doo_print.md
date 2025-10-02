@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/055_doodle-doo_print.pdf"
 layout: manuscript
 ---
+Doodle-Doo-Doo

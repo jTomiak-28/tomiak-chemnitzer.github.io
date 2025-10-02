@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/117_koniec-swiata_print.pdf"
 layout: manuscript
 ---
+Koniec Swiata Polka

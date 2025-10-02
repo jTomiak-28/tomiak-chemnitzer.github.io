@@ -8,3 +8,4 @@ pdf: "/assets/manuscripts/016_barbara-polka_pen.pdf"
 notes: "Copied from entry 015"
 layout: manuscript
 ---
+Barbara Polka

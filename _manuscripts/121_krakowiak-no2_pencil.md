@@ -7,3 +7,4 @@ medium: "pencil"
 pdf: "/assets/manuscripts/121_krakowiak-no2_pencil.pdf"
 layout: manuscript
 ---
+Krakowiak No. 2

@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/080_goofus-fox-trot_print.pdf"
 layout: manuscript
 ---
+Goofus

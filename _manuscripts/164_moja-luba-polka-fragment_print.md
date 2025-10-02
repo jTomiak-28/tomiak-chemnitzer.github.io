@@ -10,3 +10,4 @@ pdf: "/assets/manuscripts/164_moja-luba-polka-fragment_print.pdf"
 notes: "Fragment, edges on left side heavily worn"
 layout: manuscript
 ---
+Moja Luba Polka

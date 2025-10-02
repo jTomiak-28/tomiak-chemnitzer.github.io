@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/138_lithuanian-vestuviu_print.pdf"
 layout: manuscript
 ---
+Lithuanian Vestuviu

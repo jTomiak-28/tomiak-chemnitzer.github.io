@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/266_w-szafliku-polka_print.pdf"
 layout: manuscript
 ---
+W Szafliku Polka No. 1

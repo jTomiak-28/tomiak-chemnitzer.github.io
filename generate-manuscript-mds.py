@@ -59,6 +59,7 @@ def main():
             # Always include layout
             front_matter.append("layout: manuscript")
             front_matter.append("---")
+            front_matter.append(row.get("title"))
             front_matter.append("")
 
             # Write file

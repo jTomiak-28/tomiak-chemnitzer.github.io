@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/298_youre-telling-me_print.pdf"
 layout: manuscript
 ---
+You're Telling Me

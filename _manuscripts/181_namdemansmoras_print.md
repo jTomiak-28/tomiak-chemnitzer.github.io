@@ -13,3 +13,4 @@ pdf: "/assets/manuscripts/181_namdemansmoras_print.pdf"
 notes: "Swedish language title and dance type (hambo)"
 layout: manuscript
 ---
+Nämdemansmoras Hambo

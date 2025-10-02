@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/280_wesoly-pijak_print.pdf"
 layout: manuscript
 ---
+Wesoły Pijak

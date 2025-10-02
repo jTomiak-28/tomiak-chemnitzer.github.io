@@ -15,3 +15,4 @@ pdf: "/assets/manuscripts/097_ill-be-faithful_print.pdf"
 notes: "Includes tempo marking "Slow""
 layout: manuscript
 ---
+I'll Be Faithful

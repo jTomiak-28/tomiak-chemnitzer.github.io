@@ -14,3 +14,4 @@ pdf: "/assets/manuscripts/009_a-perfect-day_print.pdf"
 notes: "Includes snippet of "I Love You Truly" as introduction"
 layout: manuscript
 ---
+A Perfect Day

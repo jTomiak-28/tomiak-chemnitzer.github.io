@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/300_z-malopolski_print.pdf"
 layout: manuscript
 ---
+Z Małopolski

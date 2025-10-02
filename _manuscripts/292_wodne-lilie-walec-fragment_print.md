@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/292_wodne-lilie-walec-fragment_print.pdf"
 layout: manuscript
 ---
+Wodne Lilie Walec

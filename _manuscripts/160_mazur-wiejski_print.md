@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/160_mazur-wiejski_print.pdf"
 layout: manuscript
 ---
+Mazur Wiejski

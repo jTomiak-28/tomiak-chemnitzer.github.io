@@ -6,3 +6,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/027_bruno_pen.pdf"
 layout: manuscript
 ---
+Bruno

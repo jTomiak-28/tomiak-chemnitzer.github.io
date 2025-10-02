@@ -10,3 +10,4 @@ pdf: "/assets/manuscripts/278_wesoly-goral-sitek_print.pdf"
 notes: "Not the same piece as ID#277, "Wesoly Goral""
 layout: manuscript
 ---
+Wesoly Góral Mazur

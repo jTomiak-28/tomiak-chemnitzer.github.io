@@ -10,3 +10,4 @@ medium: "print"
 pdf: "/assets/manuscripts/287_wiosna-mazurka_print.pdf"
 layout: manuscript
 ---
+Wiosna - Mazurka

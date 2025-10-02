@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/190_oberek-ujejski_print.pdf"
 layout: manuscript
 ---
+Oberek Ujejski

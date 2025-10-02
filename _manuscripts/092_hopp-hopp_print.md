@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/092_hopp-hopp_print.pdf"
 layout: manuscript
 ---
+Hopp Hopp

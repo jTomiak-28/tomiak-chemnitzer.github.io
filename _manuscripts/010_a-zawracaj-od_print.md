@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/010_a-zawracaj-od_print.pdf"
 layout: manuscript
 ---
+A Zawracaj Od Komina

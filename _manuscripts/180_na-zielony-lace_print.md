@@ -15,3 +15,4 @@ pdf: "/assets/manuscripts/180_na-zielony-lace_print.pdf"
 notes: "Second title given: "Przeweodnik" (Leader)"
 layout: manuscript
 ---
+Na Zielony Łące

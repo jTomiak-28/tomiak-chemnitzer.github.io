@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/262_u-mojego-wuja_print.pdf"
 layout: manuscript
 ---
+U Mojego Wuja

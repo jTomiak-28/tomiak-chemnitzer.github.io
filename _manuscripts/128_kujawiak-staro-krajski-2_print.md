@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/128_kujawiak-staro-krajski-2_print.pdf"
 layout: manuscript
 ---
+Kujawiak Staro Krajski No.2

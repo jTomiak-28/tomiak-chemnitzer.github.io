@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/077_good-night-little-girl_print.pdf"
 layout: manuscript
 ---
+Good Night Little Girl of My Dreams

@@ -11,3 +11,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/193_od-krzaczkado_pen.pdf"
 layout: manuscript
 ---
+Od Krzaczka do Krzaczka Walc

@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/191_oberek-w-obie-strony_print.pdf"
 layout: manuscript
 ---
+Oberek w Obie Strony

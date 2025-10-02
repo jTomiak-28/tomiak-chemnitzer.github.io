@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/260_troske-mi-sie_print.pdf"
 layout: manuscript
 ---
+Troszke Mi Sie Chciało

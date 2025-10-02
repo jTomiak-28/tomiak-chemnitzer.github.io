@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/060_evryone-says-i-love_print.pdf"
 layout: manuscript
 ---
+Ev'ryone Says "I Love You"

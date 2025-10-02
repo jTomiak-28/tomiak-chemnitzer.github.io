@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/159_mazur-modejeckiego_print.pdf"
 layout: manuscript
 ---
+Mazur Modejeckiego

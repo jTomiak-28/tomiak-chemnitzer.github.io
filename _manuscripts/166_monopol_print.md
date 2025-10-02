@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/166_monopol_print.pdf"
 layout: manuscript
 ---
+Monopol Polka

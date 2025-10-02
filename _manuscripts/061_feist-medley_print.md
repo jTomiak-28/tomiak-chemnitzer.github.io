@@ -14,3 +14,4 @@ pdf: "/assets/manuscripts/061_feist-medley_print.pdf"
 notes: "Medley of "Feather Your Nest", "Goofus", and "The Darktown Strutters Ball""
 layout: manuscript
 ---
+Feist Medley Fox Trot No. 1

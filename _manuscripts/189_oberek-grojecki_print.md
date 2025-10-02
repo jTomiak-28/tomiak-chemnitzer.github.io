@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/189_oberek-grojecki_print.pdf"
 layout: manuscript
 ---
+Oberek Grojecki

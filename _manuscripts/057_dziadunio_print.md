@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/057_dziadunio_print.pdf"
 layout: manuscript
 ---
+Dziadunio

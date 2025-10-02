@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/119_krakowiak-2_print.pdf"
 layout: manuscript
 ---
+Krakowiak No. 2.

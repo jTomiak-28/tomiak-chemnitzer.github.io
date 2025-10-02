@@ -7,3 +7,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/008_a-little-street_pen.pdf"
 layout: manuscript
 ---
+A Little Street Where Old Friends Meet

@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/155_mazur-20_print.pdf"
 layout: manuscript
 ---
+Mazur No. 20

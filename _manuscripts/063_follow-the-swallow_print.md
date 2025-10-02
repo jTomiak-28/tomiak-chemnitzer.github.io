@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/063_follow-the-swallow_print.pdf"
 layout: manuscript
 ---
+Follow The Swallow

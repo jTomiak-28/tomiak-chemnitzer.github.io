@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/118_kotka-polka_print.pdf"
 layout: manuscript
 ---
+Kotka Polka

@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/161_mazur-z-dembicy_print.pdf"
 layout: manuscript
 ---
+Mazur z Dembicy

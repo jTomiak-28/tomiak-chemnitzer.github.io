@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/133_laczka-zielona_print.pdf"
 layout: manuscript
 ---
+Laczka Zielona-Walc

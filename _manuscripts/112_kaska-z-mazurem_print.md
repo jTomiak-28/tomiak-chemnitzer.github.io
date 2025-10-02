@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/112_kaska-z-mazurem_print.pdf"
 layout: manuscript
 ---
+Kaśka z Mazurem

@@ -9,3 +9,4 @@ pdf: "/assets/manuscripts/001_19320-end-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
 ---
+19320 End Fragment

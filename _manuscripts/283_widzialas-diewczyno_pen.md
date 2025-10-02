@@ -8,3 +8,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/283_widzialas-diewczyno_pen.pdf"
 layout: manuscript
 ---
+Widzialaś Diewczyno Ten Kamień Nad Woda

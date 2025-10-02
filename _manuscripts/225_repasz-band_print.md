@@ -14,3 +14,4 @@ pdf: "/assets/manuscripts/225_repasz-band_print.pdf"
 notes: "Dynamic marking "ff", Same arrangement, older copyright, different publisher cf ID#224"
 layout: manuscript
 ---
+Repasz Band

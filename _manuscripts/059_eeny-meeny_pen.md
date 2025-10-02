@@ -7,3 +7,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/059_eeny-meeny_pen.pdf"
 layout: manuscript
 ---
+Eeny-Meeny-Miney-Mo

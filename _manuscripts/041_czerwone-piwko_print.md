@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/041_czerwone-piwko_print.pdf"
 layout: manuscript
 ---
+Czerwone Piwko Polka

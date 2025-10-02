@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/150_marsz-dla-mlodej_print.pdf"
 layout: manuscript
 ---
+Marsz Dla Młodej Pary

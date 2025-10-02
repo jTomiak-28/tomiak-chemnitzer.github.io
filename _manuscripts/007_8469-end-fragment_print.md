@@ -8,3 +8,4 @@ pdf: "/assets/manuscripts/007_8469-end-fragment_print.pdf"
 notes: "Chords notated"
 layout: manuscript
 ---
+8469 End Fragment

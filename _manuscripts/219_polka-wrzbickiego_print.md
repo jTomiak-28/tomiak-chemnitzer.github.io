@@ -16,3 +16,4 @@ medium: "print"
 pdf: "/assets/manuscripts/219_polka-wrzbickiego_print.pdf"
 layout: manuscript
 ---
+Polka Wrzbickiego

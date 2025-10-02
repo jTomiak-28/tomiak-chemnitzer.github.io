@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/253_the-missourit-waltz_print.pdf"
 layout: manuscript
 ---
+The Missouri Waltz

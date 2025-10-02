@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/272_wanda-polka_print.pdf"
 layout: manuscript
 ---
+Wanda Polka

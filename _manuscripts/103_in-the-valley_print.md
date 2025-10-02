@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/103_in-the-valley_print.pdf"
 layout: manuscript
 ---
+In The Valley Of The Moon

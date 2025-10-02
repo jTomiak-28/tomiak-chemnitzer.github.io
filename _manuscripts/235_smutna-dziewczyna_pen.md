@@ -15,3 +15,4 @@ medium: "pen"
 pdf: "/assets/manuscripts/235_smutna-dziewczyna_pen.pdf"
 layout: manuscript
 ---
+Smutna Dziewczyna

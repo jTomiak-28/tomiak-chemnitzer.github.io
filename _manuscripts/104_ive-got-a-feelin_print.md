@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/104_ive-got-a-feelin_print.pdf"
 layout: manuscript
 ---
+I've Got A Feelin' You're Foolin'

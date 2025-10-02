@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/305_zwielkiej-polski_print.pdf"
 layout: manuscript
 ---
+Z Wielkiej Polski

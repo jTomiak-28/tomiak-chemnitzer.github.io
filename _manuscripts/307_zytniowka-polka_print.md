@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/307_zytniowka-polka_print.pdf"
 layout: manuscript
 ---
+Zytniowka - Polka

@@ -10,3 +10,4 @@ medium: "print"
 pdf: "/assets/manuscripts/185_nasz-kosciuszko-dobry_print.pdf"
 layout: manuscript
 ---
+Nasz Kosciuszko Dobry Był

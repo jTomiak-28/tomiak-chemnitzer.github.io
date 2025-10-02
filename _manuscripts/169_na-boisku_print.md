@@ -16,3 +16,4 @@ medium: "print"
 pdf: "/assets/manuscripts/169_na-boisku_print.pdf"
 layout: manuscript
 ---
+Na Boisku

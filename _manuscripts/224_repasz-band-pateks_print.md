@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/224_repasz-band-pateks_print.pdf"
 layout: manuscript
 ---
+Repasz Band

@@ -14,3 +14,4 @@ pdf: "/assets/manuscripts/238_some-of-these-days_print.pdf"
 notes: "Alternate print of ID#237 by same publisher, same arrangement"
 layout: manuscript
 ---
+Some Of These Days

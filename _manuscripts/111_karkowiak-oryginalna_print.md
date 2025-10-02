@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/111_karkowiak-oryginalna_print.pdf"
 layout: manuscript
 ---
+Krakowiak Oryginalna

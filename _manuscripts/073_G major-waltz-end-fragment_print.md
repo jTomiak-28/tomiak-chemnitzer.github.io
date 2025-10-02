@@ -7,3 +7,4 @@ medium: "print"
 pdf: "/assets/manuscripts/073_G major-waltz-end-fragment_print.pdf"
 layout: manuscript
 ---
+G major Waltz End Fragment

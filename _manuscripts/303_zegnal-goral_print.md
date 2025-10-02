@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/303_zegnal-goral_print.pdf"
 layout: manuscript
 ---
+Zegnal Goral Goralke

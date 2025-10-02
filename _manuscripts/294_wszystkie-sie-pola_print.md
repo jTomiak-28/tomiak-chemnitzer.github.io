@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/294_wszystkie-sie-pola_print.pdf"
 layout: manuscript
 ---
+Wszystkie Sie Pola Zazielenily

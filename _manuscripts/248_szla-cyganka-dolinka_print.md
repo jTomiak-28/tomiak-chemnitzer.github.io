@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/248_szla-cyganka-dolinka_print.pdf"
 layout: manuscript
 ---
+Szła Cyganka Dolinką

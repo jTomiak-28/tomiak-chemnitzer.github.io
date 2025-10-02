@@ -13,3 +13,4 @@ medium: "print"
 pdf: "/assets/manuscripts/028_bukowina-mazurek_print.pdf"
 layout: manuscript
 ---
+Bukowina Mazurek

@@ -10,3 +10,4 @@ pdf: "/assets/manuscripts/257_trink-bruderlein_pen.pdf"
 notes: "Popular German song"
 layout: manuscript
 ---
+Trink, Trink, Brüderlein Trink

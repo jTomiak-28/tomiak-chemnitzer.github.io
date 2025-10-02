@@ -16,3 +16,4 @@ medium: "print"
 pdf: "/assets/manuscripts/126_kujawiak-muszynskiego_print.pdf"
 layout: manuscript
 ---
+Kujawiak Muszynskiego

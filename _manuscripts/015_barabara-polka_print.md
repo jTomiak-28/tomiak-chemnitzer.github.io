@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/015_barabara-polka_print.pdf"
 layout: manuscript
 ---
+Barbara Polka

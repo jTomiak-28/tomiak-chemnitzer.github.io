@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/102_in-the-chapel_print.pdf"
 layout: manuscript
 ---
+In the Chapel in the Moonlight

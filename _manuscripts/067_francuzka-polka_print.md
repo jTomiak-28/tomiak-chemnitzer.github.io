@@ -9,3 +9,4 @@ medium: "print"
 pdf: "/assets/manuscripts/067_francuzka-polka_print.pdf"
 layout: manuscript
 ---
+Francuzka Polka

@@ -16,3 +16,4 @@ medium: "print"
 pdf: "/assets/manuscripts/221_pomalusku-nawracaicie_print.pdf"
 layout: manuscript
 ---
+Pomaluśku Nawracaicie

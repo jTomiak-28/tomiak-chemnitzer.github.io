@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/172_na-lewo-fragment_print.pdf"
 layout: manuscript
 ---
+Na Lewo

@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/276_wesole-wesole_print.pdf"
 layout: manuscript
 ---
+Wesole Wesele

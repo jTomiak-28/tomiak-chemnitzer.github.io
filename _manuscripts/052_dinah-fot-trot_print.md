@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/052_dinah-fot-trot_print.pdf"
 layout: manuscript
 ---
+Dinah

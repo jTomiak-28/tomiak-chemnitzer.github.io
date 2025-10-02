@@ -16,3 +16,4 @@ medium: "print"
 pdf: "/assets/manuscripts/299_z-gory-marcina_print.pdf"
 layout: manuscript
 ---
+Z Góry Marcina

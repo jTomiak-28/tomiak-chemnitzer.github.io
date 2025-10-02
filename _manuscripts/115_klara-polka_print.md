@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/115_klara-polka_print.pdf"
 layout: manuscript
 ---
+Klara Polka

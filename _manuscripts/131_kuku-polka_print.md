@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/131_kuku-polka_print.pdf"
 layout: manuscript
 ---
+Kuku "Polka"

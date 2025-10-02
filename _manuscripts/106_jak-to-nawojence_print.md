@@ -14,3 +14,4 @@ pdf: "/assets/manuscripts/106_jak-to-nawojence_print.pdf"
 notes: "A different arrangement of ID#105"
 layout: manuscript
 ---
+Jak to Nawojence Ładnie

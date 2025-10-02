@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/233_slowik-polka_print.pdf"
 layout: manuscript
 ---
+Słowik Polka

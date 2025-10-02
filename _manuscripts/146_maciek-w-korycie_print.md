@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/146_maciek-w-korycie_print.pdf"
 layout: manuscript
 ---
+Maciek w Korycie

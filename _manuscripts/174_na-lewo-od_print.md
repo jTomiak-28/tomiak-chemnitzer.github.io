@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/174_na-lewo-od_print.pdf"
 layout: manuscript
 ---
+Na Lewo od Borzęcina

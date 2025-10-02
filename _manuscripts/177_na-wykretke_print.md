@@ -16,3 +16,4 @@ medium: "print"
 pdf: "/assets/manuscripts/177_na-wykretke_print.pdf"
 layout: manuscript
 ---
+Na Wykretke

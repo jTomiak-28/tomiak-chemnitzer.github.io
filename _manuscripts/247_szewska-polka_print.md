@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/247_szewska-polka_print.pdf"
 layout: manuscript
 ---
+Szewska Polka

@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/184_narodowa-polka_print.pdf"
 layout: manuscript
 ---
+Narodowa Polka

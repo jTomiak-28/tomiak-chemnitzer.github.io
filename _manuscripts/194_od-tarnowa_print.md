@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/194_od-tarnowa_print.pdf"
 layout: manuscript
 ---
+Od Tarnowa

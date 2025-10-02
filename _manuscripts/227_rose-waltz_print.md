@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/227_rose-waltz_print.pdf"
 layout: manuscript
 ---
+Rose Waltz

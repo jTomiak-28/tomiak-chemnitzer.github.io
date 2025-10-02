@@ -15,3 +15,4 @@ pdf: "/assets/manuscripts/274_wesele-u-witosa-hs_print.pdf"
 notes: "May refer to famous politician and peasant leader Wincenty Witos"
 layout: manuscript
 ---
+Wesele U Witosa

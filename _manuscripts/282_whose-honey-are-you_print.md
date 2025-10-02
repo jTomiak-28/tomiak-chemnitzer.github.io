@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/282_whose-honey-are-you_print.pdf"
 layout: manuscript
 ---
+Whose Honey Are You?

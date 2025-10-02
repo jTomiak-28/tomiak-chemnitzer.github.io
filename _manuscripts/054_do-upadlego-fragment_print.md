@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/054_do-upadlego-fragment_print.pdf"
 layout: manuscript
 ---
+Do Upadłego

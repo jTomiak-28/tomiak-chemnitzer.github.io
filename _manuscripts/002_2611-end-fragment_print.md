@@ -8,3 +8,4 @@ pdf: "/assets/manuscripts/002_2611-end-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
 ---
+2611 End Fragment

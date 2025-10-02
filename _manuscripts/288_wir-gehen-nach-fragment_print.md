@@ -13,3 +13,4 @@ pdf: "/assets/manuscripts/288_wir-gehen-nach-fragment_print.pdf"
 notes: "Fragment, right edges worn"
 layout: manuscript
 ---
+Wir Gehen Nach Lindenau

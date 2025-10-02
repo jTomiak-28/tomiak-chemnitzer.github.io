@@ -15,3 +15,4 @@ medium: "print"
 pdf: "/assets/manuscripts/110_kanarek-polka_print.pdf"
 layout: manuscript
 ---
+Kanarek Polka

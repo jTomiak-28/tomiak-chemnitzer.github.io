@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/212_pod-zielonym_print.pdf"
 layout: manuscript
 ---
+Pod Zielonym Dębem

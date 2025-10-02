@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/109_just-one-more-chance_print.pdf"
 layout: manuscript
 ---
+Just One More Chance

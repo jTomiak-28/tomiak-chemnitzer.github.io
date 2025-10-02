@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/089_hello-beautiful_print.pdf"
 layout: manuscript
 ---
+Hello, Beautiful!

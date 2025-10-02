@@ -12,3 +12,4 @@ pdf: "/assets/manuscripts/286_wilczek-polka_print.pdf"
 notes: "Title could refer to surname- "Wilczek's Polka" or a literal translation- "Little Wolf Polka""
 layout: manuscript
 ---
+Wilczek Polka

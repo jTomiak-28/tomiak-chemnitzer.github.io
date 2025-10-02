@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/127_kujawiak-no8_print.pdf"
 layout: manuscript
 ---
+Dzien Dobry Kujawiak

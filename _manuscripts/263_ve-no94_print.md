@@ -8,3 +8,4 @@ pdf: "/assets/manuscripts/263_ve-no94_print.pdf"
 notes: "Fragment- second page of a two-page work"
 layout: manuscript
 ---
+V. E. No. 94 Fragment

@@ -14,3 +14,4 @@ medium: "print"
 pdf: "/assets/manuscripts/211_po-staremu_print.pdf"
 layout: manuscript
 ---
+Po Staremu

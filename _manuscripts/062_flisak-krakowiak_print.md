@@ -11,3 +11,4 @@ medium: "print"
 pdf: "/assets/manuscripts/062_flisak-krakowiak_print.pdf"
 layout: manuscript
 ---
+Flisak Krakowiak

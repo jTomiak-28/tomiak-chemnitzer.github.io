@@ -12,3 +12,4 @@ medium: "print"
 pdf: "/assets/manuscripts/158_mazur-madeja_print.pdf"
 layout: manuscript
 ---
+Mazur Madeja

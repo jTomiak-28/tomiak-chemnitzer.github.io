@@ -9,3 +9,4 @@ medium: "print"
 pdf: "/assets/manuscripts/302_zawierucha_print.pdf"
 layout: manuscript
 ---
+Zawierucha - Mazur

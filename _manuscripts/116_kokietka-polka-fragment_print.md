@@ -13,5 +13,7 @@ copyright_year: "1912"
 medium: "print"
 pdf: "/assets/manuscripts/116_kokietka-polka-fragment_print.pdf"
 layout: manuscript
+excerpt: "Kokietka Polka"
+teaser: "assets/images/manuscript-images/116_kokietka-polka-fragment_print.jpg"
 ---
 Kokietka Polka

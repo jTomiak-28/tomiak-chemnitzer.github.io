@@ -7,5 +7,7 @@ piece_type: "polka"
 medium: "pen"
 pdf: "/assets/manuscripts/066_francuszka-polka_pen.pdf"
 layout: manuscript
+excerpt: "Francuzka-Polka"
+teaser: "assets/images/manuscript-images/066_francuszka-polka_pen.jpg"
 ---
 Francuzka-Polka

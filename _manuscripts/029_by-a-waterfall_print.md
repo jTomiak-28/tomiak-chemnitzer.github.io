@@ -13,5 +13,7 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/029_by-a-waterfall_print.pdf"
 layout: manuscript
+excerpt: "By a Waterfall"
+teaser: "assets/images/manuscript-images/029_by-a-waterfall_print.jpg"
 ---
 By a Waterfall

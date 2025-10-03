@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/155_mazur-20_print.pdf"
 layout: manuscript
+excerpt: "Mazur No. 20"
+teaser: "assets/images/manuscript-images/155_mazur-20_print.jpg"
 ---
 Mazur No. 20

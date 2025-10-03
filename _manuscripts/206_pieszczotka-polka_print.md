@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/206_pieszczotka-polka_print.pdf"
 layout: manuscript
+excerpt: "Piesczotka Polka"
+teaser: "assets/images/manuscript-images/206_pieszczotka-polka_print.jpg"
 ---
 Piesczotka Polka

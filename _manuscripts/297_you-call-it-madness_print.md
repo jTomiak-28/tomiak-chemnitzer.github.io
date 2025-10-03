@@ -13,5 +13,7 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/297_you-call-it-madness_print.pdf"
 layout: manuscript
+excerpt: "You Call It Madness But I Call It Love"
+teaser: "assets/images/manuscript-images/297_you-call-it-madness_print.jpg"
 ---
 You Call It Madness But I Call It Love

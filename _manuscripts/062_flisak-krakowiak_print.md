@@ -10,5 +10,7 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/062_flisak-krakowiak_print.pdf"
 layout: manuscript
+excerpt: "Flisak Krakowiak"
+teaser: "assets/images/manuscript-images/062_flisak-krakowiak_print.jpg"
 ---
 Flisak Krakowiak

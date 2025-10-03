@@ -13,5 +13,7 @@ copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/298_youre-telling-me_print.pdf"
 layout: manuscript
+excerpt: "You're Telling Me"
+teaser: "assets/images/manuscript-images/298_youre-telling-me_print.jpg"
 ---
 You're Telling Me

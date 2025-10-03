@@ -11,5 +11,7 @@ copyright_year: "1911"
 medium: "print"
 pdf: "/assets/manuscripts/075_german-home-sweet_print.pdf"
 layout: manuscript
+excerpt: "German Home Sweet Home"
+teaser: "assets/images/manuscript-images/075_german-home-sweet_print.jpg"
 ---
 German Home Sweet Home

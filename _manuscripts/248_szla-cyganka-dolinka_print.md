@@ -13,5 +13,7 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/248_szla-cyganka-dolinka_print.pdf"
 layout: manuscript
+excerpt: "Szła Cyganka Dolinką"
+teaser: "assets/images/manuscript-images/248_szla-cyganka-dolinka_print.jpg"
 ---
 Szła Cyganka Dolinką

@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/110_kanarek-polka_print.pdf"
 layout: manuscript
+excerpt: "Kanarek Polka"
+teaser: "assets/images/manuscript-images/110_kanarek-polka_print.jpg"
 ---
 Kanarek Polka

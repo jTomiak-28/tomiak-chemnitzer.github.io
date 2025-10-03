@@ -13,5 +13,7 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/254_the-old-spinning-wheel_print.pdf"
 layout: manuscript
+excerpt: "The Old Spinning Wheel"
+teaser: "assets/images/manuscript-images/254_the-old-spinning-wheel_print.jpg"
 ---
 The Old Spinning Wheel

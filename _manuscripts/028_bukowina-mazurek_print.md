@@ -12,5 +12,7 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/028_bukowina-mazurek_print.pdf"
 layout: manuscript
+excerpt: "Bukowina Mazurek"
+teaser: "assets/images/manuscript-images/028_bukowina-mazurek_print.jpg"
 ---
 Bukowina Mazurek

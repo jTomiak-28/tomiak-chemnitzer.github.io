@@ -15,5 +15,7 @@ copyright_year: "1928"
 medium: "print"
 pdf: "/assets/manuscripts/236_smutna-dziewczyna_print.pdf"
 layout: manuscript
+excerpt: "Smutna Dziewczyna Polka"
+teaser: "assets/images/manuscript-images/236_smutna-dziewczyna_print.jpg"
 ---
 Smutna Dziewczyna Polka

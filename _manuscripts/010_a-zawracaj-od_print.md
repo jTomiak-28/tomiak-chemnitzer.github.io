@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/010_a-zawracaj-od_print.pdf"
 layout: manuscript
+excerpt: "A Zawracaj Od Komina"
+teaser: "assets/images/manuscript-images/010_a-zawracaj-od_print.jpg"
 ---
 A Zawracaj Od Komina

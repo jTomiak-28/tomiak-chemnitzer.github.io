@@ -9,5 +9,7 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/185_nasz-kosciuszko-dobry_print.pdf"
 layout: manuscript
+excerpt: "Nasz Kosciuszko Dobry Był"
+teaser: "assets/images/manuscript-images/185_nasz-kosciuszko-dobry_print.jpg"
 ---
 Nasz Kosciuszko Dobry Był

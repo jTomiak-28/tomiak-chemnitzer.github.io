@@ -9,5 +9,7 @@ medium: "pen"
 pdf: "/assets/manuscripts/257_trink-bruderlein_pen.pdf"
 notes: "Popular German song"
 layout: manuscript
+excerpt: "Trink, Trink, Brüderlein Trink"
+teaser: "assets/images/manuscript-images/257_trink-bruderlein_pen.jpg"
 ---
 Trink, Trink, Brüderlein Trink

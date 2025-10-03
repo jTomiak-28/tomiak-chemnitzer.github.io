@@ -8,5 +8,7 @@ medium: "pen"
 pdf: "/assets/manuscripts/026_bruno-flisak-krakowiak_pen.pdf"
 notes: ""Bruno" written at top"
 layout: manuscript
+excerpt: "Flisak Krakowiak"
+teaser: "assets/images/manuscript-images/026_bruno-flisak-krakowiak_pen.jpg"
 ---
 Flisak Krakowiak

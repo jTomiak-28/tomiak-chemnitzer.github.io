@@ -10,5 +10,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/119_krakowiak-2_print.pdf"
 layout: manuscript
+excerpt: "Krakowiak No. 2."
+teaser: "assets/images/manuscript-images/119_krakowiak-2_print.jpg"
 ---
 Krakowiak No. 2.

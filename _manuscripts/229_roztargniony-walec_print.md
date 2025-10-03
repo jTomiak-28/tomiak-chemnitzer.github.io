@@ -11,5 +11,7 @@ publication_place: "1011 Milwaukee Ave., Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/229_roztargniony-walec_print.pdf"
 layout: manuscript
+excerpt: "Roztargniony Walec"
+teaser: "assets/images/manuscript-images/229_roztargniony-walec_print.jpg"
 ---
 Roztargniony Walec

@@ -6,5 +6,7 @@ piece_type: "krakowiak"
 medium: "pencil"
 pdf: "/assets/manuscripts/121_krakowiak-no2_pencil.pdf"
 layout: manuscript
+excerpt: "Krakowiak No. 2"
+teaser: "assets/images/manuscript-images/121_krakowiak-no2_pencil.jpg"
 ---
 Krakowiak No. 2

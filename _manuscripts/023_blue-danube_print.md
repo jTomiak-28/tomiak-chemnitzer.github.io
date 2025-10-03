@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/023_blue-danube_print.pdf"
 layout: manuscript
+excerpt: "On the Beautiful Blue Danube"
+teaser: "assets/images/manuscript-images/023_blue-danube_print.jpg"
 ---
 On the Beautiful Blue Danube

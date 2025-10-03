@@ -10,5 +10,7 @@ publication_place: "835 Milwaukee Ave., Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/015_barabara-polka_print.pdf"
 layout: manuscript
+excerpt: "Barbara Polka"
+teaser: "assets/images/manuscript-images/015_barabara-polka_print.jpg"
 ---
 Barbara Polka

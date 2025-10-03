@@ -10,5 +10,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/165_monopol-pateks_print.pdf"
 layout: manuscript
+excerpt: "Monopol Polka"
+teaser: "assets/images/manuscript-images/165_monopol-pateks_print.jpg"
 ---
 Monopol Polka

@@ -12,5 +12,7 @@ copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/213_podhalanka-polka_print.pdf"
 layout: manuscript
+excerpt: "Podhalanka Polka"
+teaser: "assets/images/manuscript-images/213_podhalanka-polka_print.jpg"
 ---
 Podhalanka Polka

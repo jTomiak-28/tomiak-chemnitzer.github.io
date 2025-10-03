@@ -12,5 +12,7 @@ copyright_year: "1910"
 medium: "print"
 pdf: "/assets/manuscripts/136_let-me-call-you_print.pdf"
 layout: manuscript
+excerpt: "Let Me Call You Sweetheart"
+teaser: "assets/images/manuscript-images/136_let-me-call-you_print.jpg"
 ---
 Let Me Call You Sweetheart

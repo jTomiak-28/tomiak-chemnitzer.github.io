@@ -14,5 +14,7 @@ copyright_year: "1924"
 medium: "print"
 pdf: "/assets/manuscripts/189_oberek-grojecki_print.pdf"
 layout: manuscript
+excerpt: "Oberek Grojecki"
+teaser: "assets/images/manuscript-images/189_oberek-grojecki_print.jpg"
 ---
 Oberek Grojecki

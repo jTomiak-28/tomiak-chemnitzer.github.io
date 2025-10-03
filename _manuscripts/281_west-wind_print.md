@@ -10,5 +10,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/281_west-wind_print.pdf"
 layout: manuscript
+excerpt: "West Wind"
+teaser: "assets/images/manuscript-images/281_west-wind_print.jpg"
 ---
 West Wind

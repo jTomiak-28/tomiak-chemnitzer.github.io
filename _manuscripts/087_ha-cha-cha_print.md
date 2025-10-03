@@ -14,5 +14,7 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/087_ha-cha-cha_print.pdf"
 layout: manuscript
+excerpt: "Ha-Cha-Cha"
+teaser: "assets/images/manuscript-images/087_ha-cha-cha_print.jpg"
 ---
 Ha-Cha-Cha

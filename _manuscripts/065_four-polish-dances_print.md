@@ -11,5 +11,7 @@ medium: "print"
 pdf: "/assets/manuscripts/065_four-polish-dances_print.pdf"
 notes: "Group of four pieces in different keys, times, and piece types"
 layout: manuscript
+excerpt: "Four Polish Dances"
+teaser: "assets/images/manuscript-images/065_four-polish-dances_print.jpg"
 ---
 Four Polish Dances

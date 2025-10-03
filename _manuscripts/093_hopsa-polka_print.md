@@ -13,5 +13,7 @@ copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/093_hopsa-polka_print.pdf"
 layout: manuscript
+excerpt: "Hopsa Polka"
+teaser: "assets/images/manuscript-images/093_hopsa-polka_print.jpg"
 ---
 Hopsa Polka

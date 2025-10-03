@@ -13,5 +13,7 @@ copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/243_springtime-in-the-rockies-fragment_print.pdf"
 layout: manuscript
+excerpt: "When It's Springtime In The Rockies"
+teaser: "assets/images/manuscript-images/243_springtime-in-the-rockies-fragment_print.jpg"
 ---
 When It's Springtime In The Rockies

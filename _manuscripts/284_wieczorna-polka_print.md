@@ -12,5 +12,7 @@ medium: "print"
 pdf: "/assets/manuscripts/284_wieczorna-polka_print.pdf"
 notes: "Includes cornet part for cornet in A (melody written in Bb)"
 layout: manuscript
+excerpt: "Wieczorna Polka"
+teaser: "assets/images/manuscript-images/284_wieczorna-polka_print.jpg"
 ---
 Wieczorna Polka

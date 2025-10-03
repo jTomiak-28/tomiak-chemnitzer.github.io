@@ -13,5 +13,7 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/019_be-still-my-heart_print.pdf"
 layout: manuscript
+excerpt: "Be Still, My Heart"
+teaser: "assets/images/manuscript-images/019_be-still-my-heart_print.jpg"
 ---
 Be Still, My Heart

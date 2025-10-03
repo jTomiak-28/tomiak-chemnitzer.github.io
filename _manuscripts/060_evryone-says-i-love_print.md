@@ -13,5 +13,7 @@ copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/060_evryone-says-i-love_print.pdf"
 layout: manuscript
+excerpt: "Ev'ryone Says "I Love You""
+teaser: "assets/images/manuscript-images/060_evryone-says-i-love_print.jpg"
 ---
 Ev'ryone Says "I Love You"

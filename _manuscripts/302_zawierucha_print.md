@@ -8,5 +8,7 @@ piece_type: "mazurka"
 medium: "print"
 pdf: "/assets/manuscripts/302_zawierucha_print.pdf"
 layout: manuscript
+excerpt: "Zawierucha - Mazur"
+teaser: "assets/images/manuscript-images/302_zawierucha_print.jpg"
 ---
 Zawierucha - Mazur

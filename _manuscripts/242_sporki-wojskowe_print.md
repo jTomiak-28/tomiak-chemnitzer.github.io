@@ -11,5 +11,7 @@ medium: "print"
 pdf: "/assets/manuscripts/242_sporki-wojskowe_print.pdf"
 notes: "Includes cornet part for cornet in A (melody in F major)"
 layout: manuscript
+excerpt: "Sporki Wojskowe"
+teaser: "assets/images/manuscript-images/242_sporki-wojskowe_print.jpg"
 ---
 Sporki Wojskowe

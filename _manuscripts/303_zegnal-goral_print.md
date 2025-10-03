@@ -11,5 +11,7 @@ publication_place: "2149 W.22nd St., Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/303_zegnal-goral_print.pdf"
 layout: manuscript
+excerpt: "Zegnal Goral Goralke"
+teaser: "assets/images/manuscript-images/303_zegnal-goral_print.jpg"
 ---
 Zegnal Goral Goralke

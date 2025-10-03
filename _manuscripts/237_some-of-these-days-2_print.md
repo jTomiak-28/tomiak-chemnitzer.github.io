@@ -12,5 +12,7 @@ copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/237_some-of-these-days-2_print.pdf"
 layout: manuscript
+excerpt: "Some Of These Days"
+teaser: "assets/images/manuscript-images/237_some-of-these-days-2_print.jpg"
 ---
 Some Of These Days

@@ -13,5 +13,7 @@ copyright_year: "1930"
 medium: "print"
 pdf: "/assets/manuscripts/095_ida-sweet-as_print.pdf"
 layout: manuscript
+excerpt: "Ida! Sweet As Apple Cider"
+teaser: "assets/images/manuscript-images/095_ida-sweet-as_print.jpg"
 ---
 Ida! Sweet As Apple Cider

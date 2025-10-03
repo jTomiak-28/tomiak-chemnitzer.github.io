@@ -10,5 +10,7 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/305_zwielkiej-polski_print.pdf"
 layout: manuscript
+excerpt: "Z Wielkiej Polski"
+teaser: "assets/images/manuscript-images/305_zwielkiej-polski_print.jpg"
 ---
 Z Wielkiej Polski

@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/266_w-szafliku-polka_print.pdf"
 layout: manuscript
+excerpt: "W Szafliku Polka No. 1"
+teaser: "assets/images/manuscript-images/266_w-szafliku-polka_print.jpg"
 ---
 W Szafliku Polka No. 1

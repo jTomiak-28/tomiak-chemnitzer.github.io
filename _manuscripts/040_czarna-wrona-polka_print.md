@@ -12,5 +12,7 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/040_czarna-wrona-polka_print.pdf"
 layout: manuscript
+excerpt: "Czarna Wrona"
+teaser: "assets/images/manuscript-images/040_czarna-wrona-polka_print.jpg"
 ---
 Czarna Wrona

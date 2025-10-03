@@ -15,5 +15,7 @@ medium: "print"
 pdf: "/assets/manuscripts/141_love-in-bloom_print.pdf"
 notes: "Tempo marking: "Slowly, with expression""
 layout: manuscript
+excerpt: "Love in Bloom"
+teaser: "assets/images/manuscript-images/141_love-in-bloom_print.jpg"
 ---
 Love in Bloom

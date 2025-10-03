@@ -13,5 +13,7 @@ copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/307_zytniowka-polka_print.pdf"
 layout: manuscript
+excerpt: "Zytniowka - Polka"
+teaser: "assets/images/manuscript-images/307_zytniowka-polka_print.jpg"
 ---
 Zytniowka - Polka

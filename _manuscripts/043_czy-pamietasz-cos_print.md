@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/043_czy-pamietasz-cos_print.pdf"
 layout: manuscript
+excerpt: "Czy Pamietasz Cóś Mowiła"
+teaser: "assets/images/manuscript-images/043_czy-pamietasz-cos_print.jpg"
 ---
 Czy Pamietasz Cóś Mowiła

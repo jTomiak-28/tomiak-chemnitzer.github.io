@@ -13,5 +13,7 @@ copyright_year: "1936"
 medium: "print"
 pdf: "/assets/manuscripts/102_in-the-chapel_print.pdf"
 layout: manuscript
+excerpt: "In the Chapel in the Moonlight"
+teaser: "assets/images/manuscript-images/102_in-the-chapel_print.jpg"
 ---
 In the Chapel in the Moonlight

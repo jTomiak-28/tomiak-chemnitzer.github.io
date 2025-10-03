@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/163_mila-melodya_print.pdf"
 layout: manuscript
+excerpt: "Miła Melodya"
+teaser: "assets/images/manuscript-images/163_mila-melodya_print.jpg"
 ---
 Miła Melodya

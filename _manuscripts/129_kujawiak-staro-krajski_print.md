@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/129_kujawiak-staro-krajski_print.pdf"
 layout: manuscript
+excerpt: "Kujawiak Staro Krajski"
+teaser: "assets/images/manuscript-images/129_kujawiak-staro-krajski_print.jpg"
 ---
 Kujawiak Staro Krajski

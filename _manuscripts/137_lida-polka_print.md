@@ -13,5 +13,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/137_lida-polka_print.pdf"
 layout: manuscript
+excerpt: "Lida Polka"
+teaser: "assets/images/manuscript-images/137_lida-polka_print.jpg"
 ---
 Lida Polka

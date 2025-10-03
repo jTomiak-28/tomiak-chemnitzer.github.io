@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/279_wesoly-oberek_print.pdf"
 layout: manuscript
+excerpt: "Wesoły Oberek"
+teaser: "assets/images/manuscript-images/279_wesoly-oberek_print.jpg"
 ---
 Wesoły Oberek

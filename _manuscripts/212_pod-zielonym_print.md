@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/212_pod-zielonym_print.pdf"
 layout: manuscript
+excerpt: "Pod Zielonym Dębem"
+teaser: "assets/images/manuscript-images/212_pod-zielonym_print.jpg"
 ---
 Pod Zielonym Dębem

@@ -13,5 +13,7 @@ copyright_year: "1940"
 medium: "print"
 pdf: "/assets/manuscripts/296_you-are-my-sunshine_print.pdf"
 layout: manuscript
+excerpt: "You Are My Sunshine"
+teaser: "assets/images/manuscript-images/296_you-are-my-sunshine_print.jpg"
 ---
 You Are My Sunshine

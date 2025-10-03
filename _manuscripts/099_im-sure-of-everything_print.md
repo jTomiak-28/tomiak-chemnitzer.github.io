@@ -13,5 +13,7 @@ copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/099_im-sure-of-everything_print.pdf"
 layout: manuscript
+excerpt: "I'm Sure of Everything But You"
+teaser: "assets/images/manuscript-images/099_im-sure-of-everything_print.jpg"
 ---
 I'm Sure of Everything But You

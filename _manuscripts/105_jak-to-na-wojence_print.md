@@ -12,5 +12,7 @@ medium: "print"
 pdf: "/assets/manuscripts/105_jak-to-na-wojence_print.pdf"
 notes: "A very popular Polish song, title is ironic"
 layout: manuscript
+excerpt: "Jak To Na Wojence Ladnie"
+teaser: "assets/images/manuscript-images/105_jak-to-na-wojence_print.jpg"
 ---
 Jak To Na Wojence Ladnie

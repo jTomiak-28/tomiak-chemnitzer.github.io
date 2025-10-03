@@ -10,5 +10,7 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/184_narodowa-polka_print.pdf"
 layout: manuscript
+excerpt: "Narodowa Polka"
+teaser: "assets/images/manuscript-images/184_narodowa-polka_print.jpg"
 ---
 Narodowa Polka

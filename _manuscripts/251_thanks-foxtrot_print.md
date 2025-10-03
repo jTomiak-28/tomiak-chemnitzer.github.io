@@ -14,5 +14,7 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/251_thanks-foxtrot_print.pdf"
 layout: manuscript
+excerpt: "Thanks"
+teaser: "assets/images/manuscript-images/251_thanks-foxtrot_print.jpg"
 ---
 Thanks

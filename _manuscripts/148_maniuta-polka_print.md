@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/148_maniuta-polka_print.pdf"
 layout: manuscript
+excerpt: "Maniuta Polka"
+teaser: "assets/images/manuscript-images/148_maniuta-polka_print.jpg"
 ---
 Maniuta Polka

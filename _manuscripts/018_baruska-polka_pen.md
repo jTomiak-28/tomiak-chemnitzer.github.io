@@ -7,5 +7,7 @@ medium: "pen"
 pdf: "/assets/manuscripts/018_baruska-polka_pen.pdf"
 notes: "Duplicate of entry 016, also likely copied from one of these"
 layout: manuscript
+excerpt: "Barbara Polka"
+teaser: "assets/images/manuscript-images/018_baruska-polka_pen.jpg"
 ---
 Barbara Polka

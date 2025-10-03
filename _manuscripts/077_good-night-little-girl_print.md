@@ -12,5 +12,7 @@ copyright_holder: "Joe Morris Music Co."
 medium: "print"
 pdf: "/assets/manuscripts/077_good-night-little-girl_print.pdf"
 layout: manuscript
+excerpt: "Good Night Little Girl of My Dreams"
+teaser: "assets/images/manuscript-images/077_good-night-little-girl_print.jpg"
 ---
 Good Night Little Girl of My Dreams

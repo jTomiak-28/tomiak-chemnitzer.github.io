@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/160_mazur-wiejski_print.pdf"
 layout: manuscript
+excerpt: "Mazur Wiejski"
+teaser: "assets/images/manuscript-images/160_mazur-wiejski_print.jpg"
 ---
 Mazur Wiejski

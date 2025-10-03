@@ -15,5 +15,7 @@ medium: "print"
 pdf: "/assets/manuscripts/304_zegnam-cie_print.pdf"
 notes: "From the Hawaiian song "Aloha Oe" originally written by Queen Liliʻuokalani"
 layout: manuscript
+excerpt: "Żegnam Cie - Walc"
+teaser: "assets/images/manuscript-images/304_zegnam-cie_print.jpg"
 ---
 Żegnam Cie - Walc

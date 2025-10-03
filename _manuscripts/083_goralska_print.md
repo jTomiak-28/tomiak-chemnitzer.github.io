@@ -12,5 +12,7 @@ medium: "print"
 pdf: "/assets/manuscripts/083_goralska_print.pdf"
 notes: "The collection in which this originally appeared is not extant in my grandfather's belongings (the collection is noted in the bottom left of the page)"
 layout: manuscript
+excerpt: "Góralska Polka"
+teaser: "assets/images/manuscript-images/083_goralska_print.jpg"
 ---
 Góralska Polka

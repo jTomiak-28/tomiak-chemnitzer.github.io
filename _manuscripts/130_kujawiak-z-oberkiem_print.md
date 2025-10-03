@@ -12,5 +12,7 @@ copyright_year: "1915"
 medium: "print"
 pdf: "/assets/manuscripts/130_kujawiak-z-oberkiem_print.pdf"
 layout: manuscript
+excerpt: "Kujawiak z Oberkiem"
+teaser: "assets/images/manuscript-images/130_kujawiak-z-oberkiem_print.jpg"
 ---
 Kujawiak z Oberkiem

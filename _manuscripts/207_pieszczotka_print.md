@@ -10,5 +10,7 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/207_pieszczotka_print.pdf"
 layout: manuscript
+excerpt: "Pieszczotka"
+teaser: "assets/images/manuscript-images/207_pieszczotka_print.jpg"
 ---
 Pieszczotka

@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/147_malgorzatka-galop_print.pdf"
 layout: manuscript
+excerpt: "Malgozartka Galop"
+teaser: "assets/images/manuscript-images/147_malgorzatka-galop_print.jpg"
 ---
 Malgozartka Galop

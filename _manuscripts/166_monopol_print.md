@@ -12,5 +12,7 @@ copyright_year: "1923"
 medium: "print"
 pdf: "/assets/manuscripts/166_monopol_print.pdf"
 layout: manuscript
+excerpt: "Monopol Polka"
+teaser: "assets/images/manuscript-images/166_monopol_print.jpg"
 ---
 Monopol Polka

@@ -14,5 +14,7 @@ copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/144_lulus-back-in_print.pdf"
 layout: manuscript
+excerpt: "Lulu's Back in Town"
+teaser: "assets/images/manuscript-images/144_lulus-back-in_print.jpg"
 ---
 Lulu's Back in Town

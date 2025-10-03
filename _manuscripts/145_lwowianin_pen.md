@@ -9,5 +9,7 @@ copyright_year: "1933"
 medium: "pen"
 pdf: "/assets/manuscripts/145_lwowianin_pen.pdf"
 layout: manuscript
+excerpt: "Lwowianin"
+teaser: "assets/images/manuscript-images/145_lwowianin_pen.jpg"
 ---
 Lwowianin

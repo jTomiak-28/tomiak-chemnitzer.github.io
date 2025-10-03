@@ -10,5 +10,7 @@ medium: "print"
 pdf: "/assets/manuscripts/142_lucia-polka-pateks_print.pdf"
 notes: "Subtitle: "Owczarek" - probably a surname, maybe the composer"
 layout: manuscript
+excerpt: "Lucia Polka"
+teaser: "assets/images/manuscript-images/142_lucia-polka-pateks_print.jpg"
 ---
 Lucia Polka

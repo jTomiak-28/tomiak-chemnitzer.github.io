@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/011_ach-ich-bin_print.pdf"
 layout: manuscript
+excerpt: "Ach Ich Bin So Muede"
+teaser: "assets/images/manuscript-images/011_ach-ich-bin_print.jpg"
 ---
 Ach Ich Bin So Muede

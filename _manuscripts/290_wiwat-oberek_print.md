@@ -11,5 +11,7 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/290_wiwat-oberek_print.pdf"
 layout: manuscript
+excerpt: "Wiwat Oberek"
+teaser: "assets/images/manuscript-images/290_wiwat-oberek_print.jpg"
 ---
 Wiwat Oberek

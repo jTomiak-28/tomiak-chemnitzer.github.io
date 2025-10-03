@@ -7,5 +7,7 @@ arranger: "Wallie J. Sender"
 medium: "pen"
 pdf: "/assets/manuscripts/090_high-on-a-hilltop_pen.pdf"
 layout: manuscript
+excerpt: "High-on-a-Hilltop"
+teaser: "assets/images/manuscript-images/090_high-on-a-hilltop_pen.jpg"
 ---
 High-on-a-Hilltop

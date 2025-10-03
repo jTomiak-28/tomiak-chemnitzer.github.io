@@ -13,5 +13,7 @@ copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/199_on-treasure-island_print.pdf"
 layout: manuscript
+excerpt: "On Treasure Island"
+teaser: "assets/images/manuscript-images/199_on-treasure-island_print.jpg"
 ---
 On Treasure Island

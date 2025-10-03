@@ -12,5 +12,7 @@ medium: "print"
 pdf: "/assets/manuscripts/209_po-balu_print.pdf"
 notes: "Subtitle "Do Wuja Starca" means "To the old uncle""
 layout: manuscript
+excerpt: "Po Balu"
+teaser: "assets/images/manuscript-images/209_po-balu_print.jpg"
 ---
 Po Balu

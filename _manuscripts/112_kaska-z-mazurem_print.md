@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/112_kaska-z-mazurem_print.pdf"
 layout: manuscript
+excerpt: "Kaśka z Mazurem"
+teaser: "assets/images/manuscript-images/112_kaska-z-mazurem_print.jpg"
 ---
 Kaśka z Mazurem

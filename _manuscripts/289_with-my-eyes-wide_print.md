@@ -14,5 +14,7 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/289_with-my-eyes-wide_print.pdf"
 layout: manuscript
+excerpt: "With My Eyes Wide Open I'm Dreaming"
+teaser: "assets/images/manuscript-images/289_with-my-eyes-wide_print.jpg"
 ---
 With My Eyes Wide Open I'm Dreaming

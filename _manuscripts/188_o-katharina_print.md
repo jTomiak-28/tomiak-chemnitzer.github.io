@@ -13,5 +13,7 @@ copyright_year: "1924"
 medium: "print"
 pdf: "/assets/manuscripts/188_o-katharina_print.pdf"
 layout: manuscript
+excerpt: "O Katharina!"
+teaser: "assets/images/manuscript-images/188_o-katharina_print.jpg"
 ---
 O Katharina!

@@ -14,5 +14,7 @@ medium: "print"
 pdf: "/assets/manuscripts/186_neapolitan-nights_print.pdf"
 notes: "Back page includes ad for different concertina models"
 layout: manuscript
+excerpt: "Neapolitan Nights"
+teaser: "assets/images/manuscript-images/186_neapolitan-nights_print.jpg"
 ---
 Neapolitan Nights

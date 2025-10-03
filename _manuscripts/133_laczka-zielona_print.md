@@ -14,5 +14,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/133_laczka-zielona_print.pdf"
 layout: manuscript
+excerpt: "Laczka Zielona-Walc"
+teaser: "assets/images/manuscript-images/133_laczka-zielona_print.jpg"
 ---
 Laczka Zielona-Walc

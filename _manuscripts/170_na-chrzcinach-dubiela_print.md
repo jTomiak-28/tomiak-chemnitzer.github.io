@@ -13,5 +13,7 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/170_na-chrzcinach-dubiela_print.pdf"
 layout: manuscript
+excerpt: "Na Chrzcinach u Dubiela"
+teaser: "assets/images/manuscript-images/170_na-chrzcinach-dubiela_print.jpg"
 ---
 Na Chrzcinach u Dubiela

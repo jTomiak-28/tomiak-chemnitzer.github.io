@@ -13,5 +13,7 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/187_nie-idzie-to_print.pdf"
 layout: manuscript
+excerpt: "Nie Idzie To Polka"
+teaser: "assets/images/manuscript-images/187_nie-idzie-to_print.jpg"
 ---
 Nie Idzie To Polka

@@ -11,5 +11,7 @@ copyright_year: "1904"
 medium: "print"
 pdf: "/assets/manuscripts/224_repasz-band-pateks_print.pdf"
 layout: manuscript
+excerpt: "Repasz Band"
+teaser: "assets/images/manuscript-images/224_repasz-band-pateks_print.jpg"
 ---
 Repasz Band

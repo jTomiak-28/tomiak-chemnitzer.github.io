@@ -14,5 +14,7 @@ copyright_year: "1924"
 medium: "print"
 pdf: "/assets/manuscripts/190_oberek-ujejski_print.pdf"
 layout: manuscript
+excerpt: "Oberek Ujejski"
+teaser: "assets/images/manuscript-images/190_oberek-ujejski_print.jpg"
 ---
 Oberek Ujejski

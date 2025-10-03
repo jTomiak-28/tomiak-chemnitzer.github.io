@@ -15,5 +15,7 @@ copyright_year: "1928"
 medium: "print"
 pdf: "/assets/manuscripts/169_na-boisku_print.pdf"
 layout: manuscript
+excerpt: "Na Boisku"
+teaser: "assets/images/manuscript-images/169_na-boisku_print.jpg"
 ---
 Na Boisku

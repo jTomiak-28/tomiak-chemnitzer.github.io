@@ -15,5 +15,7 @@ copyright_year: "1928"
 medium: "print"
 pdf: "/assets/manuscripts/219_polka-wrzbickiego_print.pdf"
 layout: manuscript
+excerpt: "Polka Wrzbickiego"
+teaser: "assets/images/manuscript-images/219_polka-wrzbickiego_print.jpg"
 ---
 Polka Wrzbickiego

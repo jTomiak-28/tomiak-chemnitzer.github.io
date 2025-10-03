@@ -14,5 +14,7 @@ medium: "print"
 pdf: "/assets/manuscripts/079_good-night-sweetheart_print.pdf"
 notes: "Copyright based in England"
 layout: manuscript
+excerpt: "Good Night Sweetheart"
+teaser: "assets/images/manuscript-images/079_good-night-sweetheart_print.jpg"
 ---
 Good Night Sweetheart

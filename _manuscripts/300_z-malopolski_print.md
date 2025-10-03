@@ -14,5 +14,7 @@ copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/300_z-malopolski_print.pdf"
 layout: manuscript
+excerpt: "Z Małopolski"
+teaser: "assets/images/manuscript-images/300_z-malopolski_print.jpg"
 ---
 Z Małopolski

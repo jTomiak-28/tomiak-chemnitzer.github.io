@@ -14,5 +14,7 @@ copyright_year: "1936"
 medium: "print"
 pdf: "/assets/manuscripts/205_pennies-from-heaven_print.pdf"
 layout: manuscript
+excerpt: "Pennies From Heaven"
+teaser: "assets/images/manuscript-images/205_pennies-from-heaven_print.jpg"
 ---
 Pennies From Heaven

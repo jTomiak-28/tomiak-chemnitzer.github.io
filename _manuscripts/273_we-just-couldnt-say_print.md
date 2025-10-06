@@ -13,6 +13,6 @@ copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/273_we-just-couldnt-say_print.pdf"
 layout: manuscript
-excerpt: "We Just Couldn't Say Good-bye"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/273_we-just-couldnt-say_print.jpg"
 ---

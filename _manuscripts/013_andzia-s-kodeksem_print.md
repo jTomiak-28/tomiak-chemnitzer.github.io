@@ -12,6 +12,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/013_andzia-s-kodeksem_print.pdf"
 layout: manuscript
-excerpt: "Andzia s Kodeksem"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/013_andzia-s-kodeksem_print.jpg"
 ---

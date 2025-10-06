@@ -15,6 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/033_cieciorki-polka-book_print.pdf"
 notes: "Subtitled "Kirta Polka" (means "Festival Polka")"
 layout: manuscript
-excerpt: "Cieciorki Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/033_cieciorki-polka-book_print.jpg"
 ---

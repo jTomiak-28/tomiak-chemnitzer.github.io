@@ -13,6 +13,6 @@ medium: "print"
 pdf: "/assets/manuscripts/106_jak-to-nawojence_print.pdf"
 notes: "A different arrangement of ID#105"
 layout: manuscript
-excerpt: "Jak to Nawojence Ładnie"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/106_jak-to-nawojence_print.jpg"
 ---

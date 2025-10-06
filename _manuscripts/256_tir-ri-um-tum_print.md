@@ -12,6 +12,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/256_tir-ri-um-tum_print.pdf"
 layout: manuscript
-excerpt: "Tir-Ri-Um Tum Mazurka"
+excerpt: "A major, 3/4"
 teaser: "/assets/images/manuscript-images/256_tir-ri-um-tum_print.jpg"
 ---

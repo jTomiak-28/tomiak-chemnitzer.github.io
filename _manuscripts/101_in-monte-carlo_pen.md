@@ -6,6 +6,6 @@ arranger: "Wallie J Sender"
 medium: "pen"
 pdf: "/assets/manuscripts/101_in-monte-carlo_pen.pdf"
 layout: manuscript
-excerpt: "One-Night-in-Monte-Carlo"
+excerpt: "C major, 2/2"
 teaser: "/assets/images/manuscript-images/101_in-monte-carlo_pen.jpg"
 ---

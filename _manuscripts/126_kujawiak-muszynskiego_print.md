@@ -15,6 +15,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/126_kujawiak-muszynskiego_print.pdf"
 layout: manuscript
-excerpt: "Kujawiak Muszynskiego"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/126_kujawiak-muszynskiego_print.jpg"
 ---

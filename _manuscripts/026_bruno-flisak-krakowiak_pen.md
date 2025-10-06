@@ -8,6 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/026_bruno-flisak-krakowiak_pen.pdf"
 notes: ""Bruno" written at top"
 layout: manuscript
-excerpt: "Flisak Krakowiak"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/026_bruno-flisak-krakowiak_pen.jpg"
 ---

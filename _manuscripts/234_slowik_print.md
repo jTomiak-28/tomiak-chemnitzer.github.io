@@ -10,6 +10,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/234_slowik_print.pdf"
 layout: manuscript
-excerpt: "Słowik Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/234_slowik_print.jpg"
 ---

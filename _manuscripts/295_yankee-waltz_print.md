@@ -14,6 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/295_yankee-waltz_print.pdf"
 notes: "Missing a measure or two"
 layout: manuscript
-excerpt: "Yankee Waltz"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/295_yankee-waltz_print.jpg"
 ---

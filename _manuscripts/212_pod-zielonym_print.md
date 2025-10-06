@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/212_pod-zielonym_print.pdf"
 layout: manuscript
-excerpt: "Pod Zielonym Dębem"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/212_pod-zielonym_print.jpg"
 ---

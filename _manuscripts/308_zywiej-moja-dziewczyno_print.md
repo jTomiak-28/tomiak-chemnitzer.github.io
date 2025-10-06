@@ -14,6 +14,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/308_zywiej-moja-dziewczyno_print.pdf"
 layout: manuscript
-excerpt: "Zywiej, Zywiej, moja Dziewczyno Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/308_zywiej-moja-dziewczyno_print.jpg"
 ---

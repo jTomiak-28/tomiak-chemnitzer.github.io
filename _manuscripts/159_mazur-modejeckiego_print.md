@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/159_mazur-modejeckiego_print.pdf"
 layout: manuscript
-excerpt: "Mazur Modejeckiego"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/159_mazur-modejeckiego_print.jpg"
 ---

@@ -9,6 +9,6 @@ arranger: "Henry Silberhorn"
 medium: "print"
 pdf: "/assets/manuscripts/134_lastucka-polka_print.pdf"
 layout: manuscript
-excerpt: "Lastucka Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/134_lastucka-polka_print.jpg"
 ---

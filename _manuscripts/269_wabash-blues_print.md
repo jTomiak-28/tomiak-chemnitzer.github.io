@@ -13,6 +13,6 @@ copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/269_wabash-blues_print.pdf"
 layout: manuscript
-excerpt: "Wabash Blues"
+excerpt: "A major, 4/4"
 teaser: "/assets/images/manuscript-images/269_wabash-blues_print.jpg"
 ---

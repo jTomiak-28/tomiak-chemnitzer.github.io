@@ -13,6 +13,6 @@ copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/096_ill-always-be_print.pdf"
 layout: manuscript
-excerpt: "I'll Always Be In Love With You"
+excerpt: "A major, 3/4"
 teaser: "/assets/images/manuscript-images/096_ill-always-be_print.jpg"
 ---

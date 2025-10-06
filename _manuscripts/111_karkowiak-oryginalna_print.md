@@ -13,6 +13,6 @@ copyright_year: "1923"
 medium: "print"
 pdf: "/assets/manuscripts/111_karkowiak-oryginalna_print.pdf"
 layout: manuscript
-excerpt: "Krakowiak Oryginalna"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/111_karkowiak-oryginalna_print.jpg"
 ---

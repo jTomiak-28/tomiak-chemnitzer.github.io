@@ -13,6 +13,6 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/109_just-one-more-chance_print.pdf"
 layout: manuscript
-excerpt: "Just One More Chance"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/109_just-one-more-chance_print.jpg"
 ---

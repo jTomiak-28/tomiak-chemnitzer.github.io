@@ -15,6 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/094_i-was-lucky_print.pdf"
 notes: "Includes rare tempo marking: "Slow, with expression""
 layout: manuscript
-excerpt: "I Was Lucky"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/094_i-was-lucky_print.jpg"
 ---

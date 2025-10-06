@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/156_mazur-dominjak_print.pdf"
 layout: manuscript
-excerpt: "Mazur Dominjak"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/156_mazur-dominjak_print.jpg"
 ---

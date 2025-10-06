@@ -7,6 +7,6 @@ piece_type: "polka"
 medium: "pencil"
 pdf: "/assets/manuscripts/069_G major-march_pencil.pdf"
 layout: manuscript
-excerpt: "Na Piszę Karteczke do Rzymu"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/069_G major-march_pencil.jpg"
 ---

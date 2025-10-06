@@ -14,6 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/275_wesele-u-witosa-vitak_print.pdf"
 notes: "See ID#274, different arrangement here but same tune"
 layout: manuscript
-excerpt: "Wesele U Witosa"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/275_wesele-u-witosa-vitak_print.jpg"
 ---

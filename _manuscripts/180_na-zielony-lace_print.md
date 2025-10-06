@@ -14,6 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/180_na-zielony-lace_print.pdf"
 notes: "Second title given: "Przeweodnik" (Leader)"
 layout: manuscript
-excerpt: "Na Zielony Łące"
+excerpt: "A major, 2/4"
 teaser: "/assets/images/manuscript-images/180_na-zielony-lace_print.jpg"
 ---

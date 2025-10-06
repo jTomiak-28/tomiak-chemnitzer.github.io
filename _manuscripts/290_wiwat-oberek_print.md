@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/290_wiwat-oberek_print.pdf"
 layout: manuscript
-excerpt: "Wiwat Oberek"
+excerpt: "G major, 3/8"
 teaser: "/assets/images/manuscript-images/290_wiwat-oberek_print.jpg"
 ---

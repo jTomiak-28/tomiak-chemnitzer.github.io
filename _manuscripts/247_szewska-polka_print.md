@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/247_szewska-polka_print.pdf"
 layout: manuscript
-excerpt: "Szewska Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/247_szewska-polka_print.jpg"
 ---

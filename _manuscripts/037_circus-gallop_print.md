@@ -13,6 +13,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/037_circus-gallop_print.pdf"
 layout: manuscript
-excerpt: "Circus Galop"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/037_circus-gallop_print.jpg"
 ---

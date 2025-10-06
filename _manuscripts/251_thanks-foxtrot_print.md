@@ -14,6 +14,6 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/251_thanks-foxtrot_print.pdf"
 layout: manuscript
-excerpt: "Thanks"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/251_thanks-foxtrot_print.jpg"
 ---

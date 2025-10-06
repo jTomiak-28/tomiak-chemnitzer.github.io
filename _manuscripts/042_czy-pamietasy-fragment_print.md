@@ -13,6 +13,6 @@ medium: "print"
 pdf: "/assets/manuscripts/042_czy-pamietasy-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
-excerpt: "Czy Pamiętasy Cóś Mowiła"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/042_czy-pamietasy-fragment_print.jpg"
 ---

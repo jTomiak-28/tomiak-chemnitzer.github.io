@@ -13,6 +13,6 @@ copyright_year: "1928"
 medium: "print"
 pdf: "/assets/manuscripts/211_po-staremu_print.pdf"
 layout: manuscript
-excerpt: "Po Staremu"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/211_po-staremu_print.jpg"
 ---

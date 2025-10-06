@@ -8,6 +8,6 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/067_francuzka-polka_print.pdf"
 layout: manuscript
-excerpt: "Francuzka Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/067_francuzka-polka_print.jpg"
 ---

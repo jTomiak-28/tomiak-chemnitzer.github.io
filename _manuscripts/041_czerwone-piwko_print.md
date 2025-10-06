@@ -12,6 +12,6 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/041_czerwone-piwko_print.pdf"
 layout: manuscript
-excerpt: "Czerwone Piwko Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/041_czerwone-piwko_print.jpg"
 ---

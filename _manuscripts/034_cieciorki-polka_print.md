@@ -14,6 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/034_cieciorki-polka_print.pdf"
 notes: "E.M. Wunderlich listed as engraver"
 layout: manuscript
-excerpt: "Cieciorki Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/034_cieciorki-polka_print.jpg"
 ---

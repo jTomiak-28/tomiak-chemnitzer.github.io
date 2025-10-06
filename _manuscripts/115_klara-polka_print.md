@@ -10,6 +10,6 @@ publication_place: "519-21 Milwaukee Ave., Chicago"
 medium: "print"
 pdf: "/assets/manuscripts/115_klara-polka_print.pdf"
 layout: manuscript
-excerpt: "Klara Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/115_klara-polka_print.jpg"
 ---

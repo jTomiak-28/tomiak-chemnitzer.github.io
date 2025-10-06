@@ -14,6 +14,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/112_kaska-z-mazurem_print.pdf"
 layout: manuscript
-excerpt: "Kaśka z Mazurem"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/112_kaska-z-mazurem_print.jpg"
 ---

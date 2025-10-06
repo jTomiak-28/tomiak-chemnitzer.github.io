@@ -13,6 +13,6 @@ copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/282_whose-honey-are-you_print.pdf"
 layout: manuscript
-excerpt: "Whose Honey Are You?"
+excerpt: "C major, 2/2"
 teaser: "/assets/images/manuscript-images/282_whose-honey-are-you_print.jpg"
 ---

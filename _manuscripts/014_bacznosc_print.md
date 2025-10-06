@@ -14,6 +14,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/014_bacznosc_print.pdf"
 layout: manuscript
-excerpt: "Baczność"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/014_bacznosc_print.jpg"
 ---

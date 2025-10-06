@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/172_na-lewo-fragment_print.pdf"
 layout: manuscript
-excerpt: "Na Lewo"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/172_na-lewo-fragment_print.jpg"
 ---

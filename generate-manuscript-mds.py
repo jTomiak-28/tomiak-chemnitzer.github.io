@@ -43,7 +43,6 @@ def main():
         for row in reader:
             # Use a slug from pdf filename or title
             slug = row.get("file_name").replace(".pdf", "")
-            key = row.get("key")
             image_path = row.get("file_name").replace(".pdf", ".jpg")
             image_path = f"assets/images/manuscript-images/{image_path}"
 
@@ -59,9 +58,10 @@ def main():
                     else:
                         front_matter.append(f'{field}: "{value}"')
 
-            # Always include layout
+            key = row.get("key")
+            meter = row.get("meter")
             front_matter.append("layout: manuscript")
-            front_matter.append(f"excerpt: \"{key}\"")
+            front_matter.append(f"excerpt: \"{key}, {meter}\"")
             front_matter.append(f"teaser: \"/{image_path}\"")
             front_matter.append("---")
             front_matter.append("")

@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/011_ach-ich-bin_print.pdf"
 layout: manuscript
-excerpt: "Ach Ich Bin So Muede"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/011_ach-ich-bin_print.jpg"
 ---

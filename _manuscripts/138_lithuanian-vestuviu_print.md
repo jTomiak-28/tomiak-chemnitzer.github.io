@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/138_lithuanian-vestuviu_print.pdf"
 layout: manuscript
-excerpt: "Lithuanian Vestuviu"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/138_lithuanian-vestuviu_print.jpg"
 ---

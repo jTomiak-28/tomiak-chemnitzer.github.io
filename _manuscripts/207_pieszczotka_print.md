@@ -10,6 +10,6 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/207_pieszczotka_print.pdf"
 layout: manuscript
-excerpt: "Pieszczotka"
+excerpt: "A major, 2/4"
 teaser: "/assets/images/manuscript-images/207_pieszczotka_print.jpg"
 ---

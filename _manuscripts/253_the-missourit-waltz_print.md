@@ -13,6 +13,6 @@ copyright_year: "1915"
 medium: "print"
 pdf: "/assets/manuscripts/253_the-missourit-waltz_print.pdf"
 layout: manuscript
-excerpt: "The Missouri Waltz"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/253_the-missourit-waltz_print.jpg"
 ---

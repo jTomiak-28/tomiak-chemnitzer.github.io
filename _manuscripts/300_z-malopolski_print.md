@@ -14,6 +14,6 @@ copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/300_z-malopolski_print.pdf"
 layout: manuscript
-excerpt: "Z Małopolski"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/300_z-malopolski_print.jpg"
 ---

@@ -13,6 +13,6 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/202_over-somebody-elses_print.pdf"
 layout: manuscript
-excerpt: "Over Somebody Else's Shoulder"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/202_over-somebody-elses_print.jpg"
 ---

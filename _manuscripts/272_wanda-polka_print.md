@@ -13,6 +13,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/272_wanda-polka_print.pdf"
 layout: manuscript
-excerpt: "Wanda Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/272_wanda-polka_print.jpg"
 ---

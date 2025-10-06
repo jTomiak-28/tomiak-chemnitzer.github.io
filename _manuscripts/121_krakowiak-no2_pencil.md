@@ -6,6 +6,6 @@ piece_type: "krakowiak"
 medium: "pencil"
 pdf: "/assets/manuscripts/121_krakowiak-no2_pencil.pdf"
 layout: manuscript
-excerpt: "Krakowiak No. 2"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/121_krakowiak-no2_pencil.jpg"
 ---

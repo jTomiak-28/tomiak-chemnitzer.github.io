@@ -12,6 +12,6 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/040_czarna-wrona-polka_print.pdf"
 layout: manuscript
-excerpt: "Czarna Wrona"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/040_czarna-wrona-polka_print.jpg"
 ---

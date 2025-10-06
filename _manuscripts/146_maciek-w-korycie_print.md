@@ -14,6 +14,6 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/146_maciek-w-korycie_print.pdf"
 layout: manuscript
-excerpt: "Maciek w Korycie"
+excerpt: "D major, 3/8"
 teaser: "/assets/images/manuscript-images/146_maciek-w-korycie_print.jpg"
 ---

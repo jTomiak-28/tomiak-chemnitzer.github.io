@@ -13,6 +13,6 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/103_in-the-valley_print.pdf"
 layout: manuscript
-excerpt: "In The Valley Of The Moon"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/103_in-the-valley_print.jpg"
 ---

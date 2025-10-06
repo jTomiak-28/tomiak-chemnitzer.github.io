@@ -13,6 +13,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/092_hopp-hopp_print.pdf"
 layout: manuscript
-excerpt: "Hopp Hopp"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/092_hopp-hopp_print.jpg"
 ---

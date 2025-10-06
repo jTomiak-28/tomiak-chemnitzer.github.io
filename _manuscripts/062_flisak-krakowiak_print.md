@@ -10,6 +10,6 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/062_flisak-krakowiak_print.pdf"
 layout: manuscript
-excerpt: "Flisak Krakowiak"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/062_flisak-krakowiak_print.jpg"
 ---

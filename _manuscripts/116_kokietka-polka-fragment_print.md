@@ -13,6 +13,6 @@ copyright_year: "1912"
 medium: "print"
 pdf: "/assets/manuscripts/116_kokietka-polka-fragment_print.pdf"
 layout: manuscript
-excerpt: "Kokietka Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/116_kokietka-polka-fragment_print.jpg"
 ---

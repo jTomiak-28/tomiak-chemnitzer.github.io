@@ -13,6 +13,6 @@ copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/107_julianna_print.pdf"
 layout: manuscript
-excerpt: "Julianna"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/107_julianna_print.jpg"
 ---

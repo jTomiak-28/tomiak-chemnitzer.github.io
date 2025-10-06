@@ -7,6 +7,6 @@ medium: "print"
 pdf: "/assets/manuscripts/007_8469-end-fragment_print.pdf"
 notes: "Chords notated"
 layout: manuscript
-excerpt: "8469 End Fragment"
+excerpt: "G major, 4/4"
 teaser: "/assets/images/manuscript-images/007_8469-end-fragment_print.jpg"
 ---

@@ -14,6 +14,6 @@ copyright_year: "1913"
 medium: "print"
 pdf: "/assets/manuscripts/276_wesole-wesole_print.pdf"
 layout: manuscript
-excerpt: "Wesole Wesele"
+excerpt: "A major, 3/4"
 teaser: "/assets/images/manuscript-images/276_wesole-wesole_print.jpg"
 ---

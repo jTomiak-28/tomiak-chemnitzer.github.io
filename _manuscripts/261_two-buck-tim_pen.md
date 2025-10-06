@@ -7,6 +7,6 @@ arranger: "Mario Agnolucci"
 medium: "pen"
 pdf: "/assets/manuscripts/261_two-buck-tim_pen.pdf"
 layout: manuscript
-excerpt: "Two Buck Tim From Timbuctoo"
+excerpt: "C major, 2/2"
 teaser: "/assets/images/manuscript-images/261_two-buck-tim_pen.jpg"
 ---

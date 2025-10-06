@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/058_dziennikarski-mazur_print.pdf"
 layout: manuscript
-excerpt: "Dziennikarski Mazur"
+excerpt: "D major, 3/8"
 teaser: "/assets/images/manuscript-images/058_dziennikarski-mazur_print.jpg"
 ---

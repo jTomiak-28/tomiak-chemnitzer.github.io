@@ -12,6 +12,6 @@ copyright_year: "1911"
 medium: "print"
 pdf: "/assets/manuscripts/036_cikanka_print.pdf"
 layout: manuscript
-excerpt: "Cikanka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/036_cikanka_print.jpg"
 ---

@@ -13,6 +13,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/125_kujawiak-7_print.pdf"
 layout: manuscript
-excerpt: "Kujawiak No. 7."
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/125_kujawiak-7_print.jpg"
 ---

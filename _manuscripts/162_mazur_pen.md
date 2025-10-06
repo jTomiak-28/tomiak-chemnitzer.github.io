@@ -6,6 +6,6 @@ piece_type: "mazurka"
 medium: "pen"
 pdf: "/assets/manuscripts/162_mazur_pen.pdf"
 layout: manuscript
-excerpt: "D Major Mazurka"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/162_mazur_pen.jpg"
 ---

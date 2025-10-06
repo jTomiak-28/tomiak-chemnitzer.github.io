@@ -14,6 +14,6 @@ copyright_year: "1923"
 medium: "print"
 pdf: "/assets/manuscripts/228_rozalien_print.pdf"
 layout: manuscript
-excerpt: "Rozalien-Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/228_rozalien_print.jpg"
 ---

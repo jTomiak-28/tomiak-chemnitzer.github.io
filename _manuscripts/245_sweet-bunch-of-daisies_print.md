@@ -10,6 +10,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/245_sweet-bunch-of-daisies_print.pdf"
 layout: manuscript
-excerpt: "Sweet Bunch Of Daisies"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/245_sweet-bunch-of-daisies_print.jpg"
 ---

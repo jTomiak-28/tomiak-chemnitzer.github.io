@@ -13,6 +13,6 @@ copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/183_naokolo-ciemny-las_print.pdf"
 layout: manuscript
-excerpt: "Naokoło Ciemny Las"
+excerpt: "A major, 2/4"
 teaser: "/assets/images/manuscript-images/183_naokolo-ciemny-las_print.jpg"
 ---

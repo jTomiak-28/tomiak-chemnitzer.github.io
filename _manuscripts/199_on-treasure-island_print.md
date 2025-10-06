@@ -13,6 +13,6 @@ copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/199_on-treasure-island_print.pdf"
 layout: manuscript
-excerpt: "On Treasure Island"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/199_on-treasure-island_print.jpg"
 ---

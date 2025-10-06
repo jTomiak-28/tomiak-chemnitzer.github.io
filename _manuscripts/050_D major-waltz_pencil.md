@@ -6,6 +6,6 @@ piece_type: "waltz"
 medium: "pencil"
 pdf: "/assets/manuscripts/050_D major-waltz_pencil.pdf"
 layout: manuscript
-excerpt: "D Major Waltz Fragment"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/050_D major-waltz_pencil.jpg"
 ---

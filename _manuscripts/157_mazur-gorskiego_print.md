@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/157_mazur-gorskiego_print.pdf"
 layout: manuscript
-excerpt: "Mazur Gorskiego"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/157_mazur-gorskiego_print.jpg"
 ---

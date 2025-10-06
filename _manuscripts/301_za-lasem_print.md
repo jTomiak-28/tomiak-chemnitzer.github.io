@@ -12,6 +12,6 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/301_za-lasem_print.pdf"
 layout: manuscript
-excerpt: "Za Lasem Oberek"
+excerpt: "A major, 3/4"
 teaser: "/assets/images/manuscript-images/301_za-lasem_print.jpg"
 ---

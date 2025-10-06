@@ -13,6 +13,6 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/223_rain-fox-trot_print.pdf"
 layout: manuscript
-excerpt: "Rain"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/223_rain-fox-trot_print.jpg"
 ---

@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/294_wszystkie-sie-pola_print.pdf"
 layout: manuscript
-excerpt: "Wszystkie Sie Pola Zazielenily"
+excerpt: "A major, 3/4"
 teaser: "/assets/images/manuscript-images/294_wszystkie-sie-pola_print.jpg"
 ---

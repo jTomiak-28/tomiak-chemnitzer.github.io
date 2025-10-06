@@ -7,6 +7,6 @@ piece_type: "polka"
 medium: "pen"
 pdf: "/assets/manuscripts/084_grochowianka_pen.pdf"
 layout: manuscript
-excerpt: "Grochowka Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/084_grochowianka_pen.jpg"
 ---

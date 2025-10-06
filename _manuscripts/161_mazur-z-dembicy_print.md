@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/161_mazur-z-dembicy_print.pdf"
 layout: manuscript
-excerpt: "Mazur z Dembicy"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/161_mazur-z-dembicy_print.jpg"
 ---

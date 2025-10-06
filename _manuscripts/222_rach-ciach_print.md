@@ -10,6 +10,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/222_rach-ciach_print.pdf"
 layout: manuscript
-excerpt: "Rach Ciach Ciach"
+excerpt: "A major, 2/4"
 teaser: "/assets/images/manuscript-images/222_rach-ciach_print.jpg"
 ---

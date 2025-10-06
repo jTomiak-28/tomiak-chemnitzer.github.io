@@ -13,6 +13,6 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/174_na-lewo-od_print.pdf"
 layout: manuscript
-excerpt: "Na Lewo od Borzęcina"
+excerpt: "D major, 3/8"
 teaser: "/assets/images/manuscript-images/174_na-lewo-od_print.jpg"
 ---

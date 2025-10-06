@@ -9,6 +9,6 @@ publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/178_na-zielonej-lace_print.pdf"
 layout: manuscript
-excerpt: "Na Źielonej Łące"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/178_na-zielonej-lace_print.jpg"
 ---

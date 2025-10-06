@@ -13,6 +13,6 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/089_hello-beautiful_print.pdf"
 layout: manuscript
-excerpt: "Hello, Beautiful!"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/089_hello-beautiful_print.jpg"
 ---

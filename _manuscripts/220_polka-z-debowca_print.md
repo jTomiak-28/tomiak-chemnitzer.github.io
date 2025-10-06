@@ -16,6 +16,6 @@ medium: "print"
 pdf: "/assets/manuscripts/220_polka-z-debowca_print.pdf"
 notes: "Unusual that this 3/4 piece is labeled as polka"
 layout: manuscript
-excerpt: "Polka Z Debowca"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/220_polka-z-debowca_print.jpg"
 ---

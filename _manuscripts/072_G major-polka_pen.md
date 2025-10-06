@@ -6,6 +6,6 @@ piece_type: "polka"
 medium: "pen"
 pdf: "/assets/manuscripts/072_G major-polka_pen.pdf"
 layout: manuscript
-excerpt: "G major Polka (Untitled)"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/072_G major-polka_pen.jpg"
 ---

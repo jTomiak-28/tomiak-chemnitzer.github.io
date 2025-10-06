@@ -13,6 +13,6 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/297_you-call-it-madness_print.pdf"
 layout: manuscript
-excerpt: "You Call It Madness But I Call It Love"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/297_you-call-it-madness_print.jpg"
 ---

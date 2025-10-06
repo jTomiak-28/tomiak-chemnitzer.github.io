@@ -10,6 +10,6 @@ medium: "print"
 pdf: "/assets/manuscripts/039_cuckoo-waltz-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
-excerpt: "Cuckoo-Waltz"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/039_cuckoo-waltz-fragment_print.jpg"
 ---

@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/023_blue-danube_print.pdf"
 layout: manuscript
-excerpt: "On the Beautiful Blue Danube"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/023_blue-danube_print.jpg"
 ---

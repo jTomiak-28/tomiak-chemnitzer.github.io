@@ -6,6 +6,6 @@ arranger: "Wallie-J-Sender"
 medium: "pen"
 pdf: "/assets/manuscripts/059_eeny-meeny_pen.pdf"
 layout: manuscript
-excerpt: "Eeny-Meeny-Miney-Mo"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/059_eeny-meeny_pen.jpg"
 ---

@@ -10,6 +10,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/088_helena-polka_print.pdf"
 layout: manuscript
-excerpt: "Helena- Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/088_helena-polka_print.jpg"
 ---

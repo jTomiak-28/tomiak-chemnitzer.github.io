@@ -13,6 +13,6 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/019_be-still-my-heart_print.pdf"
 layout: manuscript
-excerpt: "Be Still, My Heart"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/019_be-still-my-heart_print.jpg"
 ---

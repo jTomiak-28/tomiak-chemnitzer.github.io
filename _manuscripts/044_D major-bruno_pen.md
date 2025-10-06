@@ -8,6 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/044_D major-bruno_pen.pdf"
 notes: "Title on last page, "Bruno" written at top of first page"
 layout: manuscript
-excerpt: "Dziweyno Kocham Cie"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/044_D major-bruno_pen.jpg"
 ---

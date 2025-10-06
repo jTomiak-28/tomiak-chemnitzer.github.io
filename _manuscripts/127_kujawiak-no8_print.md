@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/127_kujawiak-no8_print.pdf"
 layout: manuscript
-excerpt: "Dzien Dobry Kujawiak"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/127_kujawiak-no8_print.jpg"
 ---

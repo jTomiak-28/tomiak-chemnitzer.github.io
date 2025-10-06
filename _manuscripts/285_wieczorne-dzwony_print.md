@@ -13,6 +13,6 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/285_wieczorne-dzwony_print.pdf"
 layout: manuscript
-excerpt: "Wieczorne Dzwony Walc"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/285_wieczorne-dzwony_print.jpg"
 ---

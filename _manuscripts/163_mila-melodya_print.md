@@ -14,6 +14,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/163_mila-melodya_print.pdf"
 layout: manuscript
-excerpt: "Miła Melodya"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/163_mila-melodya_print.jpg"
 ---

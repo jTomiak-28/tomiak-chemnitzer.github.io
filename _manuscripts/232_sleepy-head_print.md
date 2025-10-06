@@ -14,6 +14,6 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/232_sleepy-head_print.pdf"
 layout: manuscript
-excerpt: "Sleepy Head"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/232_sleepy-head_print.jpg"
 ---

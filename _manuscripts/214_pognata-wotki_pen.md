@@ -10,6 +10,6 @@ copyright_year: "1925"
 medium: "pen"
 pdf: "/assets/manuscripts/214_pognata-wotki_pen.pdf"
 layout: manuscript
-excerpt: "Pognała Wołki"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/214_pognata-wotki_pen.jpg"
 ---

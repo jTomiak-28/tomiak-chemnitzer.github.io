@@ -12,6 +12,6 @@ copyright_year: "1914"
 medium: "print"
 pdf: "/assets/manuscripts/150_marsz-dla-mlodej_print.pdf"
 layout: manuscript
-excerpt: "Marsz Dla Młodej Pary"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/150_marsz-dla-mlodej_print.jpg"
 ---

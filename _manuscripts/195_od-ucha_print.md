@@ -13,6 +13,6 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/195_od-ucha_print.pdf"
 layout: manuscript
-excerpt: "Od Ucha"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/195_od-ucha_print.jpg"
 ---

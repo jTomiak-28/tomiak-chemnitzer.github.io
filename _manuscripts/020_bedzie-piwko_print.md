@@ -14,6 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/020_bedzie-piwko_print.pdf"
 notes: "Nonsensical drinking song title"
 layout: manuscript
-excerpt: "Będzie Piwko, Psie Korytko"
+excerpt: "D major, 3/8"
 teaser: "/assets/images/manuscript-images/020_bedzie-piwko_print.jpg"
 ---

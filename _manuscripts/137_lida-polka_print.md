@@ -13,6 +13,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/137_lida-polka_print.pdf"
 layout: manuscript
-excerpt: "Lida Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/137_lida-polka_print.jpg"
 ---

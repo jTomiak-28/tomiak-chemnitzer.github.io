@@ -12,6 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/035_cieszmy-sie-polka-fragment_print.pdf"
 notes: "Fragment, publisher name cut off"
 layout: manuscript
-excerpt: "Cieszmy Się Polka"
+excerpt: "A major, 2/4"
 teaser: "/assets/images/manuscript-images/035_cieszmy-sie-polka-fragment_print.jpg"
 ---

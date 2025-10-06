@@ -14,6 +14,6 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/279_wesoly-oberek_print.pdf"
 layout: manuscript
-excerpt: "Wesoły Oberek"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/279_wesoly-oberek_print.jpg"
 ---

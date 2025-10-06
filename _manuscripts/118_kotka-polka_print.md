@@ -11,6 +11,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/118_kotka-polka_print.pdf"
 layout: manuscript
-excerpt: "Kotka Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/118_kotka-polka_print.jpg"
 ---

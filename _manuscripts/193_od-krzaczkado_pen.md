@@ -10,6 +10,6 @@ publisher: "John Sitek"
 medium: "pen"
 pdf: "/assets/manuscripts/193_od-krzaczkado_pen.pdf"
 layout: manuscript
-excerpt: "Od Krzaczka do Krzaczka Walc"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/193_od-krzaczkado_pen.jpg"
 ---

@@ -14,6 +14,6 @@ copyright_year: "1928"
 medium: "pen"
 pdf: "/assets/manuscripts/235_smutna-dziewczyna_pen.pdf"
 layout: manuscript
-excerpt: "Smutna Dziewczyna"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/235_smutna-dziewczyna_pen.jpg"
 ---

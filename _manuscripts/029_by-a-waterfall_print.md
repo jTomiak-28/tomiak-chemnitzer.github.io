@@ -13,6 +13,6 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/029_by-a-waterfall_print.pdf"
 layout: manuscript
-excerpt: "By a Waterfall"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/029_by-a-waterfall_print.jpg"
 ---

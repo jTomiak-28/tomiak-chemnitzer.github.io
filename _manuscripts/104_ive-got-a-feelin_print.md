@@ -14,6 +14,6 @@ copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/104_ive-got-a-feelin_print.pdf"
 layout: manuscript
-excerpt: "I've Got A Feelin' You're Foolin'"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/104_ive-got-a-feelin_print.jpg"
 ---

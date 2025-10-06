@@ -13,6 +13,6 @@ copyright_year: "1940"
 medium: "print"
 pdf: "/assets/manuscripts/296_you-are-my-sunshine_print.pdf"
 layout: manuscript
-excerpt: "You Are My Sunshine"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/296_you-are-my-sunshine_print.jpg"
 ---

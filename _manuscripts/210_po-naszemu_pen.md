@@ -7,6 +7,6 @@ piece_type: "polka"
 medium: "pen"
 pdf: "/assets/manuscripts/210_po-naszemu_pen.pdf"
 layout: manuscript
-excerpt: "Po Naszemu Polka"
+excerpt: "G major, 2/4"
 teaser: "/assets/images/manuscript-images/210_po-naszemu_pen.jpg"
 ---

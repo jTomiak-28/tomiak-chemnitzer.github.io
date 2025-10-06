@@ -11,6 +11,6 @@ copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/280_wesoly-pijak_print.pdf"
 layout: manuscript
-excerpt: "Wesoły Pijak"
+excerpt: "D major, 3/8"
 teaser: "/assets/images/manuscript-images/280_wesoly-pijak_print.jpg"
 ---

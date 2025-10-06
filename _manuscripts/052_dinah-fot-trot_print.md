@@ -13,6 +13,6 @@ copyright_year: "1926"
 medium: "print"
 pdf: "/assets/manuscripts/052_dinah-fot-trot_print.pdf"
 layout: manuscript
-excerpt: "Dinah"
+excerpt: "D major, 2/2"
 teaser: "/assets/images/manuscript-images/052_dinah-fot-trot_print.jpg"
 ---

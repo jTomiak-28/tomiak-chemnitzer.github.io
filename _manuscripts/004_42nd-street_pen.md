@@ -9,6 +9,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/004_42nd-street_pen.pdf"
 notes: "The very popular closing number from the film of the same name, numerous version were recorded"
 layout: manuscript
-excerpt: "42nd Street"
+excerpt: "B minor, 2/2"
 teaser: "/assets/images/manuscript-images/004_42nd-street_pen.jpg"
 ---

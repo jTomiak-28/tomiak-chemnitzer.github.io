@@ -8,6 +8,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/198_olympia_print.pdf"
 layout: manuscript
-excerpt: "Olympia"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/198_olympia_print.jpg"
 ---

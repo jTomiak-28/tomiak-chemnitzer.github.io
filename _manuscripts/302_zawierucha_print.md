@@ -8,6 +8,6 @@ piece_type: "mazurka"
 medium: "print"
 pdf: "/assets/manuscripts/302_zawierucha_print.pdf"
 layout: manuscript
-excerpt: "Zawierucha - Mazur"
+excerpt: "A major, 3/4"
 teaser: "/assets/images/manuscript-images/302_zawierucha_print.jpg"
 ---

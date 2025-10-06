@@ -12,6 +12,6 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/022_bialy-mazur_print.pdf"
 layout: manuscript
-excerpt: "Bialy Mazur"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/022_bialy-mazur_print.jpg"
 ---

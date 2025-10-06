@@ -15,6 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/098_ill-string-along_print.pdf"
 notes: "Includes tempo marking "Slowly and smoothly""
 layout: manuscript
-excerpt: "I'll String Along With You"
+excerpt: "G major, 2/2"
 teaser: "/assets/images/manuscript-images/098_ill-string-along_print.jpg"
 ---

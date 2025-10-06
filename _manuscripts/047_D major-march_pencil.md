@@ -8,6 +8,6 @@ medium: "pencil"
 pdf: "/assets/manuscripts/047_D major-march_pencil.pdf"
 notes: "Title uncertain, appears on last page"
 layout: manuscript
-excerpt: "Cochalanka Polka"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/047_D major-march_pencil.jpg"
 ---

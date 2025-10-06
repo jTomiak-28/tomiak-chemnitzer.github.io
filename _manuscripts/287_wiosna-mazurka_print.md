@@ -9,6 +9,6 @@ arranger: "Louis Vitak"
 medium: "print"
 pdf: "/assets/manuscripts/287_wiosna-mazurka_print.pdf"
 layout: manuscript
-excerpt: "Wiosna - Mazurka"
+excerpt: "A minor, 3/4"
 teaser: "/assets/images/manuscript-images/287_wiosna-mazurka_print.jpg"
 ---

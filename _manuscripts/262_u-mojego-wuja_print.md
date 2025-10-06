@@ -13,6 +13,6 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/262_u-mojego-wuja_print.pdf"
 layout: manuscript
-excerpt: "U Mojego Wuja"
+excerpt: "D major, 2/4"
 teaser: "/assets/images/manuscript-images/262_u-mojego-wuja_print.jpg"
 ---

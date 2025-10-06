@@ -13,6 +13,6 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/260_troske-mi-sie_print.pdf"
 layout: manuscript
-excerpt: "Troszke Mi Sie Chciało"
+excerpt: "G major, 3/4"
 teaser: "/assets/images/manuscript-images/260_troske-mi-sie_print.jpg"
 ---

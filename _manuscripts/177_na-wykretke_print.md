@@ -15,6 +15,6 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/177_na-wykretke_print.pdf"
 layout: manuscript
-excerpt: "Na Wykretke"
+excerpt: "D major, 3/4"
 teaser: "/assets/images/manuscript-images/177_na-wykretke_print.jpg"
 ---

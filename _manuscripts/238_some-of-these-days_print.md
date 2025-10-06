@@ -14,6 +14,5 @@ pdf: "/assets/manuscripts/238_some-of-these-days_print.pdf"
 notes: "Alternate print of ID#237 by same publisher, same arrangement"
 layout: manuscript
 excerpt: "Some Of These Days"
-teaser: "assets/images/manuscript-images/238_some-of-these-days_print.jpg"
+teaser: "/assets/images/manuscript-images/238_some-of-these-days_print.jpg"
 ---
-Some Of These Days

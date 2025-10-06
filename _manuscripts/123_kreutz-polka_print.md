@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/123_kreutz-polka_print.pdf"
 layout: manuscript
 excerpt: "Kreutz Polka"
-teaser: "assets/images/manuscript-images/123_kreutz-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/123_kreutz-polka_print.jpg"
 ---
-Kreutz Polka

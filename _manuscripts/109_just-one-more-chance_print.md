@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/109_just-one-more-chance_print.pdf"
 layout: manuscript
 excerpt: "Just One More Chance"
-teaser: "assets/images/manuscript-images/109_just-one-more-chance_print.jpg"
+teaser: "/assets/images/manuscript-images/109_just-one-more-chance_print.jpg"
 ---
-Just One More Chance

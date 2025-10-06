@@ -9,6 +9,5 @@ pdf: "/assets/manuscripts/151_marsz-wychodny_pen.pdf"
 notes: "No numbers, just the melody line. Includes rare dynamic marking- "ff""
 layout: manuscript
 excerpt: "Marsz Wychodny"
-teaser: "assets/images/manuscript-images/151_marsz-wychodny_pen.jpg"
+teaser: "/assets/images/manuscript-images/151_marsz-wychodny_pen.jpg"
 ---
-Marsz Wychodny

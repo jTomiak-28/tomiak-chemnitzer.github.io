@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/032_chlopski-krakowiak_print.pdf"
 layout: manuscript
 excerpt: "Chłopski Krakowiak"
-teaser: "assets/images/manuscript-images/032_chlopski-krakowiak_print.jpg"
+teaser: "/assets/images/manuscript-images/032_chlopski-krakowiak_print.jpg"
 ---
-Chłopski Krakowiak

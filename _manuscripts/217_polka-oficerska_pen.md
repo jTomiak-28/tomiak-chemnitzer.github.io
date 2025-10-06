@@ -8,6 +8,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/217_polka-oficerska_pen.pdf"
 layout: manuscript
 excerpt: "Polka Oficerska"
-teaser: "assets/images/manuscript-images/217_polka-oficerska_pen.jpg"
+teaser: "/assets/images/manuscript-images/217_polka-oficerska_pen.jpg"
 ---
-Polka Oficerska

@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/260_troske-mi-sie_print.pdf"
 layout: manuscript
 excerpt: "Troszke Mi Sie Chciało"
-teaser: "assets/images/manuscript-images/260_troske-mi-sie_print.jpg"
+teaser: "/assets/images/manuscript-images/260_troske-mi-sie_print.jpg"
 ---
-Troszke Mi Sie Chciało

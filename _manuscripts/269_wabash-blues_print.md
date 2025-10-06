@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/269_wabash-blues_print.pdf"
 layout: manuscript
 excerpt: "Wabash Blues"
-teaser: "assets/images/manuscript-images/269_wabash-blues_print.jpg"
+teaser: "/assets/images/manuscript-images/269_wabash-blues_print.jpg"
 ---
-Wabash Blues

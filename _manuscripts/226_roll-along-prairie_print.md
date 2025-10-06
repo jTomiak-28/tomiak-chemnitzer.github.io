@@ -15,6 +15,5 @@ pdf: "/assets/manuscripts/226_roll-along-prairie_print.pdf"
 notes: "Tempo marking: "Slowly (with feeling)""
 layout: manuscript
 excerpt: "Roll Along Prairie Moon"
-teaser: "assets/images/manuscript-images/226_roll-along-prairie_print.jpg"
+teaser: "/assets/images/manuscript-images/226_roll-along-prairie_print.jpg"
 ---
-Roll Along Prairie Moon

@@ -8,6 +8,5 @@ medium: "pencil"
 pdf: "/assets/manuscripts/069_G major-march_pencil.pdf"
 layout: manuscript
 excerpt: "Na Piszę Karteczke do Rzymu"
-teaser: "assets/images/manuscript-images/069_G major-march_pencil.jpg"
+teaser: "/assets/images/manuscript-images/069_G major-march_pencil.jpg"
 ---
-Na Piszę Karteczke do Rzymu

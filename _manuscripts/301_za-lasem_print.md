@@ -13,6 +13,5 @@ medium: "print"
 pdf: "/assets/manuscripts/301_za-lasem_print.pdf"
 layout: manuscript
 excerpt: "Za Lasem Oberek"
-teaser: "assets/images/manuscript-images/301_za-lasem_print.jpg"
+teaser: "/assets/images/manuscript-images/301_za-lasem_print.jpg"
 ---
-Za Lasem Oberek

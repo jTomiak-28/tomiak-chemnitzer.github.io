@@ -11,6 +11,5 @@ pdf: "/assets/manuscripts/152_martha-polka_pen.pdf"
 notes: "Publisher likely related to my great-grandfather! (Euguene Maczka written as publisher)"
 layout: manuscript
 excerpt: "Martha Polka"
-teaser: "assets/images/manuscript-images/152_martha-polka_pen.jpg"
+teaser: "/assets/images/manuscript-images/152_martha-polka_pen.jpg"
 ---
-Martha Polka

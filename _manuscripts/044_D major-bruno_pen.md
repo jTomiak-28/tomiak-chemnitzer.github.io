@@ -9,6 +9,5 @@ pdf: "/assets/manuscripts/044_D major-bruno_pen.pdf"
 notes: "Title on last page, "Bruno" written at top of first page"
 layout: manuscript
 excerpt: "Dziweyno Kocham Cie"
-teaser: "assets/images/manuscript-images/044_D major-bruno_pen.jpg"
+teaser: "/assets/images/manuscript-images/044_D major-bruno_pen.jpg"
 ---
-Dziweyno Kocham Cie

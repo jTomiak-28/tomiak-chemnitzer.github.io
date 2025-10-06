@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/024_blue-hours_print.pdf"
 layout: manuscript
 excerpt: "Blue Hours"
-teaser: "assets/images/manuscript-images/024_blue-hours_print.jpg"
+teaser: "/assets/images/manuscript-images/024_blue-hours_print.jpg"
 ---
-Blue Hours

@@ -10,6 +10,5 @@ pdf: "/assets/manuscripts/004_42nd-street_pen.pdf"
 notes: "The very popular closing number from the film of the same name, numerous version were recorded"
 layout: manuscript
 excerpt: "42nd Street"
-teaser: "assets/images/manuscript-images/004_42nd-street_pen.jpg"
+teaser: "/assets/images/manuscript-images/004_42nd-street_pen.jpg"
 ---
-42nd Street

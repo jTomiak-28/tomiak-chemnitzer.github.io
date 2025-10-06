@@ -14,6 +14,5 @@ pdf: "/assets/manuscripts/246_sweethearts-waltz_print.pdf"
 notes: "Rare "p" dynamic marking"
 layout: manuscript
 excerpt: "Sweethearts Waltz"
-teaser: "assets/images/manuscript-images/246_sweethearts-waltz_print.jpg"
+teaser: "/assets/images/manuscript-images/246_sweethearts-waltz_print.jpg"
 ---
-Sweethearts Waltz

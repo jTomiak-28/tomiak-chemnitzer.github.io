@@ -7,6 +7,5 @@ pdf: "/assets/manuscripts/045_D major-march-fragment_pen.pdf"
 notes: "Fragment, no title given"
 layout: manuscript
 excerpt: "D Major Fragment"
-teaser: "assets/images/manuscript-images/045_D major-march-fragment_pen.jpg"
+teaser: "/assets/images/manuscript-images/045_D major-march-fragment_pen.jpg"
 ---
-D Major Fragment

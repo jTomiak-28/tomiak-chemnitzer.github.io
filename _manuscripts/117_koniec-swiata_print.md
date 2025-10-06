@@ -13,6 +13,5 @@ medium: "print"
 pdf: "/assets/manuscripts/117_koniec-swiata_print.pdf"
 layout: manuscript
 excerpt: "Koniec Swiata Polka"
-teaser: "assets/images/manuscript-images/117_koniec-swiata_print.jpg"
+teaser: "/assets/images/manuscript-images/117_koniec-swiata_print.jpg"
 ---
-Koniec Swiata Polka

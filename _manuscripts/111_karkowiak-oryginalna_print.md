@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/111_karkowiak-oryginalna_print.pdf"
 layout: manuscript
 excerpt: "Krakowiak Oryginalna"
-teaser: "assets/images/manuscript-images/111_karkowiak-oryginalna_print.jpg"
+teaser: "/assets/images/manuscript-images/111_karkowiak-oryginalna_print.jpg"
 ---
-Krakowiak Oryginalna

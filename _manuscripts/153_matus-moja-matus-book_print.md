@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/153_matus-moja-matus-book_print.pdf"
 layout: manuscript
 excerpt: "Matus Moja Matus"
-teaser: "assets/images/manuscript-images/153_matus-moja-matus-book_print.jpg"
+teaser: "/assets/images/manuscript-images/153_matus-moja-matus-book_print.jpg"
 ---
-Matus Moja Matus

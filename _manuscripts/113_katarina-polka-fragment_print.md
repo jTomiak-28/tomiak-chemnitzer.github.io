@@ -12,6 +12,5 @@ pdf: "/assets/manuscripts/113_katarina-polka-fragment_print.pdf"
 notes: "Fragment, edges heavily worn"
 layout: manuscript
 excerpt: "Katarina Polka"
-teaser: "assets/images/manuscript-images/113_katarina-polka-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/113_katarina-polka-fragment_print.jpg"
 ---
-Katarina Polka

@@ -11,6 +11,5 @@ pdf: "/assets/manuscripts/039_cuckoo-waltz-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
 excerpt: "Cuckoo-Waltz"
-teaser: "assets/images/manuscript-images/039_cuckoo-waltz-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/039_cuckoo-waltz-fragment_print.jpg"
 ---
-Cuckoo-Waltz

@@ -13,6 +13,5 @@ medium: "print"
 pdf: "/assets/manuscripts/041_czerwone-piwko_print.pdf"
 layout: manuscript
 excerpt: "Czerwone Piwko Polka"
-teaser: "assets/images/manuscript-images/041_czerwone-piwko_print.jpg"
+teaser: "/assets/images/manuscript-images/041_czerwone-piwko_print.jpg"
 ---
-Czerwone Piwko Polka

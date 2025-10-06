@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/055_doodle-doo_print.pdf"
 layout: manuscript
 excerpt: "Doodle-Doo-Doo"
-teaser: "assets/images/manuscript-images/055_doodle-doo_print.jpg"
+teaser: "/assets/images/manuscript-images/055_doodle-doo_print.jpg"
 ---
-Doodle-Doo-Doo

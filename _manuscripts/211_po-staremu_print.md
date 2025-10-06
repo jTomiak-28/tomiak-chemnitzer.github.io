@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/211_po-staremu_print.pdf"
 layout: manuscript
 excerpt: "Po Staremu"
-teaser: "assets/images/manuscript-images/211_po-staremu_print.jpg"
+teaser: "/assets/images/manuscript-images/211_po-staremu_print.jpg"
 ---
-Po Staremu

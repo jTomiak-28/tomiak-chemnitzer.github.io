@@ -11,6 +11,5 @@ medium: "print"
 pdf: "/assets/manuscripts/227_rose-waltz_print.pdf"
 layout: manuscript
 excerpt: "Rose Waltz"
-teaser: "assets/images/manuscript-images/227_rose-waltz_print.jpg"
+teaser: "/assets/images/manuscript-images/227_rose-waltz_print.jpg"
 ---
-Rose Waltz

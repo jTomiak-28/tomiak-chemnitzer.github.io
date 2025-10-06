@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/255_they-cut-down-the-old_print.pdf"
 layout: manuscript
 excerpt: "They Cut Down The Old Pine Tree"
-teaser: "assets/images/manuscript-images/255_they-cut-down-the-old_print.jpg"
+teaser: "/assets/images/manuscript-images/255_they-cut-down-the-old_print.jpg"
 ---
-They Cut Down The Old Pine Tree

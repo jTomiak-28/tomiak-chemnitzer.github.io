@@ -7,6 +7,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/239_somebody-loves-you_pen.pdf"
 layout: manuscript
 excerpt: "Somebody Loves You"
-teaser: "assets/images/manuscript-images/239_somebody-loves-you_pen.jpg"
+teaser: "/assets/images/manuscript-images/239_somebody-loves-you_pen.jpg"
 ---
-Somebody Loves You

@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/103_in-the-valley_print.pdf"
 layout: manuscript
 excerpt: "In The Valley Of The Moon"
-teaser: "assets/images/manuscript-images/103_in-the-valley_print.jpg"
+teaser: "/assets/images/manuscript-images/103_in-the-valley_print.jpg"
 ---
-In The Valley Of The Moon

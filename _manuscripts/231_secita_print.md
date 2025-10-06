@@ -10,6 +10,5 @@ medium: "print"
 pdf: "/assets/manuscripts/231_secita_print.pdf"
 layout: manuscript
 excerpt: "Secita-Polka"
-teaser: "assets/images/manuscript-images/231_secita_print.jpg"
+teaser: "/assets/images/manuscript-images/231_secita_print.jpg"
 ---
-Secita-Polka

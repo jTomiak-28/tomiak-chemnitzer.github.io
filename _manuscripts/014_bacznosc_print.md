@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/014_bacznosc_print.pdf"
 layout: manuscript
 excerpt: "Baczność"
-teaser: "assets/images/manuscript-images/014_bacznosc_print.jpg"
+teaser: "/assets/images/manuscript-images/014_bacznosc_print.jpg"
 ---
-Baczność

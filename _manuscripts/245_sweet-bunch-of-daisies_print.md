@@ -11,6 +11,5 @@ medium: "print"
 pdf: "/assets/manuscripts/245_sweet-bunch-of-daisies_print.pdf"
 layout: manuscript
 excerpt: "Sweet Bunch Of Daisies"
-teaser: "assets/images/manuscript-images/245_sweet-bunch-of-daisies_print.jpg"
+teaser: "/assets/images/manuscript-images/245_sweet-bunch-of-daisies_print.jpg"
 ---
-Sweet Bunch Of Daisies

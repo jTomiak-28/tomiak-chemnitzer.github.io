@@ -9,6 +9,5 @@ medium: "print"
 pdf: "/assets/manuscripts/067_francuzka-polka_print.pdf"
 layout: manuscript
 excerpt: "Francuzka Polka"
-teaser: "assets/images/manuscript-images/067_francuzka-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/067_francuzka-polka_print.jpg"
 ---
-Francuzka Polka

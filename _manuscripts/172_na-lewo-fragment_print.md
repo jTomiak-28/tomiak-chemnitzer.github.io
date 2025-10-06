@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/172_na-lewo-fragment_print.pdf"
 layout: manuscript
 excerpt: "Na Lewo"
-teaser: "assets/images/manuscript-images/172_na-lewo-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/172_na-lewo-fragment_print.jpg"
 ---
-Na Lewo

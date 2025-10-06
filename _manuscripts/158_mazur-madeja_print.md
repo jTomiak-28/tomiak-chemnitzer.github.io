@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/158_mazur-madeja_print.pdf"
 layout: manuscript
 excerpt: "Mazur Madeja"
-teaser: "assets/images/manuscript-images/158_mazur-madeja_print.jpg"
+teaser: "/assets/images/manuscript-images/158_mazur-madeja_print.jpg"
 ---
-Mazur Madeja

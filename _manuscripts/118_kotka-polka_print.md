@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/118_kotka-polka_print.pdf"
 layout: manuscript
 excerpt: "Kotka Polka"
-teaser: "assets/images/manuscript-images/118_kotka-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/118_kotka-polka_print.jpg"
 ---
-Kotka Polka

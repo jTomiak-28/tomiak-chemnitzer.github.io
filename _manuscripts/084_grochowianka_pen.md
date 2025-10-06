@@ -8,6 +8,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/084_grochowianka_pen.pdf"
 layout: manuscript
 excerpt: "Grochowka Polka"
-teaser: "assets/images/manuscript-images/084_grochowianka_pen.jpg"
+teaser: "/assets/images/manuscript-images/084_grochowianka_pen.jpg"
 ---
-Grochowka Polka

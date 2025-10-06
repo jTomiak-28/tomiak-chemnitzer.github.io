@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/156_mazur-dominjak_print.pdf"
 layout: manuscript
 excerpt: "Mazur Dominjak"
-teaser: "assets/images/manuscript-images/156_mazur-dominjak_print.jpg"
+teaser: "/assets/images/manuscript-images/156_mazur-dominjak_print.jpg"
 ---
-Mazur Dominjak

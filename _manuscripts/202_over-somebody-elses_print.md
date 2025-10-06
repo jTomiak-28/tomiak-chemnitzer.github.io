@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/202_over-somebody-elses_print.pdf"
 layout: manuscript
 excerpt: "Over Somebody Else's Shoulder"
-teaser: "assets/images/manuscript-images/202_over-somebody-elses_print.jpg"
+teaser: "/assets/images/manuscript-images/202_over-somebody-elses_print.jpg"
 ---
-Over Somebody Else's Shoulder

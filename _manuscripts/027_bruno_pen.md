@@ -6,6 +6,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/027_bruno_pen.pdf"
 layout: manuscript
 excerpt: "Bruno"
-teaser: "assets/images/manuscript-images/027_bruno_pen.jpg"
+teaser: "/assets/images/manuscript-images/027_bruno_pen.jpg"
 ---
-Bruno

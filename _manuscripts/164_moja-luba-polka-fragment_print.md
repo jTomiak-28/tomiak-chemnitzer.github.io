@@ -10,6 +10,5 @@ pdf: "/assets/manuscripts/164_moja-luba-polka-fragment_print.pdf"
 notes: "Fragment, edges on left side heavily worn"
 layout: manuscript
 excerpt: "Moja Luba Polka"
-teaser: "assets/images/manuscript-images/164_moja-luba-polka-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/164_moja-luba-polka-fragment_print.jpg"
 ---
-Moja Luba Polka

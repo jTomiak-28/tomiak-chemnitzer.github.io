@@ -7,6 +7,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/162_mazur_pen.pdf"
 layout: manuscript
 excerpt: "D Major Mazurka"
-teaser: "assets/images/manuscript-images/162_mazur_pen.jpg"
+teaser: "/assets/images/manuscript-images/162_mazur_pen.jpg"
 ---
-D Major Mazurka

@@ -13,6 +13,5 @@ pdf: "/assets/manuscripts/114_kinder-polka-fragment_print.pdf"
 notes: "Final measure worn"
 layout: manuscript
 excerpt: "Kinder Polka"
-teaser: "assets/images/manuscript-images/114_kinder-polka-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/114_kinder-polka-fragment_print.jpg"
 ---
-Kinder Polka

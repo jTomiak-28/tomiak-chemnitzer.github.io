@@ -11,6 +11,5 @@ medium: "print"
 pdf: "/assets/manuscripts/234_slowik_print.pdf"
 layout: manuscript
 excerpt: "Słowik Polka"
-teaser: "assets/images/manuscript-images/234_slowik_print.jpg"
+teaser: "/assets/images/manuscript-images/234_slowik_print.jpg"
 ---
-Słowik Polka

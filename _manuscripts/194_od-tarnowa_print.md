@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/194_od-tarnowa_print.pdf"
 layout: manuscript
 excerpt: "Od Tarnowa"
-teaser: "assets/images/manuscript-images/194_od-tarnowa_print.jpg"
+teaser: "/assets/images/manuscript-images/194_od-tarnowa_print.jpg"
 ---
-Od Tarnowa

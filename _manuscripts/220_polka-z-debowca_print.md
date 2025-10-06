@@ -17,6 +17,5 @@ pdf: "/assets/manuscripts/220_polka-z-debowca_print.pdf"
 notes: "Unusual that this 3/4 piece is labeled as polka"
 layout: manuscript
 excerpt: "Polka Z Debowca"
-teaser: "assets/images/manuscript-images/220_polka-z-debowca_print.jpg"
+teaser: "/assets/images/manuscript-images/220_polka-z-debowca_print.jpg"
 ---
-Polka Z Debowca

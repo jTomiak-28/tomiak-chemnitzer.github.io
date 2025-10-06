@@ -7,6 +7,5 @@ medium: "print"
 pdf: "/assets/manuscripts/006_8000-end-fragment_print.pdf"
 layout: manuscript
 excerpt: "8000 End Fragment"
-teaser: "assets/images/manuscript-images/006_8000-end-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/006_8000-end-fragment_print.jpg"
 ---
-8000 End Fragment

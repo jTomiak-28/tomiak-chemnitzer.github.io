@@ -7,6 +7,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/076_give-me-a-night_pen.pdf"
 layout: manuscript
 excerpt: "Give Me A Night In June"
-teaser: "assets/images/manuscript-images/076_give-me-a-night_pen.jpg"
+teaser: "/assets/images/manuscript-images/076_give-me-a-night_pen.jpg"
 ---
-Give Me A Night In June

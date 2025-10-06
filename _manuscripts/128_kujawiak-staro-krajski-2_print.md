@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/128_kujawiak-staro-krajski-2_print.pdf"
 layout: manuscript
 excerpt: "Kujawiak Staro Krajski No.2"
-teaser: "assets/images/manuscript-images/128_kujawiak-staro-krajski-2_print.jpg"
+teaser: "/assets/images/manuscript-images/128_kujawiak-staro-krajski-2_print.jpg"
 ---
-Kujawiak Staro Krajski No.2

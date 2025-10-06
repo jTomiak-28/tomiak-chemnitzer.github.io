@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/272_wanda-polka_print.pdf"
 layout: manuscript
 excerpt: "Wanda Polka"
-teaser: "assets/images/manuscript-images/272_wanda-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/272_wanda-polka_print.jpg"
 ---
-Wanda Polka

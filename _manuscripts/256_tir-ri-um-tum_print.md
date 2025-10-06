@@ -13,6 +13,5 @@ medium: "print"
 pdf: "/assets/manuscripts/256_tir-ri-um-tum_print.pdf"
 layout: manuscript
 excerpt: "Tir-Ri-Um Tum Mazurka"
-teaser: "assets/images/manuscript-images/256_tir-ri-um-tum_print.jpg"
+teaser: "/assets/images/manuscript-images/256_tir-ri-um-tum_print.jpg"
 ---
-Tir-Ri-Um Tum Mazurka

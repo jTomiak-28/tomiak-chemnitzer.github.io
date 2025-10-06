@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/030_cheek-to-cheek_print.pdf"
 layout: manuscript
 excerpt: "Cheek to Cheek"
-teaser: "assets/images/manuscript-images/030_cheek-to-cheek_print.jpg"
+teaser: "/assets/images/manuscript-images/030_cheek-to-cheek_print.jpg"
 ---
-Cheek to Cheek

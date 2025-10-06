@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/249_take-me-in-your-arms_print.pdf"
 layout: manuscript
 excerpt: "Take Me In Your Arms"
-teaser: "assets/images/manuscript-images/249_take-me-in-your-arms_print.jpg"
+teaser: "/assets/images/manuscript-images/249_take-me-in-your-arms_print.jpg"
 ---
-Take Me In Your Arms

@@ -15,6 +15,5 @@ pdf: "/assets/manuscripts/020_bedzie-piwko_print.pdf"
 notes: "Nonsensical drinking song title"
 layout: manuscript
 excerpt: "Będzie Piwko, Psie Korytko"
-teaser: "assets/images/manuscript-images/020_bedzie-piwko_print.jpg"
+teaser: "/assets/images/manuscript-images/020_bedzie-piwko_print.jpg"
 ---
-Będzie Piwko, Psie Korytko

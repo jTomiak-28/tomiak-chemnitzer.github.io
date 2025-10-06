@@ -12,6 +12,5 @@ pdf: "/assets/manuscripts/056_ducaty-polka-fragment_print.pdf"
 notes: "A few illegible sections due to worn edges"
 layout: manuscript
 excerpt: "Ducaty Polka"
-teaser: "assets/images/manuscript-images/056_ducaty-polka-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/056_ducaty-polka-fragment_print.jpg"
 ---
-Ducaty Polka

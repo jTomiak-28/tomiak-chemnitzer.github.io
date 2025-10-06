@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/195_od-ucha_print.pdf"
 layout: manuscript
 excerpt: "Od Ucha"
-teaser: "assets/images/manuscript-images/195_od-ucha_print.jpg"
+teaser: "/assets/images/manuscript-images/195_od-ucha_print.jpg"
 ---
-Od Ucha

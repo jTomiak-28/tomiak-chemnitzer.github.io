@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/157_mazur-gorskiego_print.pdf"
 layout: manuscript
 excerpt: "Mazur Gorskiego"
-teaser: "assets/images/manuscript-images/157_mazur-gorskiego_print.jpg"
+teaser: "/assets/images/manuscript-images/157_mazur-gorskiego_print.jpg"
 ---
-Mazur Gorskiego

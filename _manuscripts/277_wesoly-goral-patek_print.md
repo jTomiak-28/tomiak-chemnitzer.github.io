@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/277_wesoly-goral-patek_print.pdf"
 layout: manuscript
 excerpt: "Wesoly Goral"
-teaser: "assets/images/manuscript-images/277_wesoly-goral-patek_print.jpg"
+teaser: "/assets/images/manuscript-images/277_wesoly-goral-patek_print.jpg"
 ---
-Wesoly Goral

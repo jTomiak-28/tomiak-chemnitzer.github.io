@@ -14,6 +14,5 @@ pdf: "/assets/manuscripts/244_sprzedal-woly-na-fragment_print.pdf"
 notes: "Fragment- significant wear around bottom and right side"
 layout: manuscript
 excerpt: "Sprzedał Woły Na Yarmarku"
-teaser: "assets/images/manuscript-images/244_sprzedal-woly-na-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/244_sprzedal-woly-na-fragment_print.jpg"
 ---
-Sprzedał Woły Na Yarmarku

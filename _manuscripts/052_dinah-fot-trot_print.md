@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/052_dinah-fot-trot_print.pdf"
 layout: manuscript
 excerpt: "Dinah"
-teaser: "assets/images/manuscript-images/052_dinah-fot-trot_print.jpg"
+teaser: "/assets/images/manuscript-images/052_dinah-fot-trot_print.jpg"
 ---
-Dinah

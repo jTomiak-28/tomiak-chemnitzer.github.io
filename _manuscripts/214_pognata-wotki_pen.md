@@ -11,6 +11,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/214_pognata-wotki_pen.pdf"
 layout: manuscript
 excerpt: "Pognała Wołki"
-teaser: "assets/images/manuscript-images/214_pognata-wotki_pen.jpg"
+teaser: "/assets/images/manuscript-images/214_pognata-wotki_pen.jpg"
 ---
-Pognała Wołki

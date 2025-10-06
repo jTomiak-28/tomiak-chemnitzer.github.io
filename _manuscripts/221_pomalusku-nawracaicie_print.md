@@ -16,6 +16,5 @@ medium: "print"
 pdf: "/assets/manuscripts/221_pomalusku-nawracaicie_print.pdf"
 layout: manuscript
 excerpt: "Pomaluśku Nawracaicie"
-teaser: "assets/images/manuscript-images/221_pomalusku-nawracaicie_print.jpg"
+teaser: "/assets/images/manuscript-images/221_pomalusku-nawracaicie_print.jpg"
 ---
-Pomaluśku Nawracaicie

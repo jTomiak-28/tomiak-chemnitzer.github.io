@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/208_please-fox-trot_print.pdf"
 layout: manuscript
 excerpt: "Please"
-teaser: "assets/images/manuscript-images/208_please-fox-trot_print.jpg"
+teaser: "/assets/images/manuscript-images/208_please-fox-trot_print.jpg"
 ---
-Please

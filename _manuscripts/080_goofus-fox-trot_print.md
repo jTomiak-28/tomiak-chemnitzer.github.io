@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/080_goofus-fox-trot_print.pdf"
 layout: manuscript
 excerpt: "Goofus"
-teaser: "assets/images/manuscript-images/080_goofus-fox-trot_print.jpg"
+teaser: "/assets/images/manuscript-images/080_goofus-fox-trot_print.jpg"
 ---
-Goofus

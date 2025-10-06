@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/247_szewska-polka_print.pdf"
 layout: manuscript
 excerpt: "Szewska Polka"
-teaser: "assets/images/manuscript-images/247_szewska-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/247_szewska-polka_print.jpg"
 ---
-Szewska Polka

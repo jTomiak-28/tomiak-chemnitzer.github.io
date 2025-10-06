@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/282_whose-honey-are-you_print.pdf"
 layout: manuscript
 excerpt: "Whose Honey Are You?"
-teaser: "assets/images/manuscript-images/282_whose-honey-are-you_print.jpg"
+teaser: "/assets/images/manuscript-images/282_whose-honey-are-you_print.jpg"
 ---
-Whose Honey Are You?

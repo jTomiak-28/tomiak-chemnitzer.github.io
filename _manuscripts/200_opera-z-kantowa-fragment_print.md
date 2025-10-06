@@ -12,6 +12,5 @@ pdf: "/assets/manuscripts/200_opera-z-kantowa-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
 excerpt: "Opera Z Kantowa"
-teaser: "assets/images/manuscript-images/200_opera-z-kantowa-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/200_opera-z-kantowa-fragment_print.jpg"
 ---
-Opera Z Kantowa

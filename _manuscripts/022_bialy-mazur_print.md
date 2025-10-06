@@ -13,6 +13,5 @@ medium: "print"
 pdf: "/assets/manuscripts/022_bialy-mazur_print.pdf"
 layout: manuscript
 excerpt: "Bialy Mazur"
-teaser: "assets/images/manuscript-images/022_bialy-mazur_print.jpg"
+teaser: "/assets/images/manuscript-images/022_bialy-mazur_print.jpg"
 ---
-Bialy Mazur

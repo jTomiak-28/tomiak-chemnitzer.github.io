@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/203_paradise-waltz_print.pdf"
 layout: manuscript
 excerpt: "Paradise"
-teaser: "assets/images/manuscript-images/203_paradise-waltz_print.jpg"
+teaser: "/assets/images/manuscript-images/203_paradise-waltz_print.jpg"
 ---
-Paradise

@@ -11,6 +11,5 @@ medium: "print"
 pdf: "/assets/manuscripts/252_the-man-on-the-flying_print.pdf"
 layout: manuscript
 excerpt: "The Man On The Flying Trapeze"
-teaser: "assets/images/manuscript-images/252_the-man-on-the-flying_print.jpg"
+teaser: "/assets/images/manuscript-images/252_the-man-on-the-flying_print.jpg"
 ---
-The Man On The Flying Trapeze

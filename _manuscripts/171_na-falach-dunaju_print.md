@@ -13,6 +13,5 @@ pdf: "/assets/manuscripts/171_na-falach-dunaju_print.pdf"
 notes: "Alternate arrangement of ID#051, "Danube Waves Waltz""
 layout: manuscript
 excerpt: "Na Falach Dunaju"
-teaser: "assets/images/manuscript-images/171_na-falach-dunaju_print.jpg"
+teaser: "/assets/images/manuscript-images/171_na-falach-dunaju_print.jpg"
 ---
-Na Falach Dunaju

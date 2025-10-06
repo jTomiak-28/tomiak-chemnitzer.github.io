@@ -11,6 +11,5 @@ medium: "print"
 pdf: "/assets/manuscripts/088_helena-polka_print.pdf"
 layout: manuscript
 excerpt: "Helena- Polka"
-teaser: "assets/images/manuscript-images/088_helena-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/088_helena-polka_print.jpg"
 ---
-Helena- Polka

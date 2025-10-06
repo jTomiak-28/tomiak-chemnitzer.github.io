@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/107_julianna_print.pdf"
 layout: manuscript
 excerpt: "Julianna"
-teaser: "assets/images/manuscript-images/107_julianna_print.jpg"
+teaser: "/assets/images/manuscript-images/107_julianna_print.jpg"
 ---
-Julianna

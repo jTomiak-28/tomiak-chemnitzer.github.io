@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/183_naokolo-ciemny-las_print.pdf"
 layout: manuscript
 excerpt: "Naokoło Ciemny Las"
-teaser: "assets/images/manuscript-images/183_naokolo-ciemny-las_print.jpg"
+teaser: "/assets/images/manuscript-images/183_naokolo-ciemny-las_print.jpg"
 ---
-Naokoło Ciemny Las

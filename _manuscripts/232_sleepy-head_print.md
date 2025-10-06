@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/232_sleepy-head_print.pdf"
 layout: manuscript
 excerpt: "Sleepy Head"
-teaser: "assets/images/manuscript-images/232_sleepy-head_print.jpg"
+teaser: "/assets/images/manuscript-images/232_sleepy-head_print.jpg"
 ---
-Sleepy Head

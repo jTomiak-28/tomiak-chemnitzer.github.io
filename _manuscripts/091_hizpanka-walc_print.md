@@ -9,6 +9,5 @@ medium: "print"
 pdf: "/assets/manuscripts/091_hizpanka-walc_print.pdf"
 layout: manuscript
 excerpt: "Hiszpanka Walc"
-teaser: "assets/images/manuscript-images/091_hizpanka-walc_print.jpg"
+teaser: "/assets/images/manuscript-images/091_hizpanka-walc_print.jpg"
 ---
-Hiszpanka Walc

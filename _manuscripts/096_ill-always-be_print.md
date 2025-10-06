@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/096_ill-always-be_print.pdf"
 layout: manuscript
 excerpt: "I'll Always Be In Love With You"
-teaser: "assets/images/manuscript-images/096_ill-always-be_print.jpg"
+teaser: "/assets/images/manuscript-images/096_ill-always-be_print.jpg"
 ---
-I'll Always Be In Love With You

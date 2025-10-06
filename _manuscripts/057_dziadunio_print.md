@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/057_dziadunio_print.pdf"
 layout: manuscript
 excerpt: "Dziadunio"
-teaser: "assets/images/manuscript-images/057_dziadunio_print.jpg"
+teaser: "/assets/images/manuscript-images/057_dziadunio_print.jpg"
 ---
-Dziadunio

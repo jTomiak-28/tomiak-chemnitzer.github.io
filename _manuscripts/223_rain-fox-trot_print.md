@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/223_rain-fox-trot_print.pdf"
 layout: manuscript
 excerpt: "Rain"
-teaser: "assets/images/manuscript-images/223_rain-fox-trot_print.jpg"
+teaser: "/assets/images/manuscript-images/223_rain-fox-trot_print.jpg"
 ---
-Rain

@@ -9,6 +9,5 @@ pdf: "/assets/manuscripts/047_D major-march_pencil.pdf"
 notes: "Title uncertain, appears on last page"
 layout: manuscript
 excerpt: "Cochalanka Polka"
-teaser: "assets/images/manuscript-images/047_D major-march_pencil.jpg"
+teaser: "/assets/images/manuscript-images/047_D major-march_pencil.jpg"
 ---
-Cochalanka Polka

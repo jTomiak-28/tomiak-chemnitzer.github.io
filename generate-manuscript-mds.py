@@ -62,9 +62,8 @@ def main():
             # Always include layout
             front_matter.append("layout: manuscript")
             front_matter.append(f"excerpt: \"{title}\"")
-            front_matter.append(f"teaser: \"{image_path}\"")
+            front_matter.append(f"teaser: \"/{image_path}\"")
             front_matter.append("---")
-            front_matter.append(title)
             front_matter.append("")
 
             # Write file

@@ -15,6 +15,5 @@ pdf: "/assets/manuscripts/108_june-in-january_print.pdf"
 notes: "Tempo marking: "Slowly & broadly""
 layout: manuscript
 excerpt: "June in January"
-teaser: "assets/images/manuscript-images/108_june-in-january_print.jpg"
+teaser: "/assets/images/manuscript-images/108_june-in-january_print.jpg"
 ---
-June in January

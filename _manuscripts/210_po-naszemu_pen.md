@@ -8,6 +8,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/210_po-naszemu_pen.pdf"
 layout: manuscript
 excerpt: "Po Naszemu Polka"
-teaser: "assets/images/manuscript-images/210_po-naszemu_pen.jpg"
+teaser: "/assets/images/manuscript-images/210_po-naszemu_pen.jpg"
 ---
-Po Naszemu Polka

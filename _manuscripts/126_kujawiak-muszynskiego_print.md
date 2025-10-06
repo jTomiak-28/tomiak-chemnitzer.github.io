@@ -16,6 +16,5 @@ medium: "print"
 pdf: "/assets/manuscripts/126_kujawiak-muszynskiego_print.pdf"
 layout: manuscript
 excerpt: "Kujawiak Muszynskiego"
-teaser: "assets/images/manuscript-images/126_kujawiak-muszynskiego_print.jpg"
+teaser: "/assets/images/manuscript-images/126_kujawiak-muszynskiego_print.jpg"
 ---
-Kujawiak Muszynskiego

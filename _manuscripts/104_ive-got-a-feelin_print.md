@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/104_ive-got-a-feelin_print.pdf"
 layout: manuscript
 excerpt: "I've Got A Feelin' You're Foolin'"
-teaser: "assets/images/manuscript-images/104_ive-got-a-feelin_print.jpg"
+teaser: "/assets/images/manuscript-images/104_ive-got-a-feelin_print.jpg"
 ---
-I've Got A Feelin' You're Foolin'

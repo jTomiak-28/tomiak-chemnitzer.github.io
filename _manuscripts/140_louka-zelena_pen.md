@@ -8,6 +8,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/140_louka-zelena_pen.pdf"
 layout: manuscript
 excerpt: "Louka Zelena Waltz"
-teaser: "assets/images/manuscript-images/140_louka-zelena_pen.jpg"
+teaser: "/assets/images/manuscript-images/140_louka-zelena_pen.jpg"
 ---
-Louka Zelena Waltz

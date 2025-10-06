@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/308_zywiej-moja-dziewczyno_print.pdf"
 layout: manuscript
 excerpt: "Zywiej, Zywiej, moja Dziewczyno Polka"
-teaser: "assets/images/manuscript-images/308_zywiej-moja-dziewczyno_print.jpg"
+teaser: "/assets/images/manuscript-images/308_zywiej-moja-dziewczyno_print.jpg"
 ---
-Zywiej, Zywiej, moja Dziewczyno Polka

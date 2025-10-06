@@ -11,6 +11,5 @@ medium: "print"
 pdf: "/assets/manuscripts/222_rach-ciach_print.pdf"
 layout: manuscript
 excerpt: "Rach Ciach Ciach"
-teaser: "assets/images/manuscript-images/222_rach-ciach_print.jpg"
+teaser: "/assets/images/manuscript-images/222_rach-ciach_print.jpg"
 ---
-Rach Ciach Ciach

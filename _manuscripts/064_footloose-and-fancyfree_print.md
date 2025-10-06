@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/064_footloose-and-fancyfree_print.pdf"
 layout: manuscript
 excerpt: "Footloose and Fancyfree"
-teaser: "assets/images/manuscript-images/064_footloose-and-fancyfree_print.jpg"
+teaser: "/assets/images/manuscript-images/064_footloose-and-fancyfree_print.jpg"
 ---
-Footloose and Fancyfree

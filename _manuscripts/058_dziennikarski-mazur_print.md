@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/058_dziennikarski-mazur_print.pdf"
 layout: manuscript
 excerpt: "Dziennikarski Mazur"
-teaser: "assets/images/manuscript-images/058_dziennikarski-mazur_print.jpg"
+teaser: "/assets/images/manuscript-images/058_dziennikarski-mazur_print.jpg"
 ---
-Dziennikarski Mazur

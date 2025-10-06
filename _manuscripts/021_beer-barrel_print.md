@@ -15,6 +15,5 @@ pdf: "/assets/manuscripts/021_beer-barrel_print.pdf"
 notes: "Grandad's favorite polka"
 layout: manuscript
 excerpt: "Beer Barrel Polka"
-teaser: "assets/images/manuscript-images/021_beer-barrel_print.jpg"
+teaser: "/assets/images/manuscript-images/021_beer-barrel_print.jpg"
 ---
-Beer Barrel Polka

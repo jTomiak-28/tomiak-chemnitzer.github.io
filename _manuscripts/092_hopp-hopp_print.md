@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/092_hopp-hopp_print.pdf"
 layout: manuscript
 excerpt: "Hopp Hopp"
-teaser: "assets/images/manuscript-images/092_hopp-hopp_print.jpg"
+teaser: "/assets/images/manuscript-images/092_hopp-hopp_print.jpg"
 ---
-Hopp Hopp

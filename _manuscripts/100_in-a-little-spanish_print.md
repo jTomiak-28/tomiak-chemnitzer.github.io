@@ -15,6 +15,5 @@ pdf: "/assets/manuscripts/100_in-a-little-spanish_print.pdf"
 notes: "Subtitle: "'Twas on a Night Like This""
 layout: manuscript
 excerpt: "In A Little Spanish Town"
-teaser: "assets/images/manuscript-images/100_in-a-little-spanish_print.jpg"
+teaser: "/assets/images/manuscript-images/100_in-a-little-spanish_print.jpg"
 ---
-In A Little Spanish Town

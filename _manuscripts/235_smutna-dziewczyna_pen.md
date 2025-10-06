@@ -15,6 +15,5 @@ medium: "pen"
 pdf: "/assets/manuscripts/235_smutna-dziewczyna_pen.pdf"
 layout: manuscript
 excerpt: "Smutna Dziewczyna"
-teaser: "assets/images/manuscript-images/235_smutna-dziewczyna_pen.jpg"
+teaser: "/assets/images/manuscript-images/235_smutna-dziewczyna_pen.jpg"
 ---
-Smutna Dziewczyna

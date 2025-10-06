@@ -11,6 +11,5 @@ medium: "print"
 pdf: "/assets/manuscripts/015_barabara-polka_print.pdf"
 layout: manuscript
 excerpt: "Barbara Polka"
-teaser: "assets/images/manuscript-images/015_barabara-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/015_barabara-polka_print.jpg"
 ---
-Barbara Polka

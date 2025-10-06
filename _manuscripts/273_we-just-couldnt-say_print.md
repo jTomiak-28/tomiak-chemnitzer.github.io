@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/273_we-just-couldnt-say_print.pdf"
 layout: manuscript
 excerpt: "We Just Couldn't Say Good-bye"
-teaser: "assets/images/manuscript-images/273_we-just-couldnt-say_print.jpg"
+teaser: "/assets/images/manuscript-images/273_we-just-couldnt-say_print.jpg"
 ---
-We Just Couldn't Say Good-bye

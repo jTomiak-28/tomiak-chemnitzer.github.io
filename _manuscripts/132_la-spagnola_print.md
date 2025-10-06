@@ -13,6 +13,5 @@ medium: "print"
 pdf: "/assets/manuscripts/132_la-spagnola_print.pdf"
 layout: manuscript
 excerpt: "La Spagnola (Hispanka) Waltz"
-teaser: "assets/images/manuscript-images/132_la-spagnola_print.jpg"
+teaser: "/assets/images/manuscript-images/132_la-spagnola_print.jpg"
 ---
-La Spagnola (Hispanka) Waltz

@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/228_rozalien_print.pdf"
 layout: manuscript
 excerpt: "Rozalien-Polka"
-teaser: "assets/images/manuscript-images/228_rozalien_print.jpg"
+teaser: "/assets/images/manuscript-images/228_rozalien_print.jpg"
 ---
-Rozalien-Polka

@@ -10,6 +10,5 @@ medium: "print"
 pdf: "/assets/manuscripts/178_na-zielonej-lace_print.pdf"
 layout: manuscript
 excerpt: "Na Źielonej Łące"
-teaser: "assets/images/manuscript-images/178_na-zielonej-lace_print.jpg"
+teaser: "/assets/images/manuscript-images/178_na-zielonej-lace_print.jpg"
 ---
-Na Źielonej Łące

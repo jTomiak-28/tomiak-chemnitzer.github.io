@@ -10,6 +10,5 @@ medium: "print"
 pdf: "/assets/manuscripts/051_danube-waves_print.pdf"
 layout: manuscript
 excerpt: "Danube Waves Waltz"
-teaser: "assets/images/manuscript-images/051_danube-waves_print.jpg"
+teaser: "/assets/images/manuscript-images/051_danube-waves_print.jpg"
 ---
-Danube Waves Waltz

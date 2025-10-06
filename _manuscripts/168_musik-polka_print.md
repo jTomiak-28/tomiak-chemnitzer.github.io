@@ -12,6 +12,5 @@ medium: "print"
 pdf: "/assets/manuscripts/168_musik-polka_print.pdf"
 layout: manuscript
 excerpt: "Musik Polka"
-teaser: "assets/images/manuscript-images/168_musik-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/168_musik-polka_print.jpg"
 ---
-Musik Polka

@@ -15,6 +15,5 @@ medium: "print"
 pdf: "/assets/manuscripts/146_maciek-w-korycie_print.pdf"
 layout: manuscript
 excerpt: "Maciek w Korycie"
-teaser: "assets/images/manuscript-images/146_maciek-w-korycie_print.jpg"
+teaser: "/assets/images/manuscript-images/146_maciek-w-korycie_print.jpg"
 ---
-Maciek w Korycie

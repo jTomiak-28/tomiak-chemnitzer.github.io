@@ -10,6 +10,5 @@ medium: "print"
 pdf: "/assets/manuscripts/134_lastucka-polka_print.pdf"
 layout: manuscript
 excerpt: "Lastucka Polka"
-teaser: "assets/images/manuscript-images/134_lastucka-polka_print.jpg"
+teaser: "/assets/images/manuscript-images/134_lastucka-polka_print.jpg"
 ---
-Lastucka Polka

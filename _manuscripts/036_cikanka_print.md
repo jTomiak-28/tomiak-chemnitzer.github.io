@@ -13,6 +13,5 @@ medium: "print"
 pdf: "/assets/manuscripts/036_cikanka_print.pdf"
 layout: manuscript
 excerpt: "Cikanka"
-teaser: "assets/images/manuscript-images/036_cikanka_print.jpg"
+teaser: "/assets/images/manuscript-images/036_cikanka_print.jpg"
 ---
-Cikanka

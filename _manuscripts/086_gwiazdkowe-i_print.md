@@ -13,6 +13,5 @@ pdf: "/assets/manuscripts/086_gwiazdkowe-i_print.pdf"
 notes: "Collection of 6 very short tunes relating to holidays"
 layout: manuscript
 excerpt: "Gwiazdkowe i Swiateczne Piesni"
-teaser: "assets/images/manuscript-images/086_gwiazdkowe-i_print.jpg"
+teaser: "/assets/images/manuscript-images/086_gwiazdkowe-i_print.jpg"
 ---
-Gwiazdkowe i Swiateczne Piesni

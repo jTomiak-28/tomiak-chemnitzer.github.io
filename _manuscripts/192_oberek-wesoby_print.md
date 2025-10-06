@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/192_oberek-wesoby_print.pdf"
 layout: manuscript
 excerpt: "Oberek Wesoby"
-teaser: "assets/images/manuscript-images/192_oberek-wesoby_print.jpg"
+teaser: "/assets/images/manuscript-images/192_oberek-wesoby_print.jpg"
 ---
-Oberek Wesoby

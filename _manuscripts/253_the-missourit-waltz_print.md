@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/253_the-missourit-waltz_print.pdf"
 layout: manuscript
 excerpt: "The Missouri Waltz"
-teaser: "assets/images/manuscript-images/253_the-missourit-waltz_print.jpg"
+teaser: "/assets/images/manuscript-images/253_the-missourit-waltz_print.jpg"
 ---
-The Missouri Waltz

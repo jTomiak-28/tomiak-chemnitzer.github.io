@@ -14,6 +14,5 @@ medium: "print"
 pdf: "/assets/manuscripts/054_do-upadlego-fragment_print.pdf"
 layout: manuscript
 excerpt: "Do Upadłego"
-teaser: "assets/images/manuscript-images/054_do-upadlego-fragment_print.jpg"
+teaser: "/assets/images/manuscript-images/054_do-upadlego-fragment_print.jpg"
 ---
-Do Upadłego

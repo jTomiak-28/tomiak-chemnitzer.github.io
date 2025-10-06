@@ -11,5 +11,6 @@ collection to produce this comprehensive archive of sheet music.
 <div class="grid__wrapper">
   {% for post in site.manuscripts %}
     {% include archive-single.html type="grid" %}
+    {{ manuscript.teaser }}
   {% endfor %}
 </div>

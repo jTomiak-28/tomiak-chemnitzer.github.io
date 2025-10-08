@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/112_kaska-z-mazurem_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/112_kaska-z-mazurem_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/112_kaska-z-mazurem_print.jpg"
 ---

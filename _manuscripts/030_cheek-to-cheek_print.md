@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/030_cheek-to-cheek_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/030_cheek-to-cheek_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/030_cheek-to-cheek_print.jpg"
 ---

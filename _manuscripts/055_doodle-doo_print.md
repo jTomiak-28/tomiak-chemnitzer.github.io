@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/055_doodle-doo_print.pdf"
 layout: manuscript
 excerpt: "G major, 4/4"
-teaser: "/assets/images/manuscript-images/055_doodle-doo_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/055_doodle-doo_print.jpg"
 ---

@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/144_lulus-back-in_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/144_lulus-back-in_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/144_lulus-back-in_print.jpg"
 ---

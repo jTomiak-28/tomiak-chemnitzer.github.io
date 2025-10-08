@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/103_in-the-valley_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/103_in-the-valley_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/103_in-the-valley_print.jpg"
 ---

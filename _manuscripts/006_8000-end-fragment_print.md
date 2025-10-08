@@ -7,5 +7,6 @@ medium: "print"
 pdf: "/assets/manuscripts/006_8000-end-fragment_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/006_8000-end-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/006_8000-end-fragment_print.jpg"
 ---

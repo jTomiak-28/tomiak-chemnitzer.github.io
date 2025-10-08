@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/260_troske-mi-sie_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/260_troske-mi-sie_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/260_troske-mi-sie_print.jpg"
 ---

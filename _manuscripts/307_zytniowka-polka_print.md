@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/307_zytniowka-polka_print.pdf"
 layout: manuscript
 excerpt: "A major, 2/4"
-teaser: "/assets/images/manuscript-images/307_zytniowka-polka_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/307_zytniowka-polka_print.jpg"
 ---

@@ -11,5 +11,6 @@ medium: "print"
 pdf: "/assets/manuscripts/227_rose-waltz_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/227_rose-waltz_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/227_rose-waltz_print.jpg"
 ---

@@ -11,5 +11,6 @@ medium: "print"
 pdf: "/assets/manuscripts/207_pieszczotka_print.pdf"
 layout: manuscript
 excerpt: "A major, 2/4"
-teaser: "/assets/images/manuscript-images/207_pieszczotka_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/207_pieszczotka_print.jpg"
 ---

@@ -13,5 +13,6 @@ pdf: "/assets/manuscripts/291_wlesie_polka.pdf"
 notes: "Title appears to be a corrupted Polish phrase: 'W' should be separate from 'Lesie' for proper Polish"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/291_wlesie_polka.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/291_wlesie_polka.jpg"
 ---

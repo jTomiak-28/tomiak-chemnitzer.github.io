@@ -8,5 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/084_grochowianka_pen.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/084_grochowianka_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/084_grochowianka_pen.jpg"
 ---

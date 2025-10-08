@@ -15,5 +15,6 @@ pdf: "/assets/manuscripts/097_ill-be-faithful_print.pdf"
 notes: "Includes tempo marking "Slow""
 layout: manuscript
 excerpt: "C major, 2/2"
-teaser: "/assets/images/manuscript-images/097_ill-be-faithful_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/097_ill-be-faithful_print.jpg"
 ---

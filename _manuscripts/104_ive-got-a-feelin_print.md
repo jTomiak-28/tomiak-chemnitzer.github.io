@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/104_ive-got-a-feelin_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/104_ive-got-a-feelin_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/104_ive-got-a-feelin_print.jpg"
 ---

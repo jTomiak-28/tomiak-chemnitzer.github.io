@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/080_goofus-fox-trot_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/080_goofus-fox-trot_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/080_goofus-fox-trot_print.jpg"
 ---

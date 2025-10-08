@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/095_ida-sweet-as_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/095_ida-sweet-as_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/095_ida-sweet-as_print.jpg"
 ---

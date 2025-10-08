@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/224_repasz-band-pateks_print.pdf"
 layout: manuscript
 excerpt: "D major, 6/8"
-teaser: "/assets/images/manuscript-images/224_repasz-band-pateks_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/224_repasz-band-pateks_print.jpg"
 ---

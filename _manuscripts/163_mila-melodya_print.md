@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/163_mila-melodya_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/163_mila-melodya_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/163_mila-melodya_print.jpg"
 ---

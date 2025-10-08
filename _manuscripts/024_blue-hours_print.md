@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/024_blue-hours_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/024_blue-hours_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/024_blue-hours_print.jpg"
 ---

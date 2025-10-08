@@ -10,5 +10,6 @@ pdf: "/assets/manuscripts/124_kujawiak-6_print.pdf"
 notes: "Publisher cut off at bottom"
 layout: manuscript
 excerpt: "A major, 3/4"
-teaser: "/assets/images/manuscript-images/124_kujawiak-6_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/124_kujawiak-6_print.jpg"
 ---

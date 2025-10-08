@@ -13,5 +13,6 @@ medium: "print"
 pdf: "/assets/manuscripts/213_podhalanka-polka_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/213_podhalanka-polka_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/213_podhalanka-polka_print.jpg"
 ---

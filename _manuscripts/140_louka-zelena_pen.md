@@ -8,5 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/140_louka-zelena_pen.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/140_louka-zelena_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/140_louka-zelena_pen.jpg"
 ---

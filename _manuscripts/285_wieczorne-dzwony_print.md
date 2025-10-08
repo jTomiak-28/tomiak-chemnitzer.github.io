@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/285_wieczorne-dzwony_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/285_wieczorne-dzwony_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/285_wieczorne-dzwony_print.jpg"
 ---

@@ -16,5 +16,6 @@ pdf: "/assets/manuscripts/082_goralska-polka_print.pdf"
 notes: "Rare D minor key, modulates to D Major"
 layout: manuscript
 excerpt: "D minor, 2/4"
-teaser: "/assets/images/manuscript-images/082_goralska-polka_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/082_goralska-polka_print.jpg"
 ---

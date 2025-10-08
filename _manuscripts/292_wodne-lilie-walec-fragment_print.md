@@ -11,5 +11,6 @@ medium: "print"
 pdf: "/assets/manuscripts/292_wodne-lilie-walec-fragment_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/292_wodne-lilie-walec-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/292_wodne-lilie-walec-fragment_print.jpg"
 ---

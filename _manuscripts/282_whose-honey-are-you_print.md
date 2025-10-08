@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/282_whose-honey-are-you_print.pdf"
 layout: manuscript
 excerpt: "C major, 2/2"
-teaser: "/assets/images/manuscript-images/282_whose-honey-are-you_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/282_whose-honey-are-you_print.jpg"
 ---

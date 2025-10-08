@@ -16,5 +16,6 @@ pdf: "/assets/manuscripts/012_all-i-do-is-dream_print.pdf"
 notes: "Appears in musical, has tempo marking: "slowly""
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/012_all-i-do-is-dream_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/012_all-i-do-is-dream_print.jpg"
 ---

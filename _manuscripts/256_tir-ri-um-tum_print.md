@@ -13,5 +13,6 @@ medium: "print"
 pdf: "/assets/manuscripts/256_tir-ri-um-tum_print.pdf"
 layout: manuscript
 excerpt: "A major, 3/4"
-teaser: "/assets/images/manuscript-images/256_tir-ri-um-tum_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/256_tir-ri-um-tum_print.jpg"
 ---

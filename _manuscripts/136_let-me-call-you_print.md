@@ -13,5 +13,6 @@ medium: "print"
 pdf: "/assets/manuscripts/136_let-me-call-you_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/136_let-me-call-you_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/136_let-me-call-you_print.jpg"
 ---

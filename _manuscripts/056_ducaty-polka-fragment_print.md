@@ -12,5 +12,6 @@ pdf: "/assets/manuscripts/056_ducaty-polka-fragment_print.pdf"
 notes: "A few illegible sections due to worn edges"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/056_ducaty-polka-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/056_ducaty-polka-fragment_print.jpg"
 ---

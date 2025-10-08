@@ -11,5 +11,6 @@ medium: "print"
 pdf: "/assets/manuscripts/252_the-man-on-the-flying_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/252_the-man-on-the-flying_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/252_the-man-on-the-flying_print.jpg"
 ---

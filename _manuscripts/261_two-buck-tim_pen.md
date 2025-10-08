@@ -8,5 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/261_two-buck-tim_pen.pdf"
 layout: manuscript
 excerpt: "C major, 2/2"
-teaser: "/assets/images/manuscript-images/261_two-buck-tim_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/261_two-buck-tim_pen.jpg"
 ---

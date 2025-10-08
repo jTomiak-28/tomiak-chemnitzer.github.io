@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/202_over-somebody-elses_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/202_over-somebody-elses_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/202_over-somebody-elses_print.jpg"
 ---

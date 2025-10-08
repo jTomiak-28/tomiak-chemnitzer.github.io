@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/255_they-cut-down-the-old_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/255_they-cut-down-the-old_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/255_they-cut-down-the-old_print.jpg"
 ---

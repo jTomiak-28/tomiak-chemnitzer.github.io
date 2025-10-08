@@ -14,5 +14,6 @@ pdf: "/assets/manuscripts/042_czy-pamietasy-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/042_czy-pamietasy-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/042_czy-pamietasy-fragment_print.jpg"
 ---

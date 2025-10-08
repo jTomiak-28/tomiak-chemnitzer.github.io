@@ -11,5 +11,6 @@ medium: "print"
 pdf: "/assets/manuscripts/215_pogotowie_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/215_pogotowie_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/215_pogotowie_print.jpg"
 ---

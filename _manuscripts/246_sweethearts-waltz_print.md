@@ -14,5 +14,6 @@ pdf: "/assets/manuscripts/246_sweethearts-waltz_print.pdf"
 notes: "Rare "p" dynamic marking"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/246_sweethearts-waltz_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/246_sweethearts-waltz_print.jpg"
 ---

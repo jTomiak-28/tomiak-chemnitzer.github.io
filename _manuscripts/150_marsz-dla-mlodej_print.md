@@ -13,5 +13,6 @@ medium: "print"
 pdf: "/assets/manuscripts/150_marsz-dla-mlodej_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/150_marsz-dla-mlodej_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/150_marsz-dla-mlodej_print.jpg"
 ---

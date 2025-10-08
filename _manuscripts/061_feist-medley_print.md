@@ -14,5 +14,6 @@ pdf: "/assets/manuscripts/061_feist-medley_print.pdf"
 notes: "Medley of "Feather Your Nest", "Goofus", and "The Darktown Strutters Ball""
 layout: manuscript
 excerpt: "A major, 4/4"
-teaser: "/assets/images/manuscript-images/061_feist-medley_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/061_feist-medley_print.jpg"
 ---

@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/194_od-tarnowa_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/194_od-tarnowa_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/194_od-tarnowa_print.jpg"
 ---

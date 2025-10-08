@@ -9,5 +9,6 @@ pdf: "/assets/manuscripts/182_naokolo-ciemny-las_pencil.pdf"
 notes: "No time signature or notes, just Chemnitzer numbers in pencil"
 layout: manuscript
 excerpt: "A major, 2/4"
-teaser: "/assets/images/manuscript-images/182_naokolo-ciemny-las_pencil.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/182_naokolo-ciemny-las_pencil.jpg"
 ---

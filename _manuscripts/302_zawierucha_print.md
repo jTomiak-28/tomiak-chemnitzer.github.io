@@ -9,5 +9,6 @@ medium: "print"
 pdf: "/assets/manuscripts/302_zawierucha_print.pdf"
 layout: manuscript
 excerpt: "A major, 3/4"
-teaser: "/assets/images/manuscript-images/302_zawierucha_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/302_zawierucha_print.jpg"
 ---

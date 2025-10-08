@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/158_mazur-madeja_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/158_mazur-madeja_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/158_mazur-madeja_print.jpg"
 ---

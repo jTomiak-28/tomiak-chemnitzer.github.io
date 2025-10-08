@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/129_kujawiak-staro-krajski_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/129_kujawiak-staro-krajski_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/129_kujawiak-staro-krajski_print.jpg"
 ---

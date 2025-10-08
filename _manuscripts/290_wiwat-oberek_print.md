@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/290_wiwat-oberek_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/8"
-teaser: "/assets/images/manuscript-images/290_wiwat-oberek_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/290_wiwat-oberek_print.jpg"
 ---

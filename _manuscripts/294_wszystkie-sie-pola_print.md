@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/294_wszystkie-sie-pola_print.pdf"
 layout: manuscript
 excerpt: "A major, 3/4"
-teaser: "/assets/images/manuscript-images/294_wszystkie-sie-pola_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/294_wszystkie-sie-pola_print.jpg"
 ---

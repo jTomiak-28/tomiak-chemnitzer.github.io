@@ -10,5 +10,6 @@ pdf: "/assets/manuscripts/257_trink-bruderlein_pen.pdf"
 notes: "Popular German song"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/257_trink-bruderlein_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/257_trink-bruderlein_pen.jpg"
 ---

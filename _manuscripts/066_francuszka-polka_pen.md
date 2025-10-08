@@ -8,5 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/066_francuszka-polka_pen.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/066_francuszka-polka_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/066_francuszka-polka_pen.jpg"
 ---

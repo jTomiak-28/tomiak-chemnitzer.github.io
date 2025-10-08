@@ -9,5 +9,6 @@ pdf: "/assets/manuscripts/270_walczyki-ludowe_pen.pdf"
 notes: "Incomplete: no concertina numbers, just the melody. Includes rare dynamic "p" at beginning"
 layout: manuscript
 excerpt: "A major, 3/4"
-teaser: "/assets/images/manuscript-images/270_walczyki-ludowe_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/270_walczyki-ludowe_pen.jpg"
 ---

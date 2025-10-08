@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/127_kujawiak-no8_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/127_kujawiak-no8_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/127_kujawiak-no8_print.jpg"
 ---

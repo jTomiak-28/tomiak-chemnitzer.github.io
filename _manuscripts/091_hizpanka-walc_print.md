@@ -9,5 +9,6 @@ medium: "print"
 pdf: "/assets/manuscripts/091_hizpanka-walc_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/091_hizpanka-walc_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/091_hizpanka-walc_print.jpg"
 ---

@@ -13,5 +13,6 @@ pdf: "/assets/manuscripts/267_w-szajliku_print.pdf"
 notes: "Duplicate of ID#266, but in a different typeset and slightly more worn"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/267_w-szajliku_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/267_w-szajliku_print.jpg"
 ---

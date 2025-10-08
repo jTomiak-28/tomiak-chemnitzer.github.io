@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/153_matus-moja-matus-book_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/153_matus-moja-matus-book_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/153_matus-moja-matus-book_print.jpg"
 ---

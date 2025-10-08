@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/232_sleepy-head_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/232_sleepy-head_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/232_sleepy-head_print.jpg"
 ---

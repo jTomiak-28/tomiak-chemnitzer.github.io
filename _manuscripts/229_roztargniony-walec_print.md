@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/229_roztargniony-walec_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/229_roztargniony-walec_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/229_roztargniony-walec_print.jpg"
 ---

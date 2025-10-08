@@ -10,5 +10,6 @@ pdf: "/assets/manuscripts/197_oh-oaken-leaf-fragment_print.pdf"
 notes: "Fragment, bottom staves missing"
 layout: manuscript
 excerpt: "C major, 3/4"
-teaser: "/assets/images/manuscript-images/197_oh-oaken-leaf-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/197_oh-oaken-leaf-fragment_print.jpg"
 ---

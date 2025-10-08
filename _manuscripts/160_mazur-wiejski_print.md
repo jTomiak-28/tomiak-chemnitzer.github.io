@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/160_mazur-wiejski_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/160_mazur-wiejski_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/160_mazur-wiejski_print.jpg"
 ---

@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/206_pieszczotka-polka_print.pdf"
 layout: manuscript
 excerpt: "C major, 2/4"
-teaser: "/assets/images/manuscript-images/206_pieszczotka-polka_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/206_pieszczotka-polka_print.jpg"
 ---

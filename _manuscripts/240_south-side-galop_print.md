@@ -10,5 +10,6 @@ medium: "print"
 pdf: "/assets/manuscripts/240_south-side-galop_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/240_south-side-galop_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/240_south-side-galop_print.jpg"
 ---

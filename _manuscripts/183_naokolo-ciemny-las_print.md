@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/183_naokolo-ciemny-las_print.pdf"
 layout: manuscript
 excerpt: "A major, 2/4"
-teaser: "/assets/images/manuscript-images/183_naokolo-ciemny-las_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/183_naokolo-ciemny-las_print.jpg"
 ---

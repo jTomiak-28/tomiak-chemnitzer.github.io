@@ -13,5 +13,6 @@ pdf: "/assets/manuscripts/171_na-falach-dunaju_print.pdf"
 notes: "Alternate arrangement of ID#051, "Danube Waves Waltz""
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/171_na-falach-dunaju_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/171_na-falach-dunaju_print.jpg"
 ---

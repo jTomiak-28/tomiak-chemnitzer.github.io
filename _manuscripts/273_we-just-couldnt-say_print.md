@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/273_we-just-couldnt-say_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/273_we-just-couldnt-say_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/273_we-just-couldnt-say_print.jpg"
 ---

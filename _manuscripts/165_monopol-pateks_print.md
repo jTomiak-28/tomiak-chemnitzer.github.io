@@ -11,5 +11,6 @@ medium: "print"
 pdf: "/assets/manuscripts/165_monopol-pateks_print.pdf"
 layout: manuscript
 excerpt: "A major, 2/4"
-teaser: "/assets/images/manuscript-images/165_monopol-pateks_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/165_monopol-pateks_print.jpg"
 ---

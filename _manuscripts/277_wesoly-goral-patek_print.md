@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/277_wesoly-goral-patek_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/277_wesoly-goral-patek_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/277_wesoly-goral-patek_print.jpg"
 ---

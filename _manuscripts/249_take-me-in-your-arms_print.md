@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/249_take-me-in-your-arms_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/249_take-me-in-your-arms_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/249_take-me-in-your-arms_print.jpg"
 ---

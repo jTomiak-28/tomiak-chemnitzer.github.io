@@ -8,5 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/217_polka-oficerska_pen.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/217_polka-oficerska_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/217_polka-oficerska_pen.jpg"
 ---

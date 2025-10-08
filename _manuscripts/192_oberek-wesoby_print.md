@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/192_oberek-wesoby_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/192_oberek-wesoby_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/192_oberek-wesoby_print.jpg"
 ---

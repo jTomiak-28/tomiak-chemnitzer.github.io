@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/306_zyd-w-beczce-polka_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/306_zyd-w-beczce-polka_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/306_zyd-w-beczce-polka_print.jpg"
 ---

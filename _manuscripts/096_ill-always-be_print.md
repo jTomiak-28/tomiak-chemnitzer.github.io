@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/096_ill-always-be_print.pdf"
 layout: manuscript
 excerpt: "A major, 3/4"
-teaser: "/assets/images/manuscript-images/096_ill-always-be_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/096_ill-always-be_print.jpg"
 ---

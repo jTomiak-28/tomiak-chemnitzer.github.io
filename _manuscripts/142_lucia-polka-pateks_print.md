@@ -11,5 +11,6 @@ pdf: "/assets/manuscripts/142_lucia-polka-pateks_print.pdf"
 notes: "Subtitle: "Owczarek" - probably a surname, maybe the composer"
 layout: manuscript
 excerpt: "F major, 2/4"
-teaser: "/assets/images/manuscript-images/142_lucia-polka-pateks_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/142_lucia-polka-pateks_print.jpg"
 ---

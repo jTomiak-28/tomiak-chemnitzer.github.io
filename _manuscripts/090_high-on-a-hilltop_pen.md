@@ -8,5 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/090_high-on-a-hilltop_pen.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/090_high-on-a-hilltop_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/090_high-on-a-hilltop_pen.jpg"
 ---

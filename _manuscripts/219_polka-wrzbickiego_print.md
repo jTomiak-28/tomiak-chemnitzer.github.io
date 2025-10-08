@@ -16,5 +16,6 @@ medium: "print"
 pdf: "/assets/manuscripts/219_polka-wrzbickiego_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/219_polka-wrzbickiego_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/219_polka-wrzbickiego_print.jpg"
 ---

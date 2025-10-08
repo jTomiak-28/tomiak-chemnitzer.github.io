@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/037_circus-gallop_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/037_circus-gallop_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/037_circus-gallop_print.jpg"
 ---

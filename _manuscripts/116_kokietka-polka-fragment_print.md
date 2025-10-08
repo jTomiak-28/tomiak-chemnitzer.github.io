@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/116_kokietka-polka-fragment_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/116_kokietka-polka-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/116_kokietka-polka-fragment_print.jpg"
 ---

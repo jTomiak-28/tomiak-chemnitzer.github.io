@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/019_be-still-my-heart_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/019_be-still-my-heart_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/019_be-still-my-heart_print.jpg"
 ---

@@ -7,5 +7,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/008_a-little-street_pen.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/008_a-little-street_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/008_a-little-street_pen.jpg"
 ---

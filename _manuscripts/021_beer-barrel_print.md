@@ -15,5 +15,6 @@ pdf: "/assets/manuscripts/021_beer-barrel_print.pdf"
 notes: "Grandad's favorite polka"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/021_beer-barrel_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/021_beer-barrel_print.jpg"
 ---

@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/010_a-zawracaj-od_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/010_a-zawracaj-od_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/010_a-zawracaj-od_print.jpg"
 ---

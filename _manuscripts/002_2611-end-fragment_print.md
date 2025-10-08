@@ -8,5 +8,6 @@ pdf: "/assets/manuscripts/002_2611-end-fragment_print.pdf"
 notes: "Fragment"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/002_2611-end-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/002_2611-end-fragment_print.jpg"
 ---

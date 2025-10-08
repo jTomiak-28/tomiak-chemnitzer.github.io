@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/147_malgorzatka-galop_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/147_malgorzatka-galop_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/147_malgorzatka-galop_print.jpg"
 ---

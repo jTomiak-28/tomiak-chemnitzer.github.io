@@ -7,5 +7,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/076_give-me-a-night_pen.pdf"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/076_give-me-a-night_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/076_give-me-a-night_pen.jpg"
 ---

@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/170_na-chrzcinach-dubiela_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/8"
-teaser: "/assets/images/manuscript-images/170_na-chrzcinach-dubiela_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/170_na-chrzcinach-dubiela_print.jpg"
 ---

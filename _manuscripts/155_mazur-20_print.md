@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/155_mazur-20_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/8"
-teaser: "/assets/images/manuscript-images/155_mazur-20_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/155_mazur-20_print.jpg"
 ---

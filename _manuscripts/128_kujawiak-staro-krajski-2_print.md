@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/128_kujawiak-staro-krajski-2_print.pdf"
 layout: manuscript
 excerpt: "C major, 3/4"
-teaser: "/assets/images/manuscript-images/128_kujawiak-staro-krajski-2_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/128_kujawiak-staro-krajski-2_print.jpg"
 ---

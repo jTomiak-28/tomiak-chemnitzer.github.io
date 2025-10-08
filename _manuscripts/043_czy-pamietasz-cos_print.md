@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/043_czy-pamietasz-cos_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/043_czy-pamietasz-cos_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/043_czy-pamietasz-cos_print.jpg"
 ---

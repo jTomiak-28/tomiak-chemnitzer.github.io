@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/060_evryone-says-i-love_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/060_evryone-says-i-love_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/060_evryone-says-i-love_print.jpg"
 ---

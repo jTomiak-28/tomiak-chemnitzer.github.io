@@ -10,5 +10,6 @@ medium: "print"
 pdf: "/assets/manuscripts/051_danube-waves_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/051_danube-waves_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/051_danube-waves_print.jpg"
 ---

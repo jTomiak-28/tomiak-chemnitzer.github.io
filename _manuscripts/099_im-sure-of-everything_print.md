@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/099_im-sure-of-everything_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/099_im-sure-of-everything_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/099_im-sure-of-everything_print.jpg"
 ---

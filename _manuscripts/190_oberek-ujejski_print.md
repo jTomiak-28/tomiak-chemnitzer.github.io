@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/190_oberek-ujejski_print.pdf"
 layout: manuscript
 excerpt: "G major, 3/4"
-teaser: "/assets/images/manuscript-images/190_oberek-ujejski_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/190_oberek-ujejski_print.jpg"
 ---

@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/297_you-call-it-madness_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/297_you-call-it-madness_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/297_you-call-it-madness_print.jpg"
 ---

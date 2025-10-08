@@ -8,5 +8,6 @@ medium: "pen"
 pdf: "/assets/manuscripts/283_widzialas-diewczyno_pen.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/283_widzialas-diewczyno_pen.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/283_widzialas-diewczyno_pen.jpg"
 ---

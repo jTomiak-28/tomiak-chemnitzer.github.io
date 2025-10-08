@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/102_in-the-chapel_print.pdf"
 layout: manuscript
 excerpt: "G major, 4/4"
-teaser: "/assets/images/manuscript-images/102_in-the-chapel_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/102_in-the-chapel_print.jpg"
 ---

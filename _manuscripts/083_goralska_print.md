@@ -13,5 +13,6 @@ pdf: "/assets/manuscripts/083_goralska_print.pdf"
 notes: "The collection in which this originally appeared is not extant in my grandfather's belongings (the collection is noted in the bottom left of the page)"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/083_goralska_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/083_goralska_print.jpg"
 ---

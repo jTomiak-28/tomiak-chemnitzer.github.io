@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/254_the-old-spinning-wheel_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/2"
-teaser: "/assets/images/manuscript-images/254_the-old-spinning-wheel_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/254_the-old-spinning-wheel_print.jpg"
 ---

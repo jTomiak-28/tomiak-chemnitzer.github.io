@@ -11,5 +11,6 @@ medium: "print"
 pdf: "/assets/manuscripts/191_oberek-w-obie-strony_print.pdf"
 layout: manuscript
 excerpt: "A major, 3/4"
-teaser: "/assets/images/manuscript-images/191_oberek-w-obie-strony_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/191_oberek-w-obie-strony_print.jpg"
 ---

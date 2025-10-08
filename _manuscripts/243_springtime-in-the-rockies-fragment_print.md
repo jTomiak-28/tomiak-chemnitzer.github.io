@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/243_springtime-in-the-rockies-fragment_print.pdf"
 layout: manuscript
 excerpt: "D major, 3/4"
-teaser: "/assets/images/manuscript-images/243_springtime-in-the-rockies-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/243_springtime-in-the-rockies-fragment_print.jpg"
 ---

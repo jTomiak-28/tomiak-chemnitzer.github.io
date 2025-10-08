@@ -14,5 +14,6 @@ medium: "print"
 pdf: "/assets/manuscripts/137_lida-polka_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/137_lida-polka_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/137_lida-polka_print.jpg"
 ---

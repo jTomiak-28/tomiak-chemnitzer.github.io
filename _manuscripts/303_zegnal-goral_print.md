@@ -12,5 +12,6 @@ medium: "print"
 pdf: "/assets/manuscripts/303_zegnal-goral_print.pdf"
 layout: manuscript
 excerpt: "G major, 2/4"
-teaser: "/assets/images/manuscript-images/303_zegnal-goral_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/303_zegnal-goral_print.jpg"
 ---

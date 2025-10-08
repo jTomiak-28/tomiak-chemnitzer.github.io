@@ -15,5 +15,6 @@ medium: "print"
 pdf: "/assets/manuscripts/032_chlopski-krakowiak_print.pdf"
 layout: manuscript
 excerpt: "D major, 2/4"
-teaser: "/assets/images/manuscript-images/032_chlopski-krakowiak_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/032_chlopski-krakowiak_print.jpg"
 ---

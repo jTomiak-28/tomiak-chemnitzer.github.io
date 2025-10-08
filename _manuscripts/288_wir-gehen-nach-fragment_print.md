@@ -13,5 +13,6 @@ pdf: "/assets/manuscripts/288_wir-gehen-nach-fragment_print.pdf"
 notes: "Fragment, right edges worn"
 layout: manuscript
 excerpt: "D major, 2/2"
-teaser: "/assets/images/manuscript-images/288_wir-gehen-nach-fragment_print.jpg"
+header:
+  teaser: "/assets/images/manuscript-images/288_wir-gehen-nach-fragment_print.jpg"
 ---

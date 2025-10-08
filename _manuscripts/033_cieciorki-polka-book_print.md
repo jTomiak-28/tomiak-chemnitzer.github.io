@@ -13,7 +13,7 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/033_cieciorki-polka-book_print.pdf"
-notes: "Subtitled "Kirta Polka" (means "Festival Polka")"
+notes: "Subtitled 'Kirta Polka' (means 'Festival Polka')"
 layout: manuscript
 excerpt: "D major, 2/4"
 header:

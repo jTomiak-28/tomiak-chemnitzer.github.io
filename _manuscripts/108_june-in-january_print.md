@@ -12,7 +12,7 @@ copyright_holder: "Paramount Productions Corp."
 copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/108_june-in-january_print.pdf"
-notes: "Tempo marking: "Slowly & broadly""
+notes: "Tempo marking: 'Slowly & broadly'"
 layout: manuscript
 excerpt: "D major, 2/2"
 header:

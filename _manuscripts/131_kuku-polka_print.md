@@ -1,5 +1,5 @@
 ---
-title: "Kuku "Polka""
+title: "Kuku 'Polka'"
 translation: "Cuckoo Polka"
 number: "2398"
 key: "D major"

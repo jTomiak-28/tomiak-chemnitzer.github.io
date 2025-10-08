@@ -12,7 +12,7 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/180_na-zielony-lace_print.pdf"
-notes: "Second title given: "Przeweodnik" (Leader)"
+notes: "Second title given: 'Przeweodnik' (Leader)"
 layout: manuscript
 excerpt: "A major, 2/4"
 header:

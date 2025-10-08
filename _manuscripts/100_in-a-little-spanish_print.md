@@ -12,7 +12,7 @@ copyright_holder: "Leo. Feist, Inc."
 copyright_year: "1926"
 medium: "print"
 pdf: "/assets/manuscripts/100_in-a-little-spanish_print.pdf"
-notes: "Subtitle: "'Twas on a Night Like This""
+notes: "Subtitle: ''Twas on a Night Like This'"
 layout: manuscript
 excerpt: "D major, 3/4"
 header:

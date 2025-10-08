@@ -1,5 +1,5 @@
 ---
-title: "Ev'ryone Says "I Love You""
+title: "Ev'ryone Says 'I Love You'"
 number: "8581"
 key: "G major"
 meter: "2/2"

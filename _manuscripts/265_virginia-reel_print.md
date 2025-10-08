@@ -9,7 +9,7 @@ publisher: "Georgi & Vitak Music Co."
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/265_virginia-reel_print.pdf"
-notes: ""Virginia Reel" was a popular American dance piece, and a "reel" a type of American folk dance"
+notes: "Virginia Reel' was a popular American dance piece, and a 'reel' a type of American folk dance"
 layout: manuscript
 excerpt: "D major, 2/4"
 header:

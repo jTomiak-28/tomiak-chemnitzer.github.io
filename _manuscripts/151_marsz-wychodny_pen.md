@@ -6,7 +6,7 @@ meter: "2/4"
 piece_type: "march"
 medium: "pen"
 pdf: "/assets/manuscripts/151_marsz-wychodny_pen.pdf"
-notes: "No numbers, just the melody line. Includes rare dynamic marking- "ff""
+notes: "No numbers, just the melody line. Includes rare dynamic marking- 'ff'"
 layout: manuscript
 excerpt: "D major, 2/4"
 header:

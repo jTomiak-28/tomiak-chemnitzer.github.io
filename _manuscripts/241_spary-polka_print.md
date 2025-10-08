@@ -6,7 +6,7 @@ piece_type: "polka"
 arranger: "Joe Skitz"
 medium: "print"
 pdf: "/assets/manuscripts/241_spary-polka_print.pdf"
-notes: "Title unclear, "spary" has no clear meanings in Polish, German, or Lithuanian"
+notes: "Title unclear, 'spary' has no clear meanings in Polish, German, or Lithuanian"
 layout: manuscript
 excerpt: "C major, 2/4"
 header:

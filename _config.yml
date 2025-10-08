@@ -39,3 +39,12 @@ collections:
   manuscripts:
     output: true
     permalink: /manuscript-archive/:slug/
+
+defaults:
+  # _manuscripts
+  - scope:
+      path: ""
+      type: manuscripts
+    values:
+      layout: single
+      author_profile: true

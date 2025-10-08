@@ -9,8 +9,8 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/143_lucia-polka_print.pdf"
 notes: "Duplicate of ID#142, but with a different publisher. Arrangement appears the same."
-layout: manuscript
 excerpt: "F major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/143_lucia-polka_print.jpg"
 ---

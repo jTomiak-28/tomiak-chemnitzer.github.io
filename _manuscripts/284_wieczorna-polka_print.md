@@ -11,8 +11,8 @@ publication_place: "2149 W.22nd St., Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/284_wieczorna-polka_print.pdf"
 notes: "Includes cornet part for cornet in A (melody written in Bb)"
-layout: manuscript
 excerpt: "G major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/284_wieczorna-polka_print.jpg"
 ---

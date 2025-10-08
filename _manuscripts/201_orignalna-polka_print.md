@@ -12,8 +12,8 @@ copyright_year: "1911"
 medium: "print"
 pdf: "/assets/manuscripts/201_orignalna-polka_print.pdf"
 notes: "Title is unclear, likely intended to be humorous"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/201_orignalna-polka_print.jpg"
 ---

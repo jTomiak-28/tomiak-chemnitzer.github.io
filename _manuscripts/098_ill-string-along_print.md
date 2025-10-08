@@ -14,8 +14,8 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/098_ill-string-along_print.pdf"
 notes: "Includes tempo marking 'Slowly and smoothly'"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/098_ill-string-along_print.jpg"
 ---

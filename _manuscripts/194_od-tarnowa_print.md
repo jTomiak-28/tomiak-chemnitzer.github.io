@@ -12,8 +12,8 @@ copyright_holder: "John Sitek"
 copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/194_od-tarnowa_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/194_od-tarnowa_print.jpg"
 ---

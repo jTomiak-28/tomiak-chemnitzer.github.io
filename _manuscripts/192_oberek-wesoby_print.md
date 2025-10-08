@@ -12,8 +12,8 @@ copyright_holder: "Henry Silberhorn"
 copyright_year: "1907"
 medium: "print"
 pdf: "/assets/manuscripts/192_oberek-wesoby_print.pdf"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/192_oberek-wesoby_print.jpg"
 ---

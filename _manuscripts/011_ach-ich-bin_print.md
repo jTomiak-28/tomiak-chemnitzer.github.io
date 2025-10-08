@@ -10,8 +10,8 @@ publisher: "Henry Silberhorn"
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/011_ach-ich-bin_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/011_ach-ich-bin_print.jpg"
 ---

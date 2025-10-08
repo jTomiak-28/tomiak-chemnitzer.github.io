@@ -10,8 +10,8 @@ publisher: "Georgi & Vitak Music Co."
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/155_mazur-20_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/155_mazur-20_print.jpg"
 ---

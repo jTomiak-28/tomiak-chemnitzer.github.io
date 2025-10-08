@@ -12,8 +12,8 @@ copyright_holder: "Patek's Music Store"
 copyright_year: "1928"
 medium: "print"
 pdf: "/assets/manuscripts/211_po-staremu_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/211_po-staremu_print.jpg"
 ---

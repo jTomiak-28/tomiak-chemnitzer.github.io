@@ -11,8 +11,8 @@ publisher: "Henry Silberhorn"
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/022_bialy-mazur_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/022_bialy-mazur_print.jpg"
 ---

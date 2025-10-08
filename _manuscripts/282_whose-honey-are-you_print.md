@@ -12,8 +12,8 @@ copyright_holder: "Leo Feist, Inc."
 copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/282_whose-honey-are-you_print.pdf"
-layout: manuscript
 excerpt: "C major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/282_whose-honey-are-you_print.jpg"
 ---

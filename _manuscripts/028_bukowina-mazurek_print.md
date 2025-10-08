@@ -11,8 +11,8 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/028_bukowina-mazurek_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/028_bukowina-mazurek_print.jpg"
 ---

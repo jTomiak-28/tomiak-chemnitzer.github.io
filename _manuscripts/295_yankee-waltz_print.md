@@ -13,8 +13,8 @@ copyright_year: "1911"
 medium: "print"
 pdf: "/assets/manuscripts/295_yankee-waltz_print.pdf"
 notes: "Missing a measure or two"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/295_yankee-waltz_print.jpg"
 ---

@@ -12,8 +12,8 @@ copyright_holder: "Keith-Engel, Inc."
 copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/273_we-just-couldnt-say_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/273_we-just-couldnt-say_print.jpg"
 ---

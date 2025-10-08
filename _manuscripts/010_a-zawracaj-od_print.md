@@ -13,8 +13,8 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/010_a-zawracaj-od_print.pdf"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/010_a-zawracaj-od_print.jpg"
 ---

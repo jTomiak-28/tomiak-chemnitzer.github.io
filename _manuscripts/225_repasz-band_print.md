@@ -12,8 +12,8 @@ copyright_year: "1912"
 medium: "print"
 pdf: "/assets/manuscripts/225_repasz-band_print.pdf"
 notes: "Dynamic marking 'ff', Same arrangement, older copyright, different publisher cf ID#224"
-layout: manuscript
 excerpt: "D major, 6/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/225_repasz-band_print.jpg"
 ---

@@ -12,8 +12,8 @@ copyright_holder: "W. H. Sajewski"
 copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/174_na-lewo-od_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/174_na-lewo-od_print.jpg"
 ---

@@ -13,8 +13,8 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1924"
 medium: "print"
 pdf: "/assets/manuscripts/190_oberek-ujejski_print.pdf"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/190_oberek-ujejski_print.jpg"
 ---

@@ -12,8 +12,8 @@ copyright_holder: "Broadway Music Corp."
 copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/019_be-still-my-heart_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/019_be-still-my-heart_print.jpg"
 ---

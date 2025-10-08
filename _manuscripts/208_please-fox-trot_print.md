@@ -12,8 +12,8 @@ copyright_holder: "Famous Music Corp."
 copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/208_please-fox-trot_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/208_please-fox-trot_print.jpg"
 ---

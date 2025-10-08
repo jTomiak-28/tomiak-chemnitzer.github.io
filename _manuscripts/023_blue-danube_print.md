@@ -10,8 +10,8 @@ publisher: "Henry Silberhorn"
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/023_blue-danube_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/023_blue-danube_print.jpg"
 ---

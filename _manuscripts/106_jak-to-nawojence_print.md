@@ -12,8 +12,8 @@ copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/106_jak-to-nawojence_print.pdf"
 notes: "A different arrangement of ID#105"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/106_jak-to-nawojence_print.jpg"
 ---

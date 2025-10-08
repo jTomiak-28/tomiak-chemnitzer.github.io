@@ -8,8 +8,8 @@ piece_type: "polka"
 publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/178_na-zielonej-lace_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/178_na-zielonej-lace_print.jpg"
 ---

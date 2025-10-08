@@ -14,8 +14,8 @@ copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/033_cieciorki-polka-book_print.pdf"
 notes: "Subtitled 'Kirta Polka' (means 'Festival Polka')"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/033_cieciorki-polka-book_print.jpg"
 ---

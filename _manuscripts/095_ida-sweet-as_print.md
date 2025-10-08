@@ -12,8 +12,8 @@ copyright_holder: "Edw. B. Marks Music Co."
 copyright_year: "1930"
 medium: "print"
 pdf: "/assets/manuscripts/095_ida-sweet-as_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/095_ida-sweet-as_print.jpg"
 ---

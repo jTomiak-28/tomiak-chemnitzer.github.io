@@ -12,8 +12,8 @@ copyright_holder: "Leo Feist"
 copyright_year: "1930"
 medium: "print"
 pdf: "/assets/manuscripts/080_goofus-fox-trot_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/080_goofus-fox-trot_print.jpg"
 ---

@@ -10,8 +10,8 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/242_sporki-wojskowe_print.pdf"
 notes: "Includes cornet part for cornet in A (melody in F major)"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/242_sporki-wojskowe_print.jpg"
 ---

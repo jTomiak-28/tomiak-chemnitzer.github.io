@@ -13,8 +13,8 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/020_bedzie-piwko_print.pdf"
 notes: "Nonsensical drinking song title"
-layout: manuscript
 excerpt: "D major, 3/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/020_bedzie-piwko_print.jpg"
 ---

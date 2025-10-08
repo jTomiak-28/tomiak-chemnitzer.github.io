@@ -11,8 +11,8 @@ publication_place: "4639 So. Ashland Ave., Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/105_jak-to-na-wojence_print.pdf"
 notes: "A very popular Polish song, title is ironic"
-layout: manuscript
 excerpt: "C major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/105_jak-to-na-wojence_print.jpg"
 ---

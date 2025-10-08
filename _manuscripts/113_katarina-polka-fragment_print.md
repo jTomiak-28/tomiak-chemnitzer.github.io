@@ -10,8 +10,8 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/113_katarina-polka-fragment_print.pdf"
 notes: "Fragment, edges heavily worn"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/113_katarina-polka-fragment_print.jpg"
 ---

@@ -13,8 +13,8 @@ copyright_holder: "Metro-Goldwyn-Mayer Corp."
 copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/232_sleepy-head_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/232_sleepy-head_print.jpg"
 ---

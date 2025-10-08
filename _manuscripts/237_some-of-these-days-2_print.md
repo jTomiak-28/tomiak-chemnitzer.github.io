@@ -11,8 +11,8 @@ copyright_holder: "Will Rossiter"
 copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/237_some-of-these-days-2_print.pdf"
-layout: manuscript
 excerpt: "E minor, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/237_some-of-these-days-2_print.jpg"
 ---

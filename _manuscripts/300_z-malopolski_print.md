@@ -13,8 +13,8 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/300_z-malopolski_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/300_z-malopolski_print.jpg"
 ---

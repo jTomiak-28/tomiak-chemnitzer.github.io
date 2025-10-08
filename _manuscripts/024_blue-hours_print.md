@@ -12,8 +12,8 @@ copyright_holder: "Leo Feist, Inc."
 copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/024_blue-hours_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/024_blue-hours_print.jpg"
 ---

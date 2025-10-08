@@ -13,8 +13,8 @@ copyright_holder: "Famous Music Corp."
 copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/251_thanks-foxtrot_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/251_thanks-foxtrot_print.jpg"
 ---

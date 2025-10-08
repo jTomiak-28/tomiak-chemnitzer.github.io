@@ -10,8 +10,8 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/065_four-polish-dances_print.pdf"
 notes: "Group of four pieces in different keys, times, and piece types"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/065_four-polish-dances_print.jpg"
 ---

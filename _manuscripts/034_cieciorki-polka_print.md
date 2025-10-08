@@ -13,8 +13,8 @@ copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/034_cieciorki-polka_print.pdf"
 notes: "E.M. Wunderlich listed as engraver"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/034_cieciorki-polka_print.jpg"
 ---

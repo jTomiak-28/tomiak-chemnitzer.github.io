@@ -12,8 +12,8 @@ copyright_holder: "Jerome H. Remick & Co."
 copyright_year: "1924"
 medium: "print"
 pdf: "/assets/manuscripts/063_follow-the-swallow_print.pdf"
-layout: manuscript
 excerpt: "A major, 4/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/063_follow-the-swallow_print.jpg"
 ---

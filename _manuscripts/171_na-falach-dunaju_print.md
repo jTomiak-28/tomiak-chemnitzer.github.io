@@ -11,8 +11,8 @@ copyright_year: "1912"
 medium: "print"
 pdf: "/assets/manuscripts/171_na-falach-dunaju_print.pdf"
 notes: "Alternate arrangement of ID#051, 'Danube Waves Waltz'"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/171_na-falach-dunaju_print.jpg"
 ---

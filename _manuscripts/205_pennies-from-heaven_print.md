@@ -13,8 +13,8 @@ copyright_holder: "Select Music Publications, Inc"
 copyright_year: "1936"
 medium: "print"
 pdf: "/assets/manuscripts/205_pennies-from-heaven_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/205_pennies-from-heaven_print.jpg"
 ---

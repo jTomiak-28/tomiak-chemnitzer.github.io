@@ -12,8 +12,8 @@ copyright_year: "1911"
 medium: "print"
 pdf: "/assets/manuscripts/244_sprzedal-woly-na-fragment_print.pdf"
 notes: "Fragment- significant wear around bottom and right side"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/244_sprzedal-woly-na-fragment_print.jpg"
 ---

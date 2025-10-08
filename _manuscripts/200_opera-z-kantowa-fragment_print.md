@@ -10,8 +10,8 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/200_opera-z-kantowa-fragment_print.pdf"
 notes: "Fragment"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/200_opera-z-kantowa-fragment_print.jpg"
 ---

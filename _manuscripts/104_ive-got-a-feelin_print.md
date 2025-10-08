@@ -13,8 +13,8 @@ copyright_holder: "Metro-Goldwyn-Mayer Corp."
 copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/104_ive-got-a-feelin_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/104_ive-got-a-feelin_print.jpg"
 ---

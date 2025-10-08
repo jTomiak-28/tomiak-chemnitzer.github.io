@@ -12,8 +12,8 @@ copyright_holder: "Donaldson, Douglas & Gumble, Inc."
 copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/202_over-somebody-elses_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/202_over-somebody-elses_print.jpg"
 ---

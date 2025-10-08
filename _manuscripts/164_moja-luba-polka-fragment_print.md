@@ -8,8 +8,8 @@ arranger: "W. Adeszko"
 medium: "print"
 pdf: "/assets/manuscripts/164_moja-luba-polka-fragment_print.pdf"
 notes: "Fragment, edges on left side heavily worn"
-layout: manuscript
 excerpt: "A major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/164_moja-luba-polka-fragment_print.jpg"
 ---

@@ -13,8 +13,8 @@ copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/226_roll-along-prairie_print.pdf"
 notes: "Tempo marking: 'Slowly (with feeling)'"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/226_roll-along-prairie_print.jpg"
 ---

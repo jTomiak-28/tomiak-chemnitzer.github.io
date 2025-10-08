@@ -8,8 +8,8 @@ piece_type: "krakowiak"
 publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/185_nasz-kosciuszko-dobry_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/185_nasz-kosciuszko-dobry_print.jpg"
 ---

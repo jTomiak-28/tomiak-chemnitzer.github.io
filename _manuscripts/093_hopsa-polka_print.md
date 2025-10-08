@@ -12,8 +12,8 @@ copyright_holder: "Patek's Music Store"
 copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/093_hopsa-polka_print.pdf"
-layout: manuscript
 excerpt: "A major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/093_hopsa-polka_print.jpg"
 ---

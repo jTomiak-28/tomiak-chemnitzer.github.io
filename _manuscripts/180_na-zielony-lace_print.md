@@ -13,8 +13,8 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/180_na-zielony-lace_print.pdf"
 notes: "Second title given: 'Przeweodnik' (Leader)"
-layout: manuscript
 excerpt: "A major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/180_na-zielony-lace_print.jpg"
 ---

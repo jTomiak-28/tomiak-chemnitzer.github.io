@@ -11,8 +11,8 @@ publisher: "Vitak-Elsnic Co."
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/013_andzia-s-kodeksem_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/013_andzia-s-kodeksem_print.jpg"
 ---

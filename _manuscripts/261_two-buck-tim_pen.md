@@ -6,8 +6,8 @@ piece_type: "foxtrot"
 arranger: "Mario Agnolucci"
 medium: "pen"
 pdf: "/assets/manuscripts/261_two-buck-tim_pen.pdf"
-layout: manuscript
 excerpt: "C major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/261_two-buck-tim_pen.jpg"
 ---

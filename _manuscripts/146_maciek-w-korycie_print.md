@@ -13,8 +13,8 @@ copyright_holder: "W. H. Sajewski"
 copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/146_maciek-w-korycie_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/146_maciek-w-korycie_print.jpg"
 ---

@@ -12,8 +12,8 @@ copyright_holder: "Famous Music Corp."
 copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/109_just-one-more-chance_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/109_just-one-more-chance_print.jpg"
 ---

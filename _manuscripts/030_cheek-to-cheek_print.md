@@ -13,8 +13,8 @@ copyright_holder: "Irving Berlin, Inc."
 copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/030_cheek-to-cheek_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/030_cheek-to-cheek_print.jpg"
 ---

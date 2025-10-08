@@ -12,8 +12,8 @@ copyright_holder: "Shapiro, Bernstein & Co."
 copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/223_rain-fox-trot_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/223_rain-fox-trot_print.jpg"
 ---

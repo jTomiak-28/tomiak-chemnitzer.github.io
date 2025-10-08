@@ -12,8 +12,8 @@ copyright_holder: "Robbins Music Corp."
 copyright_year: "1936"
 medium: "print"
 pdf: "/assets/manuscripts/078_good-night-my-love_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/078_good-night-my-love_print.jpg"
 ---

@@ -11,8 +11,8 @@ copyright_holder: "John Sitek"
 copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/040_czarna-wrona-polka_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/040_czarna-wrona-polka_print.jpg"
 ---

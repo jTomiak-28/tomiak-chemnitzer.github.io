@@ -12,8 +12,8 @@ copyright_holder: "W. H. Sajewski"
 copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/262_u-mojego-wuja_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/262_u-mojego-wuja_print.jpg"
 ---

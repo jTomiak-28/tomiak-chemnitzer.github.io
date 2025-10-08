@@ -15,8 +15,8 @@ copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/220_polka-z-debowca_print.pdf"
 notes: "Unusual that this 3/4 piece is labeled as polka"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/220_polka-z-debowca_print.jpg"
 ---

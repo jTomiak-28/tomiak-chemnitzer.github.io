@@ -13,8 +13,8 @@ copyright_holder: "W. H. Sajewski"
 copyright_year: "1927"
 medium: "print"
 pdf: "/assets/manuscripts/032_chlopski-krakowiak_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/032_chlopski-krakowiak_print.jpg"
 ---

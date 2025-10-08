@@ -9,8 +9,8 @@ publisher: "Patek's Music Store"
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/222_rach-ciach_print.pdf"
-layout: manuscript
 excerpt: "A major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/222_rach-ciach_print.jpg"
 ---

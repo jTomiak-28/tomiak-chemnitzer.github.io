@@ -11,8 +11,8 @@ publication_place: "835 Milwaukee Ave., Chicago, Ill."
 copyright_holder: "Joe Morris Music Co."
 medium: "print"
 pdf: "/assets/manuscripts/077_good-night-little-girl_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/077_good-night-little-girl_print.jpg"
 ---

@@ -6,8 +6,8 @@ piece_type: "polka"
 medium: "pen"
 pdf: "/assets/manuscripts/018_baruska-polka_pen.pdf"
 notes: "Duplicate of entry 016, also likely copied from one of these"
-layout: manuscript
 excerpt: "G major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/018_baruska-polka_pen.jpg"
 ---

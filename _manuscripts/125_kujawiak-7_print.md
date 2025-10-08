@@ -12,8 +12,8 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/125_kujawiak-7_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/125_kujawiak-7_print.jpg"
 ---

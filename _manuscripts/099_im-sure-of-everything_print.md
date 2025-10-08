@@ -12,8 +12,8 @@ copyright_holder: "Heit-Engel, Inc."
 copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/099_im-sure-of-everything_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/099_im-sure-of-everything_print.jpg"
 ---

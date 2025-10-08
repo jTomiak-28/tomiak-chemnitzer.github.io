@@ -12,8 +12,8 @@ copyright_holder: "W.H. Sajewski"
 copyright_year: "1915"
 medium: "print"
 pdf: "/assets/manuscripts/306_zyd-w-beczce-polka_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/306_zyd-w-beczce-polka_print.jpg"
 ---

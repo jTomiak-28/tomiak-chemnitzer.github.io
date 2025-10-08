@@ -12,8 +12,8 @@ copyright_year: "1922"
 medium: "print"
 pdf: "/assets/manuscripts/238_some-of-these-days_print.pdf"
 notes: "Alternate print of ID#237 by same publisher, same arrangement"
-layout: manuscript
 excerpt: "E minor, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/238_some-of-these-days_print.jpg"
 ---

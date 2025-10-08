@@ -13,8 +13,8 @@ copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/097_ill-be-faithful_print.pdf"
 notes: "Includes tempo marking 'Slow'"
-layout: manuscript
 excerpt: "C major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/097_ill-be-faithful_print.jpg"
 ---

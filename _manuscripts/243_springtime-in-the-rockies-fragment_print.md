@@ -12,8 +12,8 @@ copyright_holder: "Villa Moret, Inc."
 copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/243_springtime-in-the-rockies-fragment_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/243_springtime-in-the-rockies-fragment_print.jpg"
 ---

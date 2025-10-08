@@ -12,8 +12,8 @@ copyright_holder: "John Sitek"
 copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/248_szla-cyganka-dolinka_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/248_szla-cyganka-dolinka_print.jpg"
 ---

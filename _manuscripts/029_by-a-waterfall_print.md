@@ -12,8 +12,8 @@ copyright_holder: "M. Witmark & Sons"
 copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/029_by-a-waterfall_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/029_by-a-waterfall_print.jpg"
 ---

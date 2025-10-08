@@ -7,8 +7,8 @@ meter: "3/4"
 piece_type: "mazurka"
 medium: "print"
 pdf: "/assets/manuscripts/302_zawierucha_print.pdf"
-layout: manuscript
 excerpt: "A major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/302_zawierucha_print.jpg"
 ---

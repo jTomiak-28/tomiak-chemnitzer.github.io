@@ -10,8 +10,8 @@ publisher: "W.H. Sajewski"
 publication_place: "1011 Milwaukee Ave., Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/229_roztargniony-walec_print.pdf"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/229_roztargniony-walec_print.jpg"
 ---

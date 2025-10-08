@@ -14,8 +14,8 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/141_love-in-bloom_print.pdf"
 notes: "Tempo marking: 'Slowly, with expression'"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/141_love-in-bloom_print.jpg"
 ---

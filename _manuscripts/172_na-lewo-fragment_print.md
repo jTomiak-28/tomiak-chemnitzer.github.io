@@ -10,8 +10,8 @@ publisher: "Georgi & Vitak Music Co."
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/172_na-lewo-fragment_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/172_na-lewo-fragment_print.jpg"
 ---

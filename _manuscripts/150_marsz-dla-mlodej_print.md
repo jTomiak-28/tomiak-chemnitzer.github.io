@@ -11,8 +11,8 @@ copyright_holder: "W.H. Sajewski"
 copyright_year: "1914"
 medium: "print"
 pdf: "/assets/manuscripts/150_marsz-dla-mlodej_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/150_marsz-dla-mlodej_print.jpg"
 ---

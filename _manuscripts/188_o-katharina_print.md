@@ -12,8 +12,8 @@ copyright_holder: "Wiener Boheme Verlag"
 copyright_year: "1924"
 medium: "print"
 pdf: "/assets/manuscripts/188_o-katharina_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/188_o-katharina_print.jpg"
 ---

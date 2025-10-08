@@ -11,8 +11,8 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/181_namdemansmoras_print.pdf"
 notes: "Swedish language title and dance type (hambo)"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/181_namdemansmoras_print.jpg"
 ---

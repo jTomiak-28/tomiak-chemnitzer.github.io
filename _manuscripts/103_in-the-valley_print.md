@@ -12,8 +12,8 @@ copyright_holder: "Joe Morris Music Co."
 copyright_year: "1933"
 medium: "print"
 pdf: "/assets/manuscripts/103_in-the-valley_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/103_in-the-valley_print.jpg"
 ---

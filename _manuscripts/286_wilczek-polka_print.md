@@ -10,8 +10,8 @@ publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/286_wilczek-polka_print.pdf"
 notes: "Title could refer to surname- 'Wilczek's Polka' or a literal translation- 'Little Wolf Polka'"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/286_wilczek-polka_print.jpg"
 ---

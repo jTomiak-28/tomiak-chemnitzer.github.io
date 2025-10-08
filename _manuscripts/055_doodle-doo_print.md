@@ -12,8 +12,8 @@ copyright_holder: "Leo Feist, Inc."
 copyright_year: "1924"
 medium: "print"
 pdf: "/assets/manuscripts/055_doodle-doo_print.pdf"
-layout: manuscript
 excerpt: "G major, 4/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/055_doodle-doo_print.jpg"
 ---

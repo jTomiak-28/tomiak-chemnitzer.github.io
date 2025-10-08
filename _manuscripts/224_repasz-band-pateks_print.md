@@ -10,8 +10,8 @@ copyright_holder: "Vandersloot Music Co."
 copyright_year: "1904"
 medium: "print"
 pdf: "/assets/manuscripts/224_repasz-band-pateks_print.pdf"
-layout: manuscript
 excerpt: "D major, 6/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/224_repasz-band-pateks_print.jpg"
 ---

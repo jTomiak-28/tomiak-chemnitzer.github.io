@@ -10,8 +10,8 @@ publisher: "Georgi & Vitak Music Co."
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/290_wiwat-oberek_print.pdf"
-layout: manuscript
 excerpt: "G major, 3/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/290_wiwat-oberek_print.jpg"
 ---

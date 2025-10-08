@@ -7,8 +7,8 @@ piece_type: "foxtrot"
 medium: "print"
 pdf: "/assets/manuscripts/001_19320-end-fragment_print.pdf"
 notes: "Fragment"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/001_19320-end-fragment_print.jpg"
 ---

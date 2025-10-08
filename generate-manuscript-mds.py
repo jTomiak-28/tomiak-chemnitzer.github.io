@@ -60,8 +60,8 @@ def main():
 
             key = row.get("key")
             meter = row.get("meter")
-            front_matter.append("layout: manuscript")
             front_matter.append(f"excerpt: \"{key}, {meter}\"")
+            front_matter.append(f"layout: manuscript")
             front_matter.append(f"header:\n  teaser: \"/{image_path}\"")
             front_matter.append("---")
             front_matter.append("")

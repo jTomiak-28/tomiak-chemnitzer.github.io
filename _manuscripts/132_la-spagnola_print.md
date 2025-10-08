@@ -11,8 +11,8 @@ publisher: "Georgi & Vitak Music Co."
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/132_la-spagnola_print.pdf"
-layout: manuscript
 excerpt: "G major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/132_la-spagnola_print.jpg"
 ---

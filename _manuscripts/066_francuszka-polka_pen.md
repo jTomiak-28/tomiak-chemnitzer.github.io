@@ -6,8 +6,8 @@ meter: "2/4"
 piece_type: "polka"
 medium: "pen"
 pdf: "/assets/manuscripts/066_francuszka-polka_pen.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/066_francuszka-polka_pen.jpg"
 ---

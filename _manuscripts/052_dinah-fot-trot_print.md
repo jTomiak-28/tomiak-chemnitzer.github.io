@@ -12,8 +12,8 @@ copyright_holder: "Henry Waterson Inc."
 copyright_year: "1926"
 medium: "print"
 pdf: "/assets/manuscripts/052_dinah-fot-trot_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/052_dinah-fot-trot_print.jpg"
 ---

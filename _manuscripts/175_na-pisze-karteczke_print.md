@@ -11,8 +11,8 @@ copyright_holder: "John Sitek"
 copyright_year: "1931"
 medium: "print"
 pdf: "/assets/manuscripts/175_na-pisze-karteczke_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/175_na-pisze-karteczke_print.jpg"
 ---

@@ -9,8 +9,8 @@ arranger: "Sta. Sobas"
 publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/062_flisak-krakowiak_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/062_flisak-krakowiak_print.jpg"
 ---

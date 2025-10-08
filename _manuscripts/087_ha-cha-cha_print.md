@@ -13,8 +13,8 @@ copyright_holder: "Movietone Music Corp."
 copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/087_ha-cha-cha_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/087_ha-cha-cha_print.jpg"
 ---

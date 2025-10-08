@@ -12,8 +12,8 @@ copyright_holder: "Metro-Goldwyn-Mayer Corp."
 copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/064_footloose-and-fancyfree_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/064_footloose-and-fancyfree_print.jpg"
 ---

@@ -12,8 +12,8 @@ copyright_holder: "S. S. Gralak"
 copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/183_naokolo-ciemny-las_print.pdf"
-layout: manuscript
 excerpt: "A major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/183_naokolo-ciemny-las_print.jpg"
 ---

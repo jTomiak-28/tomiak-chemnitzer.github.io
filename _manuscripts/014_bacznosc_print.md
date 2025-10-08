@@ -13,8 +13,8 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1925"
 medium: "print"
 pdf: "/assets/manuscripts/014_bacznosc_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/014_bacznosc_print.jpg"
 ---

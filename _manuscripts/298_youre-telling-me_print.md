@@ -12,8 +12,8 @@ copyright_holder: "Donaldson, Douglas & Gumble, Inc."
 copyright_year: "1932"
 medium: "print"
 pdf: "/assets/manuscripts/298_youre-telling-me_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/298_youre-telling-me_print.jpg"
 ---

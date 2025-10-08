@@ -13,8 +13,8 @@ copyright_holder: "Vitak-Elsnic Co."
 copyright_year: "1923"
 medium: "print"
 pdf: "/assets/manuscripts/228_rozalien_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/228_rozalien_print.jpg"
 ---

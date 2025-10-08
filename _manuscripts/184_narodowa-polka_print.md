@@ -9,8 +9,8 @@ arranger: "John Sitek"
 publisher: "John Sitek"
 medium: "print"
 pdf: "/assets/manuscripts/184_narodowa-polka_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/184_narodowa-polka_print.jpg"
 ---

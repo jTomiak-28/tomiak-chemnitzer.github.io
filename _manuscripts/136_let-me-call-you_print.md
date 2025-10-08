@@ -11,8 +11,8 @@ copyright_holder: "Harold Rossiter Music Co."
 copyright_year: "1910"
 medium: "print"
 pdf: "/assets/manuscripts/136_let-me-call-you_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/136_let-me-call-you_print.jpg"
 ---

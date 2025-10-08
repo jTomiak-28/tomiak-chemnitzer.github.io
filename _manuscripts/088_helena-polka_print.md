@@ -9,8 +9,8 @@ publisher: "Georgi & Vitak"
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/088_helena-polka_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/088_helena-polka_print.jpg"
 ---

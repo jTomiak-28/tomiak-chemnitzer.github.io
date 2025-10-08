@@ -10,8 +10,8 @@ copyright_holder: "John Sitek"
 copyright_year: "1929"
 medium: "print"
 pdf: "/assets/manuscripts/280_wesoly-pijak_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/280_wesoly-pijak_print.jpg"
 ---

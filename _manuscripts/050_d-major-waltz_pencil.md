@@ -5,8 +5,8 @@ meter: "3/4"
 piece_type: "waltz"
 medium: "pencil"
 pdf: "/assets/manuscripts/050_d-major-waltz_pencil.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/050_d-major-waltz_pencil.jpg"
 ---

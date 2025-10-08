@@ -12,8 +12,8 @@ copyright_holder: "W.H. Sajewski"
 copyright_year: "1915"
 medium: "print"
 pdf: "/assets/manuscripts/054_do-upadlego-fragment_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/8"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/054_do-upadlego-fragment_print.jpg"
 ---

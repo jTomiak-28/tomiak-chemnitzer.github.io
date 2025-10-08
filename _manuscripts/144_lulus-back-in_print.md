@@ -13,8 +13,8 @@ copyright_holder: "M. Witmark and Sons"
 copyright_year: "1935"
 medium: "print"
 pdf: "/assets/manuscripts/144_lulus-back-in_print.pdf"
-layout: manuscript
 excerpt: "G major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/144_lulus-back-in_print.jpg"
 ---

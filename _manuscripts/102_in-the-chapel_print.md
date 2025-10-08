@@ -12,8 +12,8 @@ copyright_holder: "Shapiro, Bernstein & Co."
 copyright_year: "1936"
 medium: "print"
 pdf: "/assets/manuscripts/102_in-the-chapel_print.pdf"
-layout: manuscript
 excerpt: "G major, 4/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/102_in-the-chapel_print.jpg"
 ---

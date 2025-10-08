@@ -10,8 +10,8 @@ publisher: "Vitak-Elsnic Co."
 publication_place: "Chicago, Ill."
 medium: "print"
 pdf: "/assets/manuscripts/138_lithuanian-vestuviu_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/138_lithuanian-vestuviu_print.jpg"
 ---

@@ -13,8 +13,8 @@ copyright_holder: "Paramount Productions Music Corp."
 copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/289_with-my-eyes-wide_print.pdf"
-layout: manuscript
 excerpt: "D major, 2/2"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/289_with-my-eyes-wide_print.jpg"
 ---

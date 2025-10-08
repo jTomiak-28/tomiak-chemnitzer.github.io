@@ -13,8 +13,8 @@ copyright_year: "1934"
 medium: "print"
 pdf: "/assets/manuscripts/021_beer-barrel_print.pdf"
 notes: "Grandad's favorite polka"
-layout: manuscript
 excerpt: "D major, 2/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/021_beer-barrel_print.jpg"
 ---

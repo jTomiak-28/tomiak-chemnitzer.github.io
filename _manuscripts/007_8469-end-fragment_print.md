@@ -6,8 +6,8 @@ meter: "4/4"
 medium: "print"
 pdf: "/assets/manuscripts/007_8469-end-fragment_print.pdf"
 notes: "Chords notated"
-layout: manuscript
 excerpt: "G major, 4/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/007_8469-end-fragment_print.jpg"
 ---

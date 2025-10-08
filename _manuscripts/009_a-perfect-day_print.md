@@ -12,8 +12,8 @@ copyright_year: "1910"
 medium: "print"
 pdf: "/assets/manuscripts/009_a-perfect-day_print.pdf"
 notes: "Includes snippet of 'I Love You Truly' as introduction"
-layout: manuscript
 excerpt: "C major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/009_a-perfect-day_print.jpg"
 ---

@@ -12,8 +12,8 @@ copyright_holder: "Forster Music House"
 copyright_year: "1915"
 medium: "print"
 pdf: "/assets/manuscripts/253_the-missourit-waltz_print.pdf"
-layout: manuscript
 excerpt: "D major, 3/4"
+layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/253_the-missourit-waltz_print.jpg"
 ---

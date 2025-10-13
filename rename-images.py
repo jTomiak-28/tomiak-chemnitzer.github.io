@@ -13,7 +13,7 @@ def main():
 
     for filename in os.listdir(DIR_NAME):
         old_path = os.path.join(DIR_NAME, filename)
-        new_filename = filename[13:]
+        new_filename = filename.lower()
         new_path = os.path.join(DIR_NAME, new_filename)
 
         os.rename(old_path, new_path)

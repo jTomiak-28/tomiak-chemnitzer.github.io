@@ -13,4 +13,4 @@ Many years later, my grandparents showed me his instrument and encouraged me to
 learn more and try playing it. As part of my music and computer science studies at UVA,
 I decided to build this site. Here I share a digital instrument I made from sampling the
 Chemnitzer, my great-grandfather's large library of sheet music, and articles about the
-Chemnitzer's history, story, and music theory.
+Chemnitzer's history, story, and function.

@@ -4,7 +4,7 @@ layout: splash
 permalink: /digital-instrument/
 author_profile: true
 header:
-  overlay_image: /assets/images/lily/jtom-11.jpg
+  overlay_image: /assets/images/headers/coffee-table-close.jpg
   overlay_filter: "0.3"
   image_description: "The Chemnitzer instrument on a coffee table"
 ---

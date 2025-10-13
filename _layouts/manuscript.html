@@ -1,37 +1,60 @@
 ---
 layout: single
 ---
-<div class="manuscript">
-  <h1>{{ page.title }}</h1>
 
-  <div class="page__meta">
-    <dl>
-      {% assign reserved = "layout,title,permalink,date,published,excerpt,categories,tags,author_profile,collection" | split: "," %}
-      {% for pair in page %}
-        {% assign k = pair[0] %}
-        {% assign v = pair[1] %}
-        {% unless reserved contains k or v == nil or v == "" %}
-          {% if k == "pdf" %}
-            <dt>File</dt>
-            <dd><a href="{{ v | relative_url }}" target="_blank">Download PDF</a></dd>
-          {% else %}
-            <dt>{{ k | replace:"_"," " | capitalize }}</dt>
-            <dd>{{ v }}</dd>
-          {% endif %}
-        {% endunless %}
-      {% endfor %}
-    </dl>
-  </div>
+<article class="page h-entry manuscript">
 
-  {% if page.pdf %}
-    <div class="manuscript__pdf">
-      <object data="{{ page.pdf | relative_url }}" type="application/pdf" width="100%" height="800px">
-        <p><a href="{{ page.pdf | relative_url }}">Download the PDF</a></p>
-      </object>
+  {%- comment -%}
+  Minimal Mistakes "single" already outputs <h1> for page.title,
+  so we do NOT repeat it here.
+  {%- endcomment -%}
+
+  <section class="page__content e-content" itemprop="articleBody">
+
+    {%- comment -%}
+    --- Metadata section ---
+    Displays any YAML front matter fields not in the reserved list.
+    {%- endcomment -%}
+    <div class="page__meta">
+      <dl>
+        {% assign reserved = "layout,title,permalink,date,published,excerpt,categories,tags,author_profile,collection,header" | split: "," %}
+        {% for pair in page %}
+          {% assign k = pair[0] %}
+          {% assign v = pair[1] %}
+          {% unless reserved contains k or v == nil or v == "" %}
+            {% if k == "pdf" %}
+              <dt>File</dt>
+              <dd><a href="{{ v | relative_url }}" target="_blank" rel="noopener">Download PDF</a></dd>
+            {% else %}
+              <dt>{{ k | replace:"_"," " | capitalize }}</dt>
+              <dd>{{ v }}</dd>
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+      </dl>
     </div>
-  {% endif %}
 
-  <div class="manuscript__content">
-    {{ content }}
-  </div>
-</div>
+    {%- comment -%}
+    --- Embedded PDF preview (short height) ---
+    {%- endcomment -%}
+    {% if page.pdf %}
+      <div class="manuscript__pdf" style="margin-top: 1em; margin-bottom: 1.5em;">
+        <object
+          data="{{ page.pdf | relative_url }}"
+          type="application/pdf"
+          width="100%"
+          height="600px">
+          <p><a href="{{ page.pdf | relative_url }}">View or Download PDF</a></p>
+        </object>
+      </div>
+    {% endif %}
+
+    {%- comment -%}
+    --- Page body content ---
+    {%- endcomment -%}
+    <div class="manuscript__content">
+      {{ content }}
+    </div>
+
+  </section>
+</article>

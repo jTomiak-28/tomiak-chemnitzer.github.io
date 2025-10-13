@@ -2,10 +2,12 @@
 title: "Digital Instrument"
 layout: splash
 permalink: /digital-instrument/
+author_profile: true
 header:
-  overlay_image: /assets/images/chemnitzer-front.jpg
-  overlay_filter: "0.5"
-  cta_label: "Download SFZ"
-  cta_url: "/downloads/concertina.sfz"
+  overlay_image: /assets/images/lily/jtom-11.jpg
+  overlay_filter: "0.3"
+  image_description: "The Chemnitzer instrument on a coffee table"
 ---
-This page describes how I created a digital SFZ instrument from my great-grandfather’s Chemnitzer concertina.
+The Chemnitzer's unique, rich sound is now available as a SFZ digital instrument - download below and try it out for yourself!
+
+The digital instrument was created by carefully sampling each note of the instrument.

@@ -4,9 +4,9 @@ title: "Home"
 permalink: /
 author_profile: true
 header:
-  overlay_image: /assets/images/chemnitzer-left.jpg
+  overlay_image: /assets/images/headers/coffee-table-close.jpg
   overlay_filter: 0.5
-  caption: "My great-grandfather’s Chemnitzer concertina"
+  image_description: "Close-up of the Chemnitzer on a coffee table."
 ---
 Welcome! This site explores the story and sound of an iconic polka instrument passed through the Tomiak family.
 

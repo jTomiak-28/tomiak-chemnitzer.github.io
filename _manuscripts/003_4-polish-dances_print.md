@@ -12,3 +12,4 @@ layout: manuscript
 header:
   teaser: "/assets/images/manuscript-images/003_4-polish-dances_print.jpg"
 ---
+This is a test line of content to define width.

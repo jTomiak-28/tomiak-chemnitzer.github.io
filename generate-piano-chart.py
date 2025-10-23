@@ -170,4 +170,9 @@ plt.legend(
 
 # Adjust figure layout so the legends fit
 plt.subplots_adjust(left=0.25, right=0.98)  # make room on left for legends
+
+#save to svg
+plt.savefig("assets/images/figures/chemnitzer-coverage.svg", bbox_inches='tight')
+
 plt.show()
+

@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import matplotlib.colors as mcolors
 import matplotlib.patches as mpatches
+from colorsys import rgb_to_hls, hls_to_rgb
 
 # --- Load data ---
 df = pd.read_csv("full-mapping.csv")
@@ -43,14 +44,13 @@ coverage["base_color"] = coverage["Sides"].apply(key_color)
 
 # --- Apply brightness scaling ---
 def adjust_brightness(color, factor):
-    rgb = mcolors.to_rgb(color)
-    # Exaggerate contrast: factor^γ for nonlinear curve
-    gamma = 1.5  # try 1.5–2.0 for stronger contrast
+    r, g, b = mcolors.to_rgb(color)
+    h, l, s = rgb_to_hls(r, g, b)
+    gamma = 1.5
     factor = factor ** gamma
-    # scale between 0.3 and 1.0 (so darkest keys still visible)
-    min_brightness, max_brightness = 0.3, 1.0
-    scaled = min_brightness + factor * (max_brightness - min_brightness)
-    return tuple(min(1, c * scaled) for c in rgb)
+    min_l, max_l = 0.3, 0.9
+    l_new = min_l + factor * (max_l - min_l)
+    return hls_to_rgb(h, l_new, s)
 
 coverage["color"] = [
     adjust_brightness(c, i) for c, i in zip(coverage["base_color"], coverage["intensity"])
@@ -147,12 +147,27 @@ legend_patches = [
     mpatches.Patch(color='green', label='Both Hands')
 ]
 
-# Combine the two legend groups
-first_legend = plt.legend(handles=legend_patches,
-                          title="Hand Side", loc='upper left', frameon=True)
-ax.add_artist(first_legend)
-plt.legend(handles=legend_colors,
-           title="Number of Buttons (Brightness)",
-           loc='upper right', frameon=True)
+# --- Place legends outside the keyboard area (left side) ---
 
+# Hand Side legend (top-left outside)
+first_legend = plt.legend(
+    handles=legend_patches,
+    title="Hand Side",
+    loc='upper left',
+    bbox_to_anchor=(-0.20, 1.0),   # (x, y) relative to axes
+    frameon=True
+)
+ax.add_artist(first_legend)
+
+# Brightness legend (below the first one, still off to the left)
+plt.legend(
+    handles=legend_colors,
+    title="Number of Buttons (Brightness)",
+    loc='upper left',
+    bbox_to_anchor=(-0.20, 0.5),   # adjust y to control spacing
+    frameon=True
+)
+
+# Adjust figure layout so the legends fit
+plt.subplots_adjust(left=0.25, right=0.98)  # make room on left for legends
 plt.show()

@@ -11,9 +11,9 @@ layout: default # Inherit from the default layout for MM theme structure
 
   {% comment %} PDF VIEWER SECTION {% endcomment %}
   <section class="pdf-viewer-container">
-    {% assign pdf_path = "/assets/manuscripts/" | append: piece.file_name %}
+    {% assign pdf_path = piece.pdf %}
     
-    {% if piece.file_name %}
+    {% if piece.pdf %}
       <h2>Sheet Music PDF</h2>
       <iframe src="{{ pdf_path | absolute_url }}" style="width: 100%; height: 800px;" frameborder="0">
         This browser does not support PDFs. Please download the PDF to view it:
@@ -28,7 +28,6 @@ layout: default # Inherit from the default layout for MM theme structure
 
   {% comment %} METADATA SECTION {% endcomment %}
   <section class="metadata-table">
-    <h2>Piece Metadata</h2>
     <dl>
       {% comment %} 
       Iterate through the desired fields. 

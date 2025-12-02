@@ -24,9 +24,43 @@ collection to produce this comprehensive archive of sheet music.
   />
 </div>
 
-<div class="grid__wrapper">
+<div class="grid__wrapper" id="manuscript-grid">
   {% for post in site.manuscripts %}
-    {% include archive-single.html type="grid" %}
+    <div class="grid__item"
+      data-title="{{ post.title | escape }}"
+      data-key="{{ post.key | escape }}"
+      data-meter="{{ post.meter | escape }}"
+      data-number="{{ post.number | escape }}"
+      data-type="{{ post.piece_type | escape }}"
+      data-notes="{{ post.notes | escape }}"
+      data-excerpt="{{ post.excerpt | escape }}"
+    >
+      {% include archive-single.html type="grid" %}
+    </div>
   {% endfor %}
 </div>
 
+<script>
+document.getElementById("manuscript-search").addEventListener("input", function () {
+    const query = this.value.toLowerCase();
+    const items = document.querySelectorAll(".manuscript-item");
+
+    items.forEach(item => {
+        const haystack =
+            (item.dataset.title + " " +
+             item.dataset.number + " " +
+             item.dataset.key + " " +
+             item.dataset.meter + " " +
+             item.dataset.type + " " +
+             item.dataset.notes + " " +
+             item.dataset.content
+            ).toLowerCase();
+
+        if (haystack.includes(query)) {
+            item.style.display = "";
+        } else {
+            item.style.display = "none";
+        }
+    });
+});
+</script>

@@ -11,9 +11,9 @@ publication_place: "1017 Milwaukee Ave., Chicago, Ill."
 copyright_holder: "W. H. Sajewski"
 copyright_year: "1927"
 medium: "print"
-pdf: "/assets/manuscripts/260_troske-mi-sie_print.pdf"
+pdf: "/assets/manuscripts/260_troszke-mi-sie_print.pdf"
 excerpt: "G major, 3/4"
 layout: manuscript
 header:
-  teaser: "/assets/images/manuscript-images/260_troske-mi-sie_print.jpg"
+  teaser: "/assets/images/manuscript-images/260_troszke-mi-sie_print.jpg"
 ---

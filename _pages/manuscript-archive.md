@@ -20,9 +20,16 @@ collection to produce this comprehensive archive of sheet music.
   style="width:100%; padding:0.6em; font-size:1.1em; margin-bottom:1.2em;"
 >
 
+<style>
+/* This custom class ensures items are hidden without breaking the grid */
+.manuscript-item.is-hidden {
+  display: none;
+}
+</style>
+
 <div class="grid__wrapper" id="manuscript-grid">
   {% for post in site.manuscripts %}
-    <div class="manuscript-item"
+    <div class="manuscript-item grid__item"
       data-title="{{ post.title | escape }}"
       data-number="{{ post.number | escape }}"
       data-key="{{ post.key | escape }}"
@@ -37,26 +44,32 @@ collection to produce this comprehensive archive of sheet music.
 </div>
 
 <script>
-document.getElementById("manuscript-search").addEventListener("input", function () {
-    const query = this.value.toLowerCase();
+document.addEventListener("DOMContentLoaded", function() {
+    const searchInput = document.getElementById("manuscript-search");
     const items = document.querySelectorAll(".manuscript-item");
 
-    items.forEach(item => {
-        const haystack =
-            (item.dataset.title + " " +
-             item.dataset.number + " " +
-             item.dataset.key + " " +
-             item.dataset.meter + " " +
-             item.dataset.type + " " +
-             item.dataset.notes + " " +
-             item.dataset.content
-            ).toLowerCase();
+    searchInput.addEventListener("input", function () {
+        const query = this.value.toLowerCase().trim();
 
-        if (haystack.includes(query)) {
-            item.style.display = "";
-        } else {
-            item.style.display = "none";
-        }
+        items.forEach(item => {
+            // Include all your data attributes in the search
+            const haystack =
+                (item.dataset.title + " " +
+                 item.dataset.number + " " +
+                 item.dataset.key + " " +
+                 item.dataset.meter + " " +
+                 item.dataset.type + " " +
+                 item.dataset.notes + " " +
+                 item.dataset.content
+                ).toLowerCase();
+
+            // Toggle the visibility class
+            if (haystack.includes(query)) {
+                item.classList.remove("is-hidden");
+            } else {
+                item.classList.add("is-hidden");
+            }
+        });
     });
 });
 </script>

@@ -11,7 +11,7 @@ The Chemnitzer's unique, rich sound is now available as a SFZ digital instrument
 
 The digital instrument was created by carefully sampling each note of the instrument.
 
-<a href="/assets/sfz/Chemnitzer.zip" download
+<a href="https://github.com/jTomiak-28/tomiak-chemnitzer.github.io/releases/download/v1.0/Chemnitzer.zip" download
    style="
      display: inline-block;
      padding: 0.6em 1.2em;

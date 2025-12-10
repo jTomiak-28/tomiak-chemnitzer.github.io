@@ -13,54 +13,8 @@ header:
 My grandfather Walter Waczka had a collection of over 300 pieces of sheet music. I scanned and sorted his
 collection to produce this comprehensive archive of sheet music.
 
-
-<!-- Search bar for manuscripts -->
-<div style="margin-bottom: 1.5em;">
-  <input
-    id="manuscript-search"
-    type="text"
-    placeholder="Search manuscripts…"
-    style="width: 100%; padding: 0.6em; font-size: 1.1em; border: 1px solid #ccc; border-radius: 4px;"
-  />
-</div>
-
-<div class="grid__wrapper" id="manuscript-grid">
+<div class="grid__wrapper">
   {% for post in site.manuscripts %}
-    <div class="grid__item"
-      data-title="{{ post.title | escape }}"
-      data-key="{{ post.key | escape }}"
-      data-meter="{{ post.meter | escape }}"
-      data-number="{{ post.number | escape }}"
-      data-type="{{ post.piece_type | escape }}"
-      data-notes="{{ post.notes | escape }}"
-      data-excerpt="{{ post.excerpt | escape }}"
-    >
-      {% include archive-single.html type="grid" %}
-    </div>
+    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-
-<script>
-document.getElementById("manuscript-search").addEventListener("input", function () {
-    const query = this.value.toLowerCase();
-    const items = document.querySelectorAll(".manuscript-item");
-
-    items.forEach(item => {
-        const haystack =
-            (item.dataset.title + " " +
-             item.dataset.number + " " +
-             item.dataset.key + " " +
-             item.dataset.meter + " " +
-             item.dataset.type + " " +
-             item.dataset.notes + " " +
-             item.dataset.content
-            ).toLowerCase();
-
-        if (haystack.includes(query)) {
-            item.style.display = "";
-        } else {
-            item.style.display = "none";
-        }
-    });
-});
-</script>

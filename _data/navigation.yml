@@ -1,11 +1,7 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Chemnitzer Digital Instrument"
-    url: /digital-instrument/
-  - title: "Manuscript Archive"
-    url: /manuscript-archive/
   - title: "Articles"
     url: /articles/
-  - title: "About"
-    url: /about/
+  - title: "Manuscript Archive"
+    url: /manuscript-archive/
+  - title: "Chemnitzer Digital Instrument"
+    url: /digital-instrument/

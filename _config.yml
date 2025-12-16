@@ -40,6 +40,10 @@ collections:
     output: true
     permalink: /manuscript-archive/:slug/
 
+  articles:
+    output: true
+    permalink: /articles/:slug/
+
 defaults:
   # _manuscripts
   - scope:

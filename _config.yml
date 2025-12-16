@@ -3,6 +3,7 @@ description: "Built with Minimal Mistakes and GitHub Pages"
 theme: null
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 url: "https://tomiakchemnitzer.com"
+favicon: "/assets/images/favicons/"
 
 author:
   name: "Josh Tomiak"

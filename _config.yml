@@ -6,13 +6,16 @@ url: "https://tomiakchemnitzer.com"
 favicon: "/assets/images/favicons/"
 
 author:
-  name: "Josh Tomiak"
-  avatar: assets/images/headshot.jpg
+  name: "Tomiak Chemnitzer"
+  avatar: assets/images/favicon.png
   bio: >-
-    Josh studies music, computer science, and religion at UVA (class of 2026).
-    When his grandparents showed him the Chemnitzer concertina that his great-grandather Walter Maczka played, 
-    he was intrigued and set out to learn more about its story (and how to play it, a little!)
-    This site became his medium to share the story of the concertina and its unique sound.
+    <ul class="sidebar-nav">
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/articles/">Articles</a></li>
+      <li><a href="/manuscript-archive/">Manuscript Archive</a></li>
+      <li><a href="/digital-instrument/">Digital Instrument</a></li>
+    </ul>
 
 plugins:
   - jekyll-include-cache

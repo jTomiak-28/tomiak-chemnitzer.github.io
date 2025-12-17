@@ -1,0 +1,50 @@
+/* Global Styles */
+
+/* --- Sidebar Navigation --- */
+.sidebar-nav {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+  li {
+    border-bottom: 1px solid #f2f2f2;
+    a {
+      display: block;
+      padding: 0.6em 0;
+      color: #333;
+      font-weight: bold;
+      &:hover { color: #007bff; }
+    }
+  }
+}
+
+/* --- Global Article Adjustments --- */
+.page__content {
+  font-size: 0.95em;
+  figure {
+    max-width: 70%;
+    margin: 0 auto;
+    &.full-width-figure { max-width: 100%; }
+  }
+}
+
+/* Hide the top bar on Desktop */
+@media (min-width: 600px) {
+  .masthead {
+    display: none !important;
+  }
+}
+
+/* Keep the top bar on Mobile */
+/* (Since the sidebar menu often jumps to the bottom on small screens) */
+@media (max-width: 600px) {
+  .masthead {
+    display: block;
+  }
+}
+
+/* Standardize Header/Banner Height */
+.page__hero--overlay {
+  height: 250px !important; 
+  min-height: 250px !important;
+  max-height: 250px !important; /* Force a hard limit */
+}

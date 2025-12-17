@@ -1,7 +1,8 @@
 ---
 title: "Digital Instrument"
-layout: splash
+layout: single
 permalink: /digital-instrument/
+author_profile: true
 header:
   overlay_image: /assets/images/headers/instrument-header.jpg
   overlay_filter: "0.3"

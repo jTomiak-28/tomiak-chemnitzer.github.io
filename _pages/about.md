@@ -2,6 +2,11 @@
 permalink: /about/
 title: "About"
 layout: single
+author_profile: true
+header:
+  teaser: /assets/images/lily/jtom-13.jpg
+  overlay_image: /assets/images/lily/jtom-13.jpg 
+  overlay_filter: 0.5
 ---
 Hi, I'm Josh Tomiak.  I created the Tomiak Chemnitzer Site to share the story and sound of a Chemnitzer
 concertina passed through the Tomiak family. The Chemnitzer is an accordion-like

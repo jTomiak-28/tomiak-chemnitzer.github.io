@@ -1,0 +1,11 @@
+---
+    #Front matter
+---
+
+/* 1. Tell the site to load the base Minimal Mistakes styles */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes"; 
+
+/* 2. Tell the site to load your personal CSS from the _sass folder */
+@import "custom-styles";
+

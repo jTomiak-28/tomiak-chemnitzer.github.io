@@ -11,7 +11,7 @@ header:
   image_description: "The Chemnitzer instrument on a mantle next to a vintage radio"
 ---
 <link rel="preload" as="image" href="/assets/images/headers/radio-and-conc.jpg" fetchpriority="high">
-My great-grandfather Walter Waczka had a collection of over 300 pieces of sheet music. I scanned and sorted his
+My great-grandfather Walter Maczka had a collection of over 300 pieces of sheet music. I scanned and sorted his
 collection to make these pieces available for practice and study.  You can search the library below by title,
 key, publisher, date, and more - any of the info listed on that piece's page.
 

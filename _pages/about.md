@@ -12,7 +12,7 @@ Hi, I'm Josh Tomiak.  I created this site to share the story and sound of a Chem
 
 <figure>
   <img src="/assets/images/generations.jpg" alt="Two photos of young men each holding the same Chemnitzer, the right photo in black in white.">
-  <figcaption>Me, Josh Tomiak (left) and my great-grandfather Walter Mazcka (right)
+  <figcaption>Me, Josh Tomiak (left) and my great-grandfather Walter Maczka (right)
   </figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Ken Yagelski has created a lovely site at [concertinamusic.com](https://concerti
 Finally, I must thank my grandparents Bernie and Wayne Tomiak for their support of this project from the beginning.  I'm so glad you two introduced me to the concertina and let me run off with it - this has been a very special way to learn about the family and hear more of your stories.
 
 <figure>
-  <img src="/assets/images/family/walter-w-babcia.jpg" alt="A couple standing together">
-  <figcaption>My wonderful grandparents. Walter was Bernie's dad :)
+  <img src="/assets/images/family/n-and-g.jpg" alt="A couple sitting together">
+  <figcaption>My wonderful grandparents Bernie and Wayne. Walter was Bernie's dad.
   </figcaption>
 </figure>

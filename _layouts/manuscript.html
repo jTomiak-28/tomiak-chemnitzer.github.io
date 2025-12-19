@@ -6,7 +6,9 @@ layout: default # Inherit from the default layout for MM theme structure
 
 <article class="page" itemscope itemtype="https://schema.org/MusicComposition">
   {% if piece.title %}
-    <h1 class="page__title" itemprop="name">{{ piece.title }}</h1>
+    <h1 class="page__title" itemprop="name" style="margin-top: 2em; margin-bottom: 1em;">
+      {{ piece.title }}
+    </h1>
   {% endif %}
 
   {% comment %} PDF VIEWER SECTION {% endcomment %}

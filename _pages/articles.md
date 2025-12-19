@@ -19,16 +19,18 @@ header:
 </div>
 
 <style>
+/* Base Grid (Desktop/Tablet) */
+#articles-grid {
+  display: grid;
+  /* Reduced 400px to 280px to ensure it fits on mobile */
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem; /* Slightly tighter gaps for better fit */
+}
+
 #articles-grid .grid__item {
   width: 100%;
   max-width: none;
   margin-bottom: 0;
-}
-
-#articles-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-  gap: 2.5rem;
 }
 
 #articles-grid .archive__item {
@@ -37,20 +39,41 @@ header:
   padding: 1rem;
   background: #f2f2f2;
   box-shadow: 0 2px 5px rgba(0,0,0,0.08); 
+  height: 100%; /* Ensures all boxes in a row are the same height */
+}
+
+/* Mobile-Specific Adjustments (Screens smaller than 600px) */
+@media (max-width: 600px) {
+  #articles-grid {
+    grid-template-columns: 1fr; /* Force single column */
+    gap: 1rem;
+    padding: 0 10px; /* Prevents boxes from touching screen edges */
+  }
+
+  #articles-grid .archive__item {
+    padding: 0.8rem; /* Tighter padding inside the box */
+  }
+
+  #articles-grid .archive__item-title {
+    font-size: 1.1rem; /* Slightly smaller text for small screens */
+  }
 }
 
 #articles-grid .archive__item-teaser {
   max-height: none; 
   height: auto;
-  overflow: visible;
+  overflow: hidden;
+  margin: -1rem -1rem 1rem -1rem; /* Negative margin pulls image to the very edges of the gray box */
 }
 
 #articles-grid .archive__item-teaser img {
   width: 100%;
   height: auto; 
   display: block;
-  border-radius: 4px;
-  object-fit: cover; /* Ensures the image covers the area nicely without squishing */
+  border-radius: 10px 10px 0 0; /* Rounds only the top corners to match the box */
+  /* Change 'cover' to 'contain' if you want the full image without any cropping, 
+     but 'unset' is usually best for a "zoomed-out" natural look */
+  object-fit: fill; 
 }
 
 #articles-grid .archive__item-title {

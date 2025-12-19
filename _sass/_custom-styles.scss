@@ -17,6 +17,12 @@
   }
 }
 
+/* Hide the 'Follow' button and social toggles in the sidebar */
+.author__urls-wrapper button, 
+.author__urls-wrapper .author__urls {
+  display: none !important;
+}
+
 /* --- Global Article Adjustments --- */
 .page__content {
   font-size: 0.95em;
@@ -38,7 +44,7 @@
 /* (Since the sidebar menu often jumps to the bottom on small screens) */
 @media (max-width: 600px) {
   .masthead {
-    display: block;
+    display: none !important;
   }
 }
 

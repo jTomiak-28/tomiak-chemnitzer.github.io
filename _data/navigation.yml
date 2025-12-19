@@ -1,7 +1,7 @@
 main:
   - title: "Articles"
     url: /articles/
-  - title: "Manuscript Archive"
-    url: /manuscript-archive/
+  - title: "Music Library"
+    url: /music-library/
   - title: "Chemnitzer Digital Instrument"
     url: /digital-instrument/

@@ -23,7 +23,7 @@ header:
 </style>
 
 
-Welcome! This site explores the story and sound of an iconic polka instrument passed through the Tomiak family. Here you'll find articles about the concertina, a library of my great-grandfather's music, and a digital instrument sampled from the Chemnitzer.
+Welcome! This site explores the story and sound of an iconic polka instrument passed through the Tomiak family. Here you'll find [articles](https://tomiakchemnitzer.com/articles) about the concertina, a [library](https://tomiakchemnitzer.com/music-library) of my great-grandfather's music, and a [digital instrument](https://tomiakchemnitzer.com/digital-instrument) sampled from the Chemnitzer.
 
 <figure>
   <img src="/assets/images/lily/jtom-37.jpg" alt="A young man holding a square orange instrument">

@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.3"
   image_description: "The Chemnitzer held in a playing position"
 ---
-The Chemnitzer's unique, rich sound is now available as a Sforzando digital instrument - download below and try it out for yourself!  The .SFZ file can be loaded as a MIDI instrument by the free Plogue Sforzando player on any platform.
+The Chemnitzer's unique, rich sound is now available as a Sforzando digital instrument - download below and try it out for yourself!  The .SFZ file can be loaded as a MIDI instrument by the free [Plogue Sforzando player](https://www.plogue.com/downloads.html#sforzando) on any platform.
 
 <a href="https://github.com/jTomiak-28/tomiak-chemnitzer.github.io/releases/download/v1.0/Chemnitzer.zip" download
    style="

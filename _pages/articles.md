@@ -22,58 +22,42 @@ header:
 /* Base Grid (Desktop/Tablet) */
 #articles-grid {
   display: grid;
-  /* Reduced 400px to 280px to ensure it fits on mobile */
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.5rem; /* Slightly tighter gaps for better fit */
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr)); 
+  gap: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 #articles-grid .grid__item {
   width: 100%;
-  max-width: none;
-  margin-bottom: 0;
+  display: flex; /* Ensures the inner .archive__item stretches to full height */
 }
 
 #articles-grid .archive__item {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
   border: 1px solid #e0e0e0;
   border-radius: 10px;
   padding: 1rem;
   background: #f2f2f2;
   box-shadow: 0 2px 5px rgba(0,0,0,0.08); 
-  height: 100%; /* Ensures all boxes in a row are the same height */
-}
-
-/* Mobile-Specific Adjustments (Screens smaller than 600px) */
-@media (max-width: 600px) {
-  #articles-grid {
-    grid-template-columns: 1fr; /* Force single column */
-    gap: 1rem;
-    padding: 0 10px; /* Prevents boxes from touching screen edges */
-  }
-
-  #articles-grid .archive__item {
-    padding: 0.8rem; /* Tighter padding inside the box */
-  }
-
-  #articles-grid .archive__item-title {
-    font-size: 1.1rem; /* Slightly smaller text for small screens */
-  }
 }
 
 #articles-grid .archive__item-teaser {
-  max-height: none; 
-  height: auto;
+  margin: -1rem -1rem 1rem -1rem; /* Edge-to-edge image */
+  max-height: none !important;
+  height: auto !important;
   overflow: hidden;
-  margin: -1rem -1rem 1rem -1rem; /* Negative margin pulls image to the very edges of the gray box */
 }
 
 #articles-grid .archive__item-teaser img {
   width: 100%;
-  height: auto; 
+  height: 400px;
+  object-fit: cover; 
+  object-position: center 20%; 
   display: block;
-  border-radius: 10px 10px 0 0; /* Rounds only the top corners to match the box */
-  /* Change 'cover' to 'contain' if you want the full image without any cropping, 
-     but 'unset' is usually best for a "zoomed-out" natural look */
-  object-fit: fill; 
+  border-radius: 10px 10px 0 0;
 }
 
 #articles-grid .archive__item-title {
@@ -85,5 +69,19 @@ header:
 #articles-grid .archive__item-excerpt {
   font-size: 0.8rem;
   margin-top: 0.5rem;
+  flex-grow: 1; /* Pushes the bottom of the card down if text is short */
+}
+
+/* Mobile-Specific Adjustments */
+@media (max-width: 600px) {
+  #articles-grid {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+    padding: 0 10px;
+  }
+
+  #articles-grid .archive__item-teaser img {
+    height: 200px !important;
+  }
 }
 </style>

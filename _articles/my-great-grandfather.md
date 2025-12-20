@@ -84,13 +84,13 @@ We look at a grainy black-and-white photo of Walter with his family on vacation 
   </figcaption>
 </figure>
 
-If you're wondering, Maczka is pronounced "mat-ska."  It's a Polish name – Walter and his whole family were Polish.  His parents Valentine and Angeline were both children when their families immigrated, as best Bernie can recall.  They lived in a neighborhood by Newport Avenue in the Southwest of the city.  "[It was] quite heavily Polish," recalls Bernie.
+If you're wondering, Maczka is pronounced "mat-ska."  It's a Polish name – Walter and his whole family were Polish.  His parents Valentine and Angeline were both children when their families immigrated, as best Bernie can recall.  After Walter married Estelle, they lived in a neighborhood by Newport Avenue in the Northwest side the city.  That's where Bernie grew up.  "[It was] quite heavily Polish," she recalls.
 
 The parents sent Bernie to a Polish school downtown, where she studied Polish language and learned traditional dances while in costume.  "They wanted us to learn the Polish culture," she says.  Polka music was a piece of this culture too.  Many of the school's dances were set to polka, and Bernie says, "[Polka] was my mom and dad's favorite."  She remembers jukeboxes and radio stations dedicated to the genre.  But she tells me her generation was more interested in other music: "What we now call the oldies," she says – 50s and 60s pop.  "The Beatles, for one," she recalls clearly.
 
 <figure>
   <img src="/assets/images/family/the-fam.jpg" alt="(Black and white) A family of seven all dressed up for a nice photo.">
-  <figcaption>Bernie's family at her parents' 25th anniversary. From left to right: John, Estelle, Valentine, Melanie, Joan, Bernie, and Wally.
+  <figcaption>Bernie's family at her parents' 25th anniversary. From left to right: John, Estelle, Walter, Melanie, Joan, Bernie, and Wally.
   </figcaption>
 </figure>
 

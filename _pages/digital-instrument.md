@@ -10,7 +10,7 @@ header:
 ---
 The Chemnitzer's unique, rich sound is now available as a Sforzando digital instrument - download below and try it out for yourself!  The .SFZ file can be loaded as a MIDI instrument by the free [Plogue Sforzando player](https://www.plogue.com/downloads.html#sforzando) on any platform.
 
-<a href="https://github.com/jTomiak-28/tomiak-chemnitzer.github.io/releases/download/v1.0/Chemnitzer.zip" download
+<a href="https://github.com/jTomiak-28/tomiak-chemnitzer.github.io/releases/latest/download/Chemnitzer.zip" download
    style="
      display: inline-block;
      padding: 0.6em 1.2em;
@@ -22,6 +22,8 @@ The Chemnitzer's unique, rich sound is now available as a Sforzando digital inst
    ">
    Download My Instrument
 </a>
+
+Please note, you will need musical editing software such as Garage Band, Reaper, or Logic to use this digital instrument.  See the README in the downloaded folder for instructions on how to load.
 
 The Chemnitzer is capable of playing most notes between E2 and F#6. To produce this digital instrument, I sampled each of the available pitches in this range at three dynamic levels, plus a release sample.  I added some light sound control and normalization, set loop points, and configured the .SFZ file to allow Plogue to find all the proper samples. The result is a digital instrument that works naturally in a MIDI keyboard layout.
 
